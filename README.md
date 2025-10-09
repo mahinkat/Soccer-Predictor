@@ -86,6 +86,11 @@ We welcome contributions! To contribute:
 4. Push the branch: `git push origin feature-branch`.
 5. Open a Pull Request.
 
+## Future Work
+1. Make a dashboard to represent each league
+2. Add better predictors (Poison)
+3. Make player predictors/ player specific models for awards like the Ballon d'Or
+
 ## License
 This project is licensed under the MIT License.
 
