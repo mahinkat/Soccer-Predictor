@@ -1,0 +1,1647 @@
+actual_x,predicted_x,date,team_x,opponent_x,result_x,new_team_x,actual_y,predicted_y,team_y,opponent_y,result_y,new_team_y
+0,0,2023-01-11,Ajaccio,Reims,L,Ajaccio,1,0,Reims,Ajaccio,W,Reims
+0,0,2023-01-15,Ajaccio,Monaco,L,Ajaccio,1,1,Monaco,Ajaccio,W,Monaco
+0,0,2023-01-29,Ajaccio,Lyon,L,Ajaccio,1,1,Lyon,Ajaccio,W,Lyon
+1,0,2023-02-01,Ajaccio,Angers,W,Ajaccio,0,0,Angers,Ajaccio,L,Angers
+0,0,2023-02-05,Ajaccio,Nantes,L,Ajaccio,1,0,Nantes,Ajaccio,W,Nantes
+0,0,2023-02-10,Ajaccio,Nice,L,Ajaccio,1,1,Nice,Ajaccio,W,Nice
+0,0,2023-02-19,Ajaccio,Lorient,L,Ajaccio,1,0,Lorient,Ajaccio,W,Lorient
+1,0,2023-02-26,Ajaccio,Troyes,W,Ajaccio,0,0,Troyes,Ajaccio,L,Troyes
+0,0,2023-03-05,Ajaccio,Reims,L,Ajaccio,1,1,Reims,Ajaccio,W,Reims
+0,0,2023-03-12,Ajaccio,Montpellier,L,Ajaccio,1,1,Montpellier,Ajaccio,W,Montpellier
+0,0,2023-03-19,Ajaccio,Monaco,L,Ajaccio,1,0,Monaco,Ajaccio,W,Monaco
+0,0,2023-04-02,Ajaccio,Clermont,L,Ajaccio,1,0,Clermont,Ajaccio,W,Clermont
+0,0,2023-04-09,Ajaccio,Auxerre,L,Ajaccio,1,0,Auxerre,Ajaccio,W,Auxerre
+0,0,2023-04-16,Ajaccio,Strasbourg,L,Ajaccio,1,0,Strasbourg,Ajaccio,W,Strasbourg
+0,0,2023-04-23,Ajaccio,Brest,D,Ajaccio,0,0,Brest,Ajaccio,D,Brest
+0,0,2023-04-29,Ajaccio,Lille,L,Ajaccio,1,1,Lille,Ajaccio,W,Lille
+0,0,2023-05-07,Ajaccio,Toulouse,D,Ajaccio,0,0,Toulouse,Ajaccio,D,Toulouse
+0,0,2023-05-13,Ajaccio,Paris SG,L,Ajaccio,1,1,Paris SG,Ajaccio,W,Paris SG
+0,0,2023-05-21,Ajaccio,Rennes,L,Ajaccio,1,1,Rennes,Ajaccio,W,Rennes
+0,0,2023-05-27,Ajaccio,Lens,L,Ajaccio,1,1,Lens,Ajaccio,W,Lens
+1,0,2023-06-03,Ajaccio,Marseille,W,Ajaccio,0,0,Marseille,Ajaccio,L,Marseille
+0,0,2023-01-11,Angers,Paris SG,L,Angers,1,1,Paris SG,Angers,W,Paris SG
+0,0,2023-01-15,Angers,Clermont,L,Angers,1,0,Clermont,Angers,W,Clermont
+0,0,2023-01-29,Angers,Brest,L,Angers,1,0,Brest,Angers,W,Brest
+0,0,2023-02-01,Angers,Ajaccio,L,Angers,1,0,Ajaccio,Angers,W,Ajaccio
+0,0,2023-02-05,Angers,Lorient,D,Angers,0,0,Lorient,Angers,D,Lorient
+0,0,2023-02-12,Angers,Auxerre,D,Angers,0,0,Auxerre,Angers,D,Auxerre
+0,0,2023-02-18,Angers,Strasbourg,L,Angers,1,0,Strasbourg,Angers,W,Strasbourg
+0,0,2023-02-25,Angers,Lyon,L,Angers,1,0,Lyon,Angers,W,Lyon
+0,0,2023-03-05,Angers,Montpellier,L,Angers,1,1,Montpellier,Angers,W,Montpellier
+0,0,2023-03-12,Angers,Toulouse,L,Angers,1,0,Toulouse,Angers,W,Toulouse
+0,0,2023-03-18,Angers,Lens,L,Angers,1,1,Lens,Angers,W,Lens
+0,0,2023-04-02,Angers,Nice,D,Angers,0,1,Nice,Angers,D,Nice
+1,0,2023-04-08,Angers,Lille,W,Angers,0,1,Lille,Angers,L,Lille
+0,0,2023-04-16,Angers,Clermont,L,Angers,1,1,Clermont,Angers,W,Clermont
+0,0,2023-04-21,Angers,Paris SG,L,Angers,1,1,Paris SG,Angers,W,Paris SG
+0,0,2023-04-30,Angers,Rennes,L,Angers,1,1,Rennes,Angers,W,Rennes
+0,0,2023-05-07,Angers,Monaco,L,Angers,1,0,Monaco,Angers,W,Monaco
+0,0,2023-05-14,Angers,Marseille,L,Angers,1,1,Marseille,Angers,W,Marseille
+0,0,2023-05-21,Angers,Reims,D,Angers,0,0,Reims,Angers,D,Reims
+1,0,2023-05-27,Angers,Troyes,W,Angers,0,0,Troyes,Angers,L,Troyes
+0,0,2023-06-03,Angers,Nantes,L,Angers,1,0,Nantes,Angers,W,Nantes
+0,0,2024-08-18,Angers,Lens,L,Angers,1,1,Lens,Angers,W,Lens
+0,0,2024-08-24,Angers,Lille,L,Angers,1,1,Lille,Angers,W,Lille
+0,0,2024-09-01,Angers,Nice,L,Angers,1,0,Nice,Angers,W,Nice
+0,0,2024-09-15,Angers,Strasbourg,D,Angers,0,0,Strasbourg,Angers,D,Strasbourg
+0,0,2024-09-22,Angers,Nantes,D,Angers,0,1,Nantes,Angers,D,Nantes
+0,0,2024-09-29,Angers,Reims,L,Angers,1,0,Reims,Angers,W,Reims
+0,0,2024-10-04,Angers,Marseille,D,Angers,0,0,Marseille,Angers,D,Marseille
+0,0,2024-10-20,Angers,Toulouse,D,Angers,0,0,Toulouse,Angers,D,Toulouse
+1,0,2024-10-26,Angers,St Etienne,W,Angers,0,0,St Etienne,Angers,L,St Etienne
+1,0,2024-11-01,Angers,Monaco,W,Angers,0,0,Monaco,Angers,L,Monaco
+0,0,2024-11-09,Angers,Paris SG,L,Angers,1,1,Paris SG,Angers,W,Paris SG
+0,0,2024-11-24,Angers,Auxerre,L,Angers,1,1,Auxerre,Angers,W,Auxerre
+1,0,2024-12-01,Angers,Le Havre,W,Angers,0,0,Le Havre,Angers,L,Le Havre
+0,0,2024-12-07,Angers,Lyon,L,Angers,1,1,Lyon,Angers,W,Lyon
+0,0,2024-12-15,Angers,Rennes,L,Angers,1,0,Rennes,Angers,W,Rennes
+1,0,2025-01-05,Angers,Brest,W,Angers,0,1,Brest,Angers,L,Brest
+1,0,2025-01-12,Angers,Montpellier,W,Angers,0,1,Montpellier,Angers,L,Montpellier
+1,0,2025-01-19,Angers,Auxerre,W,Angers,0,0,Auxerre,Angers,L,Auxerre
+0,0,2025-01-26,Angers,Lens,L,Angers,1,1,Lens,Angers,W,Lens
+0,0,2025-02-02,Angers,Le Havre,D,Angers,0,0,Le Havre,Angers,D,Le Havre
+0,0,2025-02-09,Angers,Marseille,L,Angers,1,1,Marseille,Angers,W,Marseille
+1,0,2025-02-16,Angers,Reims,W,Angers,0,0,Reims,Angers,L,Reims
+0,0,2025-02-22,Angers,St Etienne,D,Angers,0,0,St Etienne,Angers,D,St Etienne
+0,0,2025-03-02,Angers,Toulouse,L,Angers,1,0,Toulouse,Angers,W,Toulouse
+0,0,2025-03-09,Angers,Brest,L,Angers,1,1,Brest,Angers,W,Brest
+0,0,2025-03-15,Angers,Monaco,L,Angers,1,0,Monaco,Angers,W,Monaco
+0,0,2025-03-30,Angers,Rennes,L,Angers,1,0,Rennes,Angers,W,Rennes
+0,0,2025-04-05,Angers,Paris SG,L,Angers,1,1,Paris SG,Angers,W,Paris SG
+1,0,2025-04-13,Angers,Montpellier,W,Angers,0,0,Montpellier,Angers,L,Montpellier
+0,0,2025-04-20,Angers,Nice,L,Angers,1,0,Nice,Angers,W,Nice
+0,0,2025-04-27,Angers,Lille,L,Angers,1,1,Lille,Angers,W,Lille
+1,0,2025-05-04,Angers,Nantes,W,Angers,0,0,Nantes,Angers,L,Nantes
+1,0,2025-05-10,Angers,Strasbourg,W,Angers,0,0,Strasbourg,Angers,L,Strasbourg
+0,0,2025-05-17,Angers,Lyon,L,Angers,1,1,Lyon,Angers,W,Lyon
+0,0,2023-01-11,Auxerre,Toulouse,L,Auxerre,1,0,Toulouse,Auxerre,W,Toulouse
+0,0,2023-01-14,Auxerre,Lens,L,Auxerre,1,0,Lens,Auxerre,W,Lens
+0,0,2023-01-29,Auxerre,Montpellier,L,Auxerre,1,0,Montpellier,Auxerre,W,Montpellier
+0,0,2023-02-01,Auxerre,Monaco,L,Auxerre,1,1,Monaco,Auxerre,W,Monaco
+0,0,2023-02-05,Auxerre,Reims,D,Auxerre,0,0,Reims,Auxerre,D,Reims
+0,0,2023-02-12,Auxerre,Angers,D,Auxerre,0,0,Angers,Auxerre,D,Angers
+1,0,2023-02-17,Auxerre,Lyon,W,Auxerre,0,1,Lyon,Auxerre,L,Lyon
+1,0,2023-02-26,Auxerre,Lorient,W,Auxerre,0,0,Lorient,Auxerre,L,Lorient
+0,0,2023-03-03,Auxerre,Nice,D,Auxerre,0,0,Nice,Auxerre,D,Nice
+0,0,2023-03-11,Auxerre,Rennes,D,Auxerre,0,0,Rennes,Auxerre,D,Rennes
+0,0,2023-03-19,Auxerre,Strasbourg,L,Auxerre,1,1,Strasbourg,Auxerre,W,Strasbourg
+1,0,2023-04-01,Auxerre,Troyes,W,Auxerre,0,0,Troyes,Auxerre,L,Troyes
+1,0,2023-04-09,Auxerre,Ajaccio,W,Auxerre,0,0,Ajaccio,Auxerre,L,Ajaccio
+1,0,2023-04-16,Auxerre,Nantes,W,Auxerre,0,0,Nantes,Auxerre,L,Nantes
+0,0,2023-04-22,Auxerre,Lille,D,Auxerre,0,1,Lille,Auxerre,D,Lille
+0,0,2023-04-30,Auxerre,Marseille,L,Auxerre,1,1,Marseille,Auxerre,W,Marseille
+0,0,2023-05-07,Auxerre,Clermont,D,Auxerre,0,0,Clermont,Auxerre,D,Clermont
+0,0,2023-05-14,Auxerre,Brest,L,Auxerre,1,0,Brest,Auxerre,W,Brest
+0,0,2023-05-21,Auxerre,Paris SG,L,Auxerre,1,1,Paris SG,Auxerre,W,Paris SG
+0,0,2023-05-27,Auxerre,Toulouse,D,Auxerre,0,0,Toulouse,Auxerre,D,Toulouse
+0,0,2023-06-03,Auxerre,Lens,L,Auxerre,1,1,Lens,Auxerre,W,Lens
+1,0,2024-08-18,Auxerre,Nice,W,Auxerre,0,0,Nice,Auxerre,L,Nice
+0,0,2024-08-25,Auxerre,Nantes,L,Auxerre,1,0,Nantes,Auxerre,W,Nantes
+0,0,2024-09-01,Auxerre,Le Havre,L,Auxerre,1,0,Le Havre,Auxerre,W,Le Havre
+0,0,2024-09-14,Auxerre,Monaco,L,Auxerre,1,1,Monaco,Auxerre,W,Monaco
+0,0,2024-09-22,Auxerre,Montpellier,L,Auxerre,1,0,Montpellier,Auxerre,W,Montpellier
+1,0,2024-09-27,Auxerre,Brest,W,Auxerre,0,0,Brest,Auxerre,L,Brest
+0,0,2024-10-05,Auxerre,St Etienne,L,Auxerre,1,0,St Etienne,Auxerre,W,St Etienne
+1,0,2024-10-20,Auxerre,Reims,W,Auxerre,0,1,Reims,Auxerre,L,Reims
+0,0,2024-10-27,Auxerre,Lyon,D,Auxerre,0,1,Lyon,Auxerre,D,Lyon
+1,0,2024-11-03,Auxerre,Rennes,W,Auxerre,0,0,Rennes,Auxerre,L,Rennes
+1,0,2024-11-08,Auxerre,Marseille,W,Auxerre,0,1,Marseille,Auxerre,L,Marseille
+1,1,2024-11-24,Auxerre,Angers,W,Auxerre,0,0,Angers,Auxerre,L,Angers
+0,0,2024-12-01,Auxerre,Toulouse,L,Auxerre,1,0,Toulouse,Auxerre,W,Toulouse
+0,0,2024-12-06,Auxerre,Paris SG,D,Auxerre,0,1,Paris SG,Auxerre,D,Paris SG
+0,0,2024-12-14,Auxerre,Lens,D,Auxerre,0,0,Lens,Auxerre,D,Lens
+0,0,2025-01-05,Auxerre,Strasbourg,L,Auxerre,1,0,Strasbourg,Auxerre,W,Strasbourg
+0,0,2025-01-10,Auxerre,Lille,D,Auxerre,0,0,Lille,Auxerre,D,Lille
+0,0,2025-01-19,Auxerre,Angers,L,Auxerre,1,0,Angers,Auxerre,W,Angers
+0,0,2025-01-24,Auxerre,St Etienne,D,Auxerre,0,0,St Etienne,Auxerre,D,St Etienne
+0,0,2025-02-01,Auxerre,Monaco,L,Auxerre,1,0,Monaco,Auxerre,W,Monaco
+0,0,2025-02-09,Auxerre,Toulouse,D,Auxerre,0,0,Toulouse,Auxerre,D,Toulouse
+0,0,2025-02-14,Auxerre,Brest,D,Auxerre,0,1,Brest,Auxerre,D,Brest
+1,0,2025-02-22,Auxerre,Marseille,W,Auxerre,0,1,Marseille,Auxerre,L,Marseille
+0,0,2025-03-02,Auxerre,Strasbourg,L,Auxerre,1,1,Strasbourg,Auxerre,W,Strasbourg
+1,0,2025-03-09,Auxerre,Reims,W,Auxerre,0,0,Reims,Auxerre,L,Reims
+0,0,2025-03-14,Auxerre,Nice,D,Auxerre,0,1,Nice,Auxerre,D,Nice
+1,0,2025-03-30,Auxerre,Montpellier,W,Auxerre,0,0,Montpellier,Auxerre,L,Montpellier
+1,0,2025-04-06,Auxerre,Rennes,W,Auxerre,0,0,Rennes,Auxerre,L,Rennes
+0,0,2025-04-13,Auxerre,Lyon,L,Auxerre,1,0,Lyon,Auxerre,W,Lyon
+0,0,2025-04-20,Auxerre,Lille,L,Auxerre,1,0,Lille,Auxerre,W,Lille
+1,0,2025-04-27,Auxerre,Lens,W,Auxerre,0,1,Lens,Auxerre,L,Lens
+0,0,2025-05-04,Auxerre,Le Havre,L,Auxerre,1,0,Le Havre,Auxerre,W,Le Havre
+0,0,2025-05-10,Auxerre,Nantes,D,Auxerre,0,0,Nantes,Auxerre,D,Nantes
+0,0,2025-05-17,Auxerre,Paris SG,L,Auxerre,1,0,Paris SG,Auxerre,W,Paris SG
+0,0,2023-01-11,Brest,Lille,D,Brest,0,0,Lille,Brest,D,Lille
+0,0,2023-01-15,Brest,Toulouse,D,Brest,0,0,Toulouse,Brest,D,Toulouse
+1,0,2023-01-29,Brest,Angers,W,Brest,0,0,Angers,Brest,L,Angers
+0,0,2023-02-01,Brest,Lyon,D,Brest,0,0,Lyon,Brest,D,Lyon
+0,0,2023-02-05,Brest,Lens,D,Brest,0,0,Lens,Brest,D,Lens
+0,0,2023-02-12,Brest,Montpellier,L,Brest,1,0,Montpellier,Brest,W,Montpellier
+0,0,2023-02-19,Brest,Monaco,L,Brest,1,1,Monaco,Brest,W,Monaco
+0,0,2023-02-24,Brest,Lille,L,Brest,1,1,Lille,Brest,W,Lille
+1,0,2023-03-05,Brest,Strasbourg,W,Brest,0,0,Strasbourg,Brest,L,Strasbourg
+0,0,2023-03-11,Brest,Paris SG,L,Brest,1,1,Paris SG,Brest,W,Paris SG
+0,0,2023-03-19,Brest,Troyes,D,Brest,0,0,Troyes,Brest,D,Troyes
+1,0,2023-04-02,Brest,Toulouse,W,Brest,0,0,Toulouse,Brest,L,Toulouse
+0,0,2023-04-09,Brest,Reims,D,Brest,0,1,Reims,Brest,D,Reims
+1,0,2023-04-16,Brest,Nice,W,Brest,0,0,Nice,Brest,L,Nice
+0,0,2023-04-23,Brest,Ajaccio,D,Brest,0,0,Ajaccio,Brest,D,Ajaccio
+1,0,2023-05-03,Brest,Nantes,W,Brest,0,0,Nantes,Brest,L,Nantes
+0,0,2023-05-07,Brest,Lorient,L,Brest,1,0,Lorient,Brest,W,Lorient
+1,0,2023-05-14,Brest,Auxerre,W,Brest,0,0,Auxerre,Brest,L,Auxerre
+1,0,2023-05-21,Brest,Clermont,W,Brest,0,0,Clermont,Brest,L,Clermont
+1,0,2023-05-27,Brest,Marseille,W,Brest,0,0,Marseille,Brest,L,Marseille
+0,0,2023-06-03,Brest,Rennes,L,Brest,1,1,Rennes,Brest,W,Rennes
+1,0,2023-08-13,Brest,Lens,W,Brest,0,1,Lens,Brest,L,Lens
+0,0,2023-08-26,Brest,Marseille,L,Brest,1,1,Marseille,Brest,W,Marseille
+0,0,2023-09-02,Brest,Rennes,D,Brest,0,1,Rennes,Brest,D,Rennes
+1,0,2023-09-17,Brest,Reims,W,Brest,0,0,Reims,Brest,L,Reims
+1,0,2023-09-23,Brest,Lyon,W,Brest,0,0,Lyon,Brest,L,Lyon
+0,0,2023-10-01,Brest,Nice,D,Brest,0,1,Nice,Brest,D,Nice
+0,1,2023-10-08,Brest,Toulouse,D,Brest,0,0,Toulouse,Brest,D,Toulouse
+0,0,2023-10-22,Brest,Lille,L,Brest,1,0,Lille,Brest,W,Lille
+0,0,2023-10-29,Brest,Paris SG,L,Brest,1,1,Paris SG,Brest,W,Paris SG
+0,0,2023-11-05,Brest,Monaco,L,Brest,1,1,Monaco,Brest,W,Monaco
+1,0,2023-11-26,Brest,Montpellier,W,Brest,0,0,Montpellier,Brest,L,Montpellier
+1,0,2023-12-03,Brest,Clermont,W,Brest,0,0,Clermont,Brest,L,Clermont
+0,0,2023-12-07,Brest,Strasbourg,D,Brest,0,0,Strasbourg,Brest,D,Strasbourg
+1,0,2023-12-10,Brest,Metz,W,Brest,0,0,Metz,Brest,L,Metz
+1,0,2023-12-17,Brest,Nantes,W,Brest,0,0,Nantes,Brest,L,Nantes
+1,0,2023-12-20,Brest,Lorient,W,Brest,0,0,Lorient,Brest,L,Lorient
+1,0,2024-01-14,Brest,Montpellier,W,Brest,0,0,Montpellier,Brest,L,Montpellier
+0,1,2024-01-28,Brest,Paris SG,D,Brest,0,1,Paris SG,Brest,D,Paris SG
+0,0,2024-02-04,Brest,Nice,D,Brest,0,0,Nice,Brest,D,Nice
+0,1,2024-02-11,Brest,Clermont,D,Brest,0,0,Clermont,Brest,D,Clermont
+1,0,2024-02-18,Brest,Marseille,W,Brest,0,0,Marseille,Brest,L,Marseille
+1,0,2024-02-24,Brest,Strasbourg,W,Brest,0,0,Strasbourg,Brest,L,Strasbourg
+1,1,2024-03-03,Brest,Le Havre,W,Brest,0,0,Le Havre,Brest,L,Le Havre
+0,0,2024-03-09,Brest,Lens,L,Brest,1,1,Lens,Brest,W,Lens
+0,0,2024-03-17,Brest,Lille,D,Brest,0,0,Lille,Brest,D,Lille
+1,0,2024-03-31,Brest,Lorient,W,Brest,0,0,Lorient,Brest,L,Lorient
+1,0,2024-04-07,Brest,Metz,W,Brest,0,0,Metz,Brest,L,Metz
+0,0,2024-04-14,Brest,Lyon,L,Brest,1,1,Lyon,Brest,W,Lyon
+0,0,2024-04-21,Brest,Monaco,L,Brest,1,1,Monaco,Brest,W,Monaco
+1,0,2024-04-28,Brest,Rennes,W,Brest,0,1,Rennes,Brest,L,Rennes
+0,0,2024-05-04,Brest,Nantes,D,Brest,0,0,Nantes,Brest,D,Nantes
+0,0,2024-05-10,Brest,Reims,D,Brest,0,0,Reims,Brest,D,Reims
+1,0,2024-05-19,Brest,Toulouse,W,Brest,0,0,Toulouse,Brest,L,Toulouse
+0,0,2024-08-17,Brest,Marseille,L,Brest,1,1,Marseille,Brest,W,Marseille
+0,0,2024-08-25,Brest,Lens,L,Brest,1,1,Lens,Brest,W,Lens
+1,0,2024-08-31,Brest,St Etienne,W,Brest,0,0,St Etienne,Brest,L,St Etienne
+0,0,2024-09-14,Brest,Paris SG,L,Brest,1,1,Paris SG,Brest,W,Paris SG
+1,0,2024-09-22,Brest,Toulouse,W,Brest,0,0,Toulouse,Brest,L,Toulouse
+0,0,2024-09-27,Brest,Auxerre,L,Brest,1,0,Auxerre,Brest,W,Auxerre
+1,0,2024-10-06,Brest,Le Havre,W,Brest,0,0,Le Havre,Brest,L,Le Havre
+0,0,2024-10-19,Brest,Rennes,D,Brest,0,0,Rennes,Brest,D,Rennes
+1,0,2024-10-26,Brest,Reims,W,Brest,0,1,Reims,Brest,L,Reims
+0,0,2024-11-02,Brest,Nice,L,Brest,1,0,Nice,Brest,W,Nice
+0,0,2024-11-10,Brest,Montpellier,L,Brest,1,0,Montpellier,Brest,W,Montpellier
+0,0,2024-11-22,Brest,Monaco,L,Brest,1,0,Monaco,Brest,W,Monaco
+1,0,2024-11-30,Brest,Strasbourg,W,Brest,0,0,Strasbourg,Brest,L,Strasbourg
+0,0,2024-12-06,Brest,Lille,L,Brest,1,0,Lille,Brest,W,Lille
+1,0,2024-12-15,Brest,Nantes,W,Brest,0,0,Nantes,Brest,L,Nantes
+0,1,2025-01-05,Brest,Angers,L,Brest,1,0,Angers,Brest,W,Angers
+1,0,2025-01-11,Brest,Lyon,W,Brest,0,0,Lyon,Brest,L,Lyon
+1,0,2025-01-18,Brest,Rennes,W,Brest,0,0,Rennes,Brest,L,Rennes
+1,0,2025-01-26,Brest,Le Havre,W,Brest,0,0,Le Havre,Brest,L,Le Havre
+0,0,2025-02-01,Brest,Paris SG,L,Brest,1,1,Paris SG,Brest,W,Paris SG
+1,0,2025-02-07,Brest,Nantes,W,Brest,0,0,Nantes,Brest,L,Nantes
+0,1,2025-02-14,Brest,Auxerre,D,Brest,0,0,Auxerre,Brest,D,Auxerre
+0,0,2025-02-23,Brest,Strasbourg,D,Brest,0,1,Strasbourg,Brest,D,Strasbourg
+0,0,2025-03-02,Brest,Lyon,L,Brest,1,1,Lyon,Brest,W,Lyon
+1,1,2025-03-09,Brest,Angers,W,Brest,0,0,Angers,Brest,L,Angers
+0,0,2025-03-16,Brest,Reims,D,Brest,0,0,Reims,Brest,D,Reims
+1,0,2025-03-30,Brest,Toulouse,W,Brest,0,1,Toulouse,Brest,L,Toulouse
+1,0,2025-04-05,Brest,Monaco,W,Brest,0,0,Monaco,Brest,L,Monaco
+0,0,2025-04-13,Brest,St Etienne,D,Brest,0,0,St Etienne,Brest,D,St Etienne
+0,0,2025-04-20,Brest,Lens,L,Brest,1,1,Lens,Brest,W,Lens
+0,0,2025-04-27,Brest,Marseille,L,Brest,1,0,Marseille,Brest,W,Marseille
+1,0,2025-05-04,Brest,Montpellier,W,Brest,0,0,Montpellier,Brest,L,Montpellier
+1,0,2025-05-10,Brest,Lille,W,Brest,0,0,Lille,Brest,L,Lille
+0,0,2025-05-17,Brest,Nice,L,Brest,1,0,Nice,Brest,W,Nice
+1,0,2023-01-11,Clermont,Rennes,W,Clermont,0,0,Rennes,Clermont,L,Rennes
+1,0,2023-01-15,Clermont,Angers,W,Clermont,0,0,Angers,Clermont,L,Angers
+0,0,2023-01-29,Clermont,Nantes,D,Clermont,0,0,Nantes,Clermont,D,Nantes
+0,0,2023-02-01,Clermont,Lille,D,Clermont,0,1,Lille,Clermont,D,Lille
+0,0,2023-02-05,Clermont,Monaco,L,Clermont,1,1,Monaco,Clermont,W,Monaco
+0,0,2023-02-11,Clermont,Marseille,L,Clermont,1,0,Marseille,Clermont,W,Marseille
+0,0,2023-02-19,Clermont,Rennes,L,Clermont,1,0,Rennes,Clermont,W,Rennes
+0,0,2023-02-26,Clermont,Strasbourg,D,Clermont,0,0,Strasbourg,Clermont,D,Strasbourg
+1,0,2023-03-05,Clermont,Toulouse,W,Clermont,0,0,Toulouse,Clermont,L,Toulouse
+0,0,2023-03-12,Clermont,Lens,L,Clermont,1,0,Lens,Clermont,W,Lens
+0,0,2023-03-19,Clermont,Montpellier,L,Clermont,1,0,Montpellier,Clermont,W,Montpellier
+1,0,2023-04-02,Clermont,Ajaccio,W,Clermont,0,0,Ajaccio,Clermont,L,Ajaccio
+1,0,2023-04-09,Clermont,Troyes,W,Clermont,0,0,Troyes,Clermont,L,Troyes
+1,1,2023-04-16,Clermont,Angers,W,Clermont,0,0,Angers,Clermont,L,Angers
+1,0,2023-04-23,Clermont,Nice,W,Clermont,0,0,Nice,Clermont,L,Nice
+1,0,2023-04-30,Clermont,Reims,W,Clermont,0,0,Reims,Clermont,L,Reims
+0,0,2023-05-07,Clermont,Auxerre,D,Clermont,0,0,Auxerre,Clermont,D,Auxerre
+1,0,2023-05-14,Clermont,Lyon,W,Clermont,0,0,Lyon,Clermont,L,Lyon
+0,0,2023-05-21,Clermont,Brest,L,Clermont,1,0,Brest,Clermont,W,Brest
+1,0,2023-05-27,Clermont,Lorient,W,Clermont,0,0,Lorient,Clermont,L,Lorient
+1,0,2023-06-03,Clermont,Paris SG,W,Clermont,0,1,Paris SG,Clermont,L,Paris SG
+0,0,2023-08-13,Clermont,Monaco,L,Clermont,1,0,Monaco,Clermont,W,Monaco
+0,0,2023-08-20,Clermont,Reims,L,Clermont,1,0,Reims,Clermont,W,Reims
+0,0,2023-08-27,Clermont,Metz,L,Clermont,1,0,Metz,Clermont,W,Metz
+0,0,2023-09-03,Clermont,Toulouse,D,Clermont,0,0,Toulouse,Clermont,D,Toulouse
+0,0,2023-09-17,Clermont,Nantes,L,Clermont,1,0,Nantes,Clermont,W,Nantes
+0,0,2023-09-24,Clermont,Le Havre,L,Clermont,1,0,Le Havre,Clermont,W,Le Havre
+0,0,2023-09-30,Clermont,Paris SG,D,Clermont,0,1,Paris SG,Clermont,D,Paris SG
+1,0,2023-10-22,Clermont,Lyon,W,Clermont,0,0,Lyon,Clermont,L,Lyon
+0,0,2023-10-27,Clermont,Nice,L,Clermont,1,0,Nice,Clermont,W,Nice
+0,0,2023-11-05,Clermont,Strasbourg,D,Clermont,0,0,Strasbourg,Clermont,D,Strasbourg
+1,0,2023-11-12,Clermont,Lorient,W,Clermont,0,0,Lorient,Clermont,L,Lorient
+0,0,2023-11-25,Clermont,Lens,L,Clermont,1,1,Lens,Clermont,W,Lens
+0,0,2023-11-29,Clermont,Montpellier,D,Clermont,0,0,Montpellier,Clermont,D,Montpellier
+0,0,2023-12-03,Clermont,Brest,L,Clermont,1,0,Brest,Clermont,W,Brest
+0,0,2023-12-10,Clermont,Lille,D,Clermont,0,1,Lille,Clermont,D,Lille
+0,0,2023-12-17,Clermont,Marseille,L,Clermont,1,0,Marseille,Clermont,W,Marseille
+0,0,2023-12-20,Clermont,Rennes,L,Clermont,1,0,Rennes,Clermont,W,Rennes
+1,0,2024-01-14,Clermont,Nantes,W,Clermont,0,0,Nantes,Clermont,L,Nantes
+0,0,2024-01-28,Clermont,Strasbourg,D,Clermont,0,0,Strasbourg,Clermont,D,Strasbourg
+0,0,2024-02-04,Clermont,Lille,L,Clermont,1,1,Lille,Clermont,W,Lille
+0,0,2024-02-11,Clermont,Brest,D,Clermont,0,1,Brest,Clermont,D,Brest
+0,0,2024-02-18,Clermont,Rennes,L,Clermont,1,0,Rennes,Clermont,W,Rennes
+0,0,2024-02-25,Clermont,Nice,D,Clermont,0,0,Nice,Clermont,D,Nice
+0,0,2024-03-02,Clermont,Marseille,L,Clermont,1,0,Marseille,Clermont,W,Marseille
+0,0,2024-03-10,Clermont,Metz,L,Clermont,1,0,Metz,Clermont,W,Metz
+1,0,2024-03-17,Clermont,Le Havre,W,Clermont,0,0,Le Havre,Clermont,L,Le Havre
+0,0,2024-03-31,Clermont,Toulouse,L,Clermont,1,0,Toulouse,Clermont,W,Toulouse
+0,0,2024-04-06,Clermont,Paris SG,D,Clermont,0,1,Paris SG,Clermont,D,Paris SG
+0,0,2024-04-14,Clermont,Montpellier,D,Clermont,0,0,Montpellier,Clermont,D,Montpellier
+0,0,2024-04-20,Clermont,Lens,L,Clermont,1,0,Lens,Clermont,W,Lens
+1,0,2024-04-28,Clermont,Reims,W,Clermont,0,0,Reims,Clermont,L,Reims
+0,0,2024-05-04,Clermont,Monaco,L,Clermont,1,0,Monaco,Clermont,W,Monaco
+0,0,2024-05-12,Clermont,Lyon,L,Clermont,1,0,Lyon,Clermont,W,Lyon
+0,0,2024-05-19,Clermont,Lorient,L,Clermont,1,0,Lorient,Clermont,W,Lorient
+1,0,2023-09-03,Le Havre,Lorient,W,Le Havre,0,0,Lorient,Le Havre,L,Lorient
+0,0,2023-09-17,Le Havre,Lyon,D,Le Havre,0,0,Lyon,Le Havre,D,Lyon
+1,0,2023-09-24,Le Havre,Clermont,W,Le Havre,0,0,Clermont,Le Havre,L,Clermont
+0,0,2023-10-01,Le Havre,Lille,L,Le Havre,1,0,Lille,Le Havre,W,Lille
+0,0,2023-10-08,Le Havre,Marseille,L,Le Havre,1,0,Marseille,Le Havre,W,Marseille
+0,0,2023-10-20,Le Havre,Lens,D,Le Havre,0,0,Lens,Le Havre,D,Lens
+0,0,2023-10-29,Le Havre,Metz,D,Le Havre,0,0,Metz,Le Havre,D,Metz
+1,0,2023-11-05,Le Havre,Toulouse,W,Le Havre,0,0,Toulouse,Le Havre,L,Toulouse
+0,0,2023-11-11,Le Havre,Monaco,D,Le Havre,0,1,Monaco,Le Havre,D,Monaco
+0,0,2023-11-26,Le Havre,Nantes,D,Le Havre,0,0,Nantes,Le Havre,D,Nantes
+0,0,2023-12-03,Le Havre,Paris SG,L,Le Havre,1,1,Paris SG,Le Havre,W,Paris SG
+0,0,2023-12-10,Le Havre,Strasbourg,L,Le Havre,1,0,Strasbourg,Le Havre,W,Strasbourg
+1,0,2023-12-16,Le Havre,Nice,W,Le Havre,0,0,Nice,Le Havre,L,Nice
+0,0,2023-12-20,Le Havre,Reims,L,Le Havre,1,0,Reims,Le Havre,W,Reims
+1,0,2024-01-14,Le Havre,Lyon,W,Le Havre,0,0,Lyon,Le Havre,L,Lyon
+0,0,2024-01-28,Le Havre,Lorient,D,Le Havre,0,0,Lorient,Le Havre,D,Lorient
+0,0,2024-02-04,Le Havre,Monaco,D,Le Havre,0,0,Monaco,Le Havre,D,Monaco
+0,0,2024-02-11,Le Havre,Rennes,L,Le Havre,1,0,Rennes,Le Havre,W,Rennes
+0,0,2024-02-17,Le Havre,Lille,L,Le Havre,1,1,Lille,Le Havre,W,Lille
+0,0,2024-02-25,Le Havre,Reims,L,Le Havre,1,0,Reims,Le Havre,W,Reims
+0,0,2024-03-03,Le Havre,Brest,L,Le Havre,1,1,Brest,Le Havre,W,Brest
+1,0,2024-03-10,Le Havre,Toulouse,W,Le Havre,0,0,Toulouse,Le Havre,L,Toulouse
+0,0,2024-03-17,Le Havre,Clermont,L,Le Havre,1,0,Clermont,Le Havre,W,Clermont
+0,0,2024-03-31,Le Havre,Montpellier,L,Le Havre,1,0,Montpellier,Le Havre,W,Montpellier
+0,0,2024-04-06,Le Havre,Lens,D,Le Havre,0,0,Lens,Le Havre,D,Lens
+0,0,2024-04-14,Le Havre,Nantes,L,Le Havre,1,0,Nantes,Le Havre,W,Nantes
+0,0,2024-04-21,Le Havre,Metz,L,Le Havre,1,0,Metz,Le Havre,W,Metz
+0,0,2024-04-27,Le Havre,Paris SG,D,Le Havre,0,1,Paris SG,Le Havre,D,Paris SG
+1,0,2024-05-04,Le Havre,Strasbourg,W,Le Havre,0,0,Strasbourg,Le Havre,L,Strasbourg
+0,0,2024-05-10,Le Havre,Nice,L,Le Havre,1,1,Nice,Le Havre,W,Nice
+0,0,2024-05-19,Le Havre,Marseille,L,Le Havre,1,0,Marseille,Le Havre,W,Marseille
+0,0,2024-08-16,Le Havre,Paris SG,L,Le Havre,1,0,Paris SG,Le Havre,W,Paris SG
+1,0,2024-08-24,Le Havre,St Etienne,W,Le Havre,0,0,St Etienne,Le Havre,L,St Etienne
+1,0,2024-09-01,Le Havre,Auxerre,W,Le Havre,0,0,Auxerre,Le Havre,L,Auxerre
+0,0,2024-09-15,Le Havre,Toulouse,L,Le Havre,1,0,Toulouse,Le Havre,W,Toulouse
+0,0,2024-09-22,Le Havre,Monaco,L,Le Havre,1,1,Monaco,Le Havre,W,Monaco
+0,0,2024-09-28,Le Havre,Lille,L,Le Havre,1,0,Lille,Le Havre,W,Lille
+0,0,2024-10-06,Le Havre,Brest,L,Le Havre,1,0,Brest,Le Havre,W,Brest
+0,0,2024-10-20,Le Havre,Lyon,L,Le Havre,1,0,Lyon,Le Havre,W,Lyon
+0,0,2024-10-25,Le Havre,Rennes,L,Le Havre,1,0,Rennes,Le Havre,W,Rennes
+1,0,2024-11-03,Le Havre,Montpellier,W,Le Havre,0,0,Montpellier,Le Havre,L,Montpellier
+0,0,2024-11-10,Le Havre,Reims,L,Le Havre,1,0,Reims,Le Havre,W,Reims
+1,0,2024-11-24,Le Havre,Nantes,W,Le Havre,0,0,Nantes,Le Havre,L,Nantes
+0,0,2024-12-01,Le Havre,Angers,L,Le Havre,1,0,Angers,Le Havre,W,Angers
+0,0,2024-12-07,Le Havre,Nice,L,Le Havre,1,0,Nice,Le Havre,W,Nice
+0,0,2024-12-15,Le Havre,Strasbourg,L,Le Havre,1,0,Strasbourg,Le Havre,W,Strasbourg
+0,0,2025-01-05,Le Havre,Marseille,L,Le Havre,1,0,Marseille,Le Havre,W,Marseille
+0,0,2025-01-12,Le Havre,Lens,L,Le Havre,1,0,Lens,Le Havre,W,Lens
+0,0,2025-01-19,Le Havre,Reims,D,Le Havre,0,0,Reims,Le Havre,D,Reims
+0,0,2025-01-26,Le Havre,Brest,L,Le Havre,1,0,Brest,Le Havre,W,Brest
+0,0,2025-02-02,Le Havre,Angers,D,Le Havre,0,0,Angers,Le Havre,D,Angers
+1,0,2025-02-08,Le Havre,Lille,W,Le Havre,0,1,Lille,Le Havre,L,Lille
+0,0,2025-02-16,Le Havre,Nice,L,Le Havre,1,0,Nice,Le Havre,W,Nice
+0,0,2025-02-23,Le Havre,Toulouse,L,Le Havre,1,0,Toulouse,Le Havre,W,Toulouse
+1,0,2025-03-01,Le Havre,Lens,W,Le Havre,0,0,Lens,Le Havre,L,Lens
+0,0,2025-03-09,Le Havre,St Etienne,D,Le Havre,0,0,St Etienne,Le Havre,D,St Etienne
+0,0,2025-03-16,Le Havre,Lyon,L,Le Havre,1,0,Lyon,Le Havre,W,Lyon
+1,0,2025-03-30,Le Havre,Nantes,W,Le Havre,0,0,Nantes,Le Havre,L,Nantes
+1,0,2025-04-06,Le Havre,Montpellier,W,Le Havre,0,0,Montpellier,Le Havre,L,Montpellier
+0,0,2025-04-13,Le Havre,Rennes,L,Le Havre,1,0,Rennes,Le Havre,W,Rennes
+0,0,2025-04-19,Le Havre,Paris SG,L,Le Havre,1,1,Paris SG,Le Havre,W,Paris SG
+0,0,2025-04-26,Le Havre,Monaco,D,Le Havre,0,0,Monaco,Le Havre,D,Monaco
+1,0,2025-05-04,Le Havre,Auxerre,W,Le Havre,0,0,Auxerre,Le Havre,L,Auxerre
+0,0,2025-05-10,Le Havre,Marseille,L,Le Havre,1,1,Marseille,Le Havre,W,Marseille
+1,0,2025-05-17,Le Havre,Strasbourg,W,Le Havre,0,1,Strasbourg,Le Havre,L,Strasbourg
+0,0,2023-01-11,Lens,Strasbourg,D,Lens,0,0,Strasbourg,Lens,D,Strasbourg
+1,0,2023-01-14,Lens,Auxerre,W,Lens,0,0,Auxerre,Lens,L,Auxerre
+0,0,2023-01-28,Lens,Troyes,D,Lens,0,0,Troyes,Lens,D,Troyes
+0,0,2023-02-01,Lens,Nice,L,Lens,1,0,Nice,Lens,W,Nice
+0,0,2023-02-05,Lens,Brest,D,Lens,0,0,Brest,Lens,D,Brest
+0,0,2023-02-12,Lens,Lyon,L,Lens,1,0,Lyon,Lens,W,Lyon
+1,0,2023-02-19,Lens,Nantes,W,Lens,0,0,Nantes,Lens,L,Nantes
+0,0,2023-02-25,Lens,Montpellier,D,Lens,0,0,Montpellier,Lens,D,Montpellier
+0,0,2023-03-04,Lens,Lille,D,Lens,0,0,Lille,Lens,D,Lille
+1,0,2023-03-12,Lens,Clermont,W,Lens,0,0,Clermont,Lens,L,Clermont
+1,1,2023-03-18,Lens,Angers,W,Lens,0,0,Angers,Lens,L,Angers
+1,0,2023-04-01,Lens,Rennes,W,Lens,0,0,Rennes,Lens,L,Rennes
+1,0,2023-04-07,Lens,Strasbourg,W,Lens,0,0,Strasbourg,Lens,L,Strasbourg
+0,0,2023-04-15,Lens,Paris SG,L,Lens,1,0,Paris SG,Lens,W,Paris SG
+1,0,2023-04-22,Lens,Monaco,W,Lens,0,0,Monaco,Lens,L,Monaco
+1,0,2023-05-02,Lens,Toulouse,W,Lens,0,0,Toulouse,Lens,L,Toulouse
+1,0,2023-05-06,Lens,Marseille,W,Lens,0,0,Marseille,Lens,L,Marseille
+1,0,2023-05-12,Lens,Reims,W,Lens,0,0,Reims,Lens,L,Reims
+1,0,2023-05-21,Lens,Lorient,W,Lens,0,0,Lorient,Lens,L,Lorient
+1,1,2023-05-27,Lens,Ajaccio,W,Lens,0,0,Ajaccio,Lens,L,Ajaccio
+1,1,2023-06-03,Lens,Auxerre,W,Lens,0,0,Auxerre,Lens,L,Auxerre
+0,1,2023-08-13,Lens,Brest,L,Lens,1,0,Brest,Lens,W,Brest
+0,0,2023-08-20,Lens,Rennes,D,Lens,0,0,Rennes,Lens,D,Rennes
+0,0,2023-08-26,Lens,Paris SG,L,Lens,1,0,Paris SG,Lens,W,Paris SG
+0,0,2023-09-02,Lens,Monaco,L,Lens,1,1,Monaco,Lens,W,Monaco
+0,0,2023-09-16,Lens,Metz,L,Lens,1,0,Metz,Lens,W,Metz
+1,0,2023-09-24,Lens,Toulouse,W,Lens,0,0,Toulouse,Lens,L,Toulouse
+1,0,2023-09-29,Lens,Strasbourg,W,Lens,0,0,Strasbourg,Lens,L,Strasbourg
+0,1,2023-10-08,Lens,Lille,D,Lens,0,0,Lille,Lens,D,Lille
+0,0,2023-10-20,Lens,Le Havre,D,Lens,0,0,Le Havre,Lens,D,Le Havre
+1,0,2023-10-28,Lens,Nantes,W,Lens,0,0,Nantes,Lens,L,Nantes
+0,0,2023-11-04,Lens,Lorient,D,Lens,0,0,Lorient,Lens,D,Lorient
+1,0,2023-11-12,Lens,Marseille,W,Lens,0,0,Marseille,Lens,L,Marseille
+1,1,2023-11-25,Lens,Clermont,W,Lens,0,0,Clermont,Lens,L,Clermont
+1,0,2023-12-02,Lens,Lyon,W,Lens,0,0,Lyon,Lens,L,Lyon
+0,0,2023-12-08,Lens,Montpellier,D,Lens,0,0,Montpellier,Lens,D,Montpellier
+1,0,2023-12-16,Lens,Reims,W,Lens,0,0,Reims,Lens,L,Reims
+0,0,2023-12-20,Lens,Nice,L,Lens,1,0,Nice,Lens,W,Nice
+0,0,2024-01-14,Lens,Paris SG,L,Lens,1,0,Paris SG,Lens,W,Paris SG
+1,0,2024-01-28,Lens,Toulouse,W,Lens,0,0,Toulouse,Lens,L,Toulouse
+1,0,2024-02-03,Lens,Nantes,W,Lens,0,0,Nantes,Lens,L,Nantes
+1,0,2024-02-10,Lens,Strasbourg,W,Lens,0,0,Strasbourg,Lens,L,Strasbourg
+0,0,2024-02-18,Lens,Reims,D,Lens,0,0,Reims,Lens,D,Reims
+0,0,2024-02-25,Lens,Monaco,L,Lens,1,0,Monaco,Lens,W,Monaco
+1,0,2024-03-03,Lens,Lyon,W,Lens,0,0,Lyon,Lens,L,Lyon
+1,1,2024-03-09,Lens,Brest,W,Lens,0,0,Brest,Lens,L,Brest
+0,0,2024-03-16,Lens,Nice,L,Lens,1,0,Nice,Lens,W,Nice
+0,0,2024-03-29,Lens,Lille,L,Lens,1,0,Lille,Lens,W,Lille
+0,0,2024-04-06,Lens,Le Havre,D,Lens,0,0,Le Havre,Lens,D,Le Havre
+0,0,2024-04-12,Lens,Metz,L,Lens,1,0,Metz,Lens,W,Metz
+1,0,2024-04-20,Lens,Clermont,W,Lens,0,0,Clermont,Lens,L,Clermont
+0,0,2024-04-28,Lens,Marseille,L,Lens,1,0,Marseille,Lens,W,Marseille
+1,0,2024-05-03,Lens,Lorient,W,Lens,0,0,Lorient,Lens,L,Lorient
+0,0,2024-05-12,Lens,Rennes,D,Lens,0,0,Rennes,Lens,D,Rennes
+0,0,2024-05-19,Lens,Montpellier,D,Lens,0,0,Montpellier,Lens,D,Montpellier
+1,1,2024-08-18,Lens,Angers,W,Lens,0,0,Angers,Lens,L,Angers
+1,1,2024-08-25,Lens,Brest,W,Lens,0,0,Brest,Lens,L,Brest
+0,0,2024-09-01,Lens,Monaco,D,Lens,0,0,Monaco,Lens,D,Monaco
+0,0,2024-09-15,Lens,Lyon,D,Lens,0,0,Lyon,Lens,D,Lyon
+0,0,2024-09-21,Lens,Rennes,D,Lens,0,0,Rennes,Lens,D,Rennes
+0,0,2024-09-28,Lens,Nice,D,Lens,0,0,Nice,Lens,D,Nice
+0,0,2024-10-06,Lens,Strasbourg,D,Lens,0,0,Strasbourg,Lens,D,Strasbourg
+1,0,2024-10-19,Lens,St Etienne,W,Lens,0,0,St Etienne,Lens,L,St Etienne
+0,0,2024-10-26,Lens,Lille,L,Lens,1,0,Lille,Lens,W,Lille
+0,0,2024-11-02,Lens,Paris SG,L,Lens,1,1,Paris SG,Lens,W,Paris SG
+1,0,2024-11-09,Lens,Nantes,W,Lens,0,0,Nantes,Lens,L,Nantes
+0,0,2024-11-23,Lens,Marseille,L,Lens,1,0,Marseille,Lens,W,Marseille
+1,0,2024-11-29,Lens,Reims,W,Lens,0,0,Reims,Lens,L,Reims
+1,0,2024-12-08,Lens,Montpellier,W,Lens,0,0,Montpellier,Lens,L,Montpellier
+0,0,2024-12-14,Lens,Auxerre,D,Lens,0,0,Auxerre,Lens,D,Auxerre
+0,0,2025-01-05,Lens,Toulouse,L,Lens,1,0,Toulouse,Lens,W,Toulouse
+1,0,2025-01-12,Lens,Le Havre,W,Lens,0,0,Le Havre,Lens,L,Le Havre
+0,0,2025-01-18,Lens,Paris SG,L,Lens,1,1,Paris SG,Lens,W,Paris SG
+1,1,2025-01-26,Lens,Angers,W,Lens,0,0,Angers,Lens,L,Angers
+1,0,2025-01-31,Lens,Montpellier,W,Lens,0,0,Montpellier,Lens,L,Montpellier
+0,0,2025-02-08,Lens,Nice,L,Lens,1,0,Nice,Lens,W,Nice
+0,0,2025-02-16,Lens,Strasbourg,L,Lens,1,0,Strasbourg,Lens,W,Strasbourg
+0,0,2025-02-23,Lens,Nantes,L,Lens,1,0,Nantes,Lens,W,Nantes
+0,0,2025-03-01,Lens,Le Havre,L,Lens,1,0,Le Havre,Lens,W,Le Havre
+1,0,2025-03-08,Lens,Marseille,W,Lens,0,1,Marseille,Lens,L,Marseille
+1,0,2025-03-15,Lens,Rennes,W,Lens,0,0,Rennes,Lens,L,Rennes
+0,0,2025-03-30,Lens,Lille,L,Lens,1,0,Lille,Lens,W,Lille
+1,0,2025-04-06,Lens,St Etienne,W,Lens,0,0,St Etienne,Lens,L,St Etienne
+0,0,2025-04-11,Lens,Reims,L,Lens,1,0,Reims,Lens,W,Reims
+1,1,2025-04-20,Lens,Brest,W,Lens,0,0,Brest,Lens,L,Brest
+0,1,2025-04-27,Lens,Auxerre,L,Lens,1,0,Auxerre,Lens,W,Auxerre
+1,0,2025-05-04,Lens,Lyon,W,Lens,0,0,Lyon,Lens,L,Lyon
+0,0,2025-05-10,Lens,Toulouse,D,Lens,0,0,Toulouse,Lens,D,Toulouse
+1,0,2025-05-17,Lens,Monaco,W,Lens,0,0,Monaco,Lens,L,Monaco
+0,0,2023-01-02,Lille,Reims,D,Lille,0,0,Reims,Lille,D,Reims
+0,0,2023-01-11,Lille,Brest,D,Lille,0,0,Brest,Lille,D,Brest
+1,0,2023-01-15,Lille,Troyes,W,Lille,0,0,Troyes,Lille,L,Troyes
+0,0,2023-01-29,Lille,Nice,L,Lille,1,0,Nice,Lille,W,Nice
+0,1,2023-02-01,Lille,Clermont,D,Lille,0,0,Clermont,Lille,D,Clermont
+1,0,2023-02-04,Lille,Rennes,W,Lille,0,0,Rennes,Lille,L,Rennes
+1,1,2023-02-12,Lille,Strasbourg,W,Lille,0,0,Strasbourg,Lille,L,Strasbourg
+0,0,2023-02-19,Lille,Paris SG,L,Lille,1,0,Paris SG,Lille,W,Paris SG
+1,1,2023-02-24,Lille,Brest,W,Lille,0,0,Brest,Lille,L,Brest
+0,0,2023-03-04,Lille,Lens,D,Lille,0,0,Lens,Lille,D,Lens
+0,0,2023-03-10,Lille,Lyon,D,Lille,0,0,Lyon,Lille,D,Lyon
+1,0,2023-03-18,Lille,Toulouse,W,Lille,0,0,Toulouse,Lille,L,Toulouse
+1,0,2023-04-02,Lille,Lorient,W,Lille,0,0,Lorient,Lille,L,Lorient
+0,1,2023-04-08,Lille,Angers,L,Lille,1,0,Angers,Lille,W,Angers
+1,1,2023-04-16,Lille,Montpellier,W,Lille,0,0,Montpellier,Lille,L,Montpellier
+0,1,2023-04-22,Lille,Auxerre,D,Lille,0,0,Auxerre,Lille,D,Auxerre
+1,1,2023-04-29,Lille,Ajaccio,W,Lille,0,0,Ajaccio,Lille,L,Ajaccio
+0,0,2023-05-06,Lille,Reims,L,Lille,1,0,Reims,Lille,W,Reims
+0,0,2023-05-14,Lille,Monaco,D,Lille,0,0,Monaco,Lille,D,Monaco
+1,0,2023-05-20,Lille,Marseille,W,Lille,0,0,Marseille,Lille,L,Marseille
+1,0,2023-05-27,Lille,Nantes,W,Lille,0,0,Nantes,Lille,L,Nantes
+0,0,2023-06-03,Lille,Troyes,D,Lille,0,0,Troyes,Lille,D,Troyes
+0,0,2023-08-11,Lille,Nice,D,Lille,0,1,Nice,Lille,D,Nice
+1,0,2023-08-20,Lille,Nantes,W,Lille,0,0,Nantes,Lille,L,Nantes
+0,0,2023-08-27,Lille,Lorient,L,Lille,1,0,Lorient,Lille,W,Lorient
+1,0,2023-09-03,Lille,Montpellier,W,Lille,0,0,Montpellier,Lille,L,Montpellier
+0,0,2023-09-16,Lille,Rennes,D,Lille,0,0,Rennes,Lille,D,Rennes
+0,0,2023-09-26,Lille,Reims,L,Lille,1,0,Reims,Lille,W,Reims
+1,0,2023-10-01,Lille,Le Havre,W,Lille,0,0,Le Havre,Lille,L,Le Havre
+0,0,2023-10-08,Lille,Lens,D,Lille,0,1,Lens,Lille,D,Lens
+1,0,2023-10-22,Lille,Brest,W,Lille,0,0,Brest,Lille,L,Brest
+1,0,2023-10-29,Lille,Monaco,W,Lille,0,0,Monaco,Lille,L,Monaco
+0,0,2023-11-04,Lille,Marseille,D,Lille,0,0,Marseille,Lille,D,Marseille
+0,0,2023-11-12,Lille,Toulouse,D,Lille,0,0,Toulouse,Lille,D,Toulouse
+1,0,2023-11-26,Lille,Lyon,W,Lille,0,0,Lyon,Lille,L,Lyon
+1,0,2023-12-03,Lille,Metz,W,Lille,0,0,Metz,Lille,L,Metz
+0,1,2023-12-10,Lille,Clermont,D,Lille,0,0,Clermont,Lille,D,Clermont
+0,0,2023-12-17,Lille,Paris SG,D,Lille,0,0,Paris SG,Lille,D,Paris SG
+0,0,2023-12-20,Lille,Strasbourg,L,Lille,1,0,Strasbourg,Lille,W,Strasbourg
+1,0,2024-01-14,Lille,Lorient,W,Lille,0,0,Lorient,Lille,L,Lorient
+0,0,2024-01-28,Lille,Montpellier,D,Lille,0,0,Montpellier,Lille,D,Montpellier
+1,1,2024-02-04,Lille,Clermont,W,Lille,0,0,Clermont,Lille,L,Clermont
+0,0,2024-02-10,Lille,Paris SG,L,Lille,1,0,Paris SG,Lille,W,Paris SG
+1,1,2024-02-17,Lille,Le Havre,W,Lille,0,0,Le Havre,Lille,L,Le Havre
+0,0,2024-02-25,Lille,Toulouse,L,Lille,1,0,Toulouse,Lille,W,Toulouse
+1,0,2024-03-02,Lille,Reims,W,Lille,0,0,Reims,Lille,L,Reims
+0,0,2024-03-10,Lille,Rennes,D,Lille,0,0,Rennes,Lille,D,Rennes
+0,0,2024-03-17,Lille,Brest,D,Lille,0,0,Brest,Lille,D,Brest
+1,0,2024-03-29,Lille,Lens,W,Lille,0,0,Lens,Lille,L,Lens
+1,0,2024-04-05,Lille,Marseille,W,Lille,0,0,Marseille,Lille,L,Marseille
+1,0,2024-04-21,Lille,Strasbourg,W,Lille,0,0,Strasbourg,Lille,L,Strasbourg
+0,0,2024-04-24,Lille,Monaco,L,Lille,1,0,Monaco,Lille,W,Monaco
+1,0,2024-04-28,Lille,Metz,W,Lille,0,0,Metz,Lille,L,Metz
+0,0,2024-05-06,Lille,Lyon,L,Lille,1,0,Lyon,Lille,W,Lyon
+1,0,2024-05-12,Lille,Nantes,W,Lille,0,0,Nantes,Lille,L,Nantes
+0,0,2024-05-19,Lille,Nice,D,Lille,0,0,Nice,Lille,D,Nice
+1,0,2024-08-17,Lille,Reims,W,Lille,0,0,Reims,Lille,L,Reims
+1,1,2024-08-24,Lille,Angers,W,Lille,0,0,Angers,Lille,L,Angers
+0,0,2024-09-01,Lille,Paris SG,L,Lille,1,1,Paris SG,Lille,W,Paris SG
+0,0,2024-09-13,Lille,St Etienne,L,Lille,1,0,St Etienne,Lille,W,St Etienne
+0,0,2024-09-21,Lille,Strasbourg,D,Lille,0,0,Strasbourg,Lille,D,Strasbourg
+1,0,2024-09-28,Lille,Le Havre,W,Lille,0,0,Le Havre,Lille,L,Le Havre
+1,1,2024-10-05,Lille,Toulouse,W,Lille,0,0,Toulouse,Lille,L,Toulouse
+0,0,2024-10-18,Lille,Monaco,D,Lille,0,0,Monaco,Lille,D,Monaco
+1,0,2024-10-26,Lille,Lens,W,Lille,0,0,Lens,Lille,L,Lens
+0,0,2024-11-01,Lille,Lyon,D,Lille,0,0,Lyon,Lille,D,Lyon
+0,0,2024-11-10,Lille,Nice,D,Lille,0,0,Nice,Lille,D,Nice
+1,0,2024-11-24,Lille,Rennes,W,Lille,0,0,Rennes,Lille,L,Rennes
+0,0,2024-12-01,Lille,Montpellier,D,Lille,0,0,Montpellier,Lille,D,Montpellier
+1,0,2024-12-06,Lille,Brest,W,Lille,0,0,Brest,Lille,L,Brest
+0,0,2024-12-14,Lille,Marseille,D,Lille,0,0,Marseille,Lille,D,Marseille
+0,0,2025-01-04,Lille,Nantes,D,Lille,0,0,Nantes,Lille,D,Nantes
+0,0,2025-01-10,Lille,Auxerre,D,Lille,0,0,Auxerre,Lille,D,Auxerre
+1,0,2025-01-17,Lille,Nice,W,Lille,0,0,Nice,Lille,L,Nice
+0,0,2025-01-25,Lille,Strasbourg,L,Lille,1,0,Strasbourg,Lille,W,Strasbourg
+1,0,2025-02-01,Lille,St Etienne,W,Lille,0,0,St Etienne,Lille,L,St Etienne
+0,1,2025-02-08,Lille,Le Havre,L,Lille,1,0,Le Havre,Lille,W,Le Havre
+1,0,2025-02-16,Lille,Rennes,W,Lille,0,0,Rennes,Lille,L,Rennes
+1,1,2025-02-22,Lille,Monaco,W,Lille,0,0,Monaco,Lille,L,Monaco
+0,0,2025-03-01,Lille,Paris SG,L,Lille,1,1,Paris SG,Lille,W,Paris SG
+1,0,2025-03-08,Lille,Montpellier,W,Lille,0,0,Montpellier,Lille,L,Montpellier
+0,0,2025-03-15,Lille,Nantes,L,Lille,1,0,Nantes,Lille,W,Nantes
+1,0,2025-03-30,Lille,Lens,W,Lille,0,0,Lens,Lille,L,Lens
+0,0,2025-04-05,Lille,Lyon,L,Lille,1,0,Lyon,Lille,W,Lyon
+1,0,2025-04-12,Lille,Toulouse,W,Lille,0,0,Toulouse,Lille,L,Toulouse
+1,0,2025-04-20,Lille,Auxerre,W,Lille,0,0,Auxerre,Lille,L,Auxerre
+1,1,2025-04-27,Lille,Angers,W,Lille,0,0,Angers,Lille,L,Angers
+0,0,2025-05-04,Lille,Marseille,D,Lille,0,0,Marseille,Lille,D,Marseille
+0,0,2025-05-10,Lille,Brest,L,Lille,1,0,Brest,Lille,W,Brest
+1,0,2025-05-17,Lille,Reims,W,Lille,0,0,Reims,Lille,L,Reims
+0,0,2023-01-11,Lorient,Monaco,D,Lorient,0,0,Monaco,Lorient,D,Monaco
+0,0,2023-01-14,Lorient,Marseille,L,Lorient,1,0,Marseille,Lorient,W,Marseille
+1,0,2023-01-27,Lorient,Rennes,W,Lorient,0,0,Rennes,Lorient,L,Rennes
+0,0,2023-02-01,Lorient,Reims,L,Lorient,1,0,Reims,Lorient,W,Reims
+0,0,2023-02-05,Lorient,Angers,D,Lorient,0,0,Angers,Lorient,D,Angers
+0,0,2023-02-12,Lorient,Nantes,L,Lorient,1,0,Nantes,Lorient,W,Nantes
+1,0,2023-02-19,Lorient,Ajaccio,W,Lorient,0,0,Ajaccio,Lorient,L,Ajaccio
+0,0,2023-02-26,Lorient,Auxerre,L,Lorient,1,0,Auxerre,Lorient,W,Auxerre
+0,0,2023-03-05,Lorient,Lyon,D,Lorient,0,0,Lyon,Lorient,D,Lyon
+1,0,2023-03-12,Lorient,Troyes,W,Lorient,0,0,Troyes,Lorient,L,Troyes
+0,0,2023-03-19,Lorient,Nice,D,Lorient,0,0,Nice,Lorient,D,Nice
+0,0,2023-04-02,Lorient,Lille,L,Lorient,1,0,Lille,Lorient,W,Lille
+0,0,2023-04-09,Lorient,Marseille,D,Lorient,0,0,Marseille,Lorient,D,Marseille
+0,0,2023-04-16,Lorient,Monaco,L,Lorient,1,0,Monaco,Lorient,W,Monaco
+0,0,2023-04-23,Lorient,Toulouse,L,Lorient,1,0,Toulouse,Lorient,W,Toulouse
+1,0,2023-04-30,Lorient,Paris SG,W,Lorient,0,0,Paris SG,Lorient,L,Paris SG
+1,0,2023-05-07,Lorient,Brest,W,Lorient,0,0,Brest,Lorient,L,Brest
+0,0,2023-05-14,Lorient,Montpellier,D,Lorient,0,0,Montpellier,Lorient,D,Montpellier
+0,0,2023-05-21,Lorient,Lens,L,Lorient,1,0,Lens,Lorient,W,Lens
+0,0,2023-05-27,Lorient,Clermont,L,Lorient,1,0,Clermont,Lorient,W,Clermont
+1,0,2023-06-03,Lorient,Strasbourg,W,Lorient,0,0,Strasbourg,Lorient,L,Strasbourg
+0,0,2023-08-12,Lorient,Paris SG,D,Lorient,0,0,Paris SG,Lorient,D,Paris SG
+0,0,2023-08-20,Lorient,Nice,D,Lorient,0,0,Nice,Lorient,D,Nice
+1,0,2023-08-27,Lorient,Lille,W,Lorient,0,0,Lille,Lorient,L,Lille
+0,0,2023-09-03,Lorient,Le Havre,L,Lorient,1,0,Le Havre,Lorient,W,Le Havre
+0,0,2023-09-17,Lorient,Monaco,D,Lorient,0,0,Monaco,Lorient,D,Monaco
+0,0,2023-09-23,Lorient,Nantes,L,Lorient,1,0,Nantes,Lorient,W,Nantes
+0,0,2023-10-01,Lorient,Montpellier,L,Lorient,1,0,Montpellier,Lorient,W,Montpellier
+0,0,2023-10-08,Lorient,Lyon,D,Lorient,0,0,Lyon,Lorient,D,Lyon
+1,0,2023-10-22,Lorient,Rennes,W,Lorient,0,0,Rennes,Lorient,L,Rennes
+0,0,2023-10-28,Lorient,Reims,L,Lorient,1,0,Reims,Lorient,W,Reims
+0,0,2023-11-04,Lorient,Lens,D,Lorient,0,0,Lens,Lorient,D,Lens
+0,0,2023-11-12,Lorient,Clermont,L,Lorient,1,0,Clermont,Lorient,W,Clermont
+0,0,2023-11-26,Lorient,Metz,L,Lorient,1,0,Metz,Lorient,W,Metz
+0,0,2023-12-03,Lorient,Toulouse,D,Lorient,0,0,Toulouse,Lorient,D,Toulouse
+0,0,2023-12-10,Lorient,Marseille,L,Lorient,1,0,Marseille,Lorient,W,Marseille
+0,0,2023-12-17,Lorient,Strasbourg,L,Lorient,1,0,Strasbourg,Lorient,W,Strasbourg
+0,0,2023-12-20,Lorient,Brest,L,Lorient,1,0,Brest,Lorient,W,Brest
+0,0,2024-01-14,Lorient,Lille,L,Lorient,1,0,Lille,Lorient,W,Lille
+0,0,2024-01-28,Lorient,Le Havre,D,Lorient,0,0,Le Havre,Lorient,D,Le Havre
+1,0,2024-02-04,Lorient,Metz,W,Lorient,0,0,Metz,Lorient,L,Metz
+1,0,2024-02-11,Lorient,Reims,W,Lorient,0,0,Reims,Lorient,L,Reims
+1,0,2024-02-18,Lorient,Strasbourg,W,Lorient,0,0,Strasbourg,Lorient,L,Strasbourg
+0,0,2024-02-24,Lorient,Nantes,L,Lorient,1,0,Nantes,Lorient,W,Nantes
+1,0,2024-03-03,Lorient,Rennes,W,Lorient,0,0,Rennes,Lorient,L,Rennes
+0,0,2024-03-09,Lorient,Lyon,L,Lorient,1,0,Lyon,Lorient,W,Lyon
+0,0,2024-03-17,Lorient,Monaco,D,Lorient,0,0,Monaco,Lorient,D,Monaco
+0,0,2024-03-31,Lorient,Brest,L,Lorient,1,0,Brest,Lorient,W,Brest
+0,0,2024-04-07,Lorient,Montpellier,L,Lorient,1,0,Montpellier,Lorient,W,Montpellier
+0,0,2024-04-19,Lorient,Nice,L,Lorient,1,0,Nice,Lorient,W,Nice
+0,0,2024-04-24,Lorient,Paris SG,L,Lorient,1,0,Paris SG,Lorient,W,Paris SG
+0,0,2024-04-28,Lorient,Toulouse,L,Lorient,1,0,Toulouse,Lorient,W,Toulouse
+0,0,2024-05-03,Lorient,Lens,L,Lorient,1,0,Lens,Lorient,W,Lens
+0,0,2024-05-12,Lorient,Marseille,L,Lorient,1,0,Marseille,Lorient,W,Marseille
+1,0,2024-05-19,Lorient,Clermont,W,Lorient,0,0,Clermont,Lorient,L,Clermont
+0,0,2023-01-11,Lyon,Nantes,D,Lyon,0,0,Nantes,Lyon,D,Nantes
+0,0,2023-01-14,Lyon,Strasbourg,L,Lyon,1,0,Strasbourg,Lyon,W,Strasbourg
+1,1,2023-01-29,Lyon,Ajaccio,W,Lyon,0,0,Ajaccio,Lyon,L,Ajaccio
+0,0,2023-02-01,Lyon,Brest,D,Lyon,0,0,Brest,Lyon,D,Brest
+1,0,2023-02-04,Lyon,Troyes,W,Lyon,0,0,Troyes,Lyon,L,Troyes
+1,0,2023-02-12,Lyon,Lens,W,Lyon,0,0,Lens,Lyon,L,Lens
+0,1,2023-02-17,Lyon,Auxerre,L,Lyon,1,0,Auxerre,Lyon,W,Auxerre
+1,0,2023-02-25,Lyon,Angers,W,Lyon,0,0,Angers,Lyon,L,Angers
+0,0,2023-03-05,Lyon,Lorient,D,Lyon,0,0,Lorient,Lyon,D,Lorient
+0,0,2023-03-10,Lyon,Lille,D,Lyon,0,0,Lille,Lyon,D,Lille
+0,0,2023-03-17,Lyon,Nantes,D,Lyon,0,0,Nantes,Lyon,D,Nantes
+1,0,2023-04-02,Lyon,Paris SG,W,Lyon,0,1,Paris SG,Lyon,L,Paris SG
+1,0,2023-04-09,Lyon,Rennes,W,Lyon,0,0,Rennes,Lyon,L,Rennes
+1,0,2023-04-14,Lyon,Toulouse,W,Lyon,0,0,Toulouse,Lyon,L,Toulouse
+0,0,2023-04-23,Lyon,Marseille,L,Lyon,1,0,Marseille,Lyon,W,Marseille
+1,0,2023-04-28,Lyon,Strasbourg,W,Lyon,0,0,Strasbourg,Lyon,L,Strasbourg
+1,0,2023-05-07,Lyon,Montpellier,W,Lyon,0,0,Montpellier,Lyon,L,Montpellier
+0,0,2023-05-14,Lyon,Clermont,L,Lyon,1,0,Clermont,Lyon,W,Clermont
+1,0,2023-05-19,Lyon,Monaco,W,Lyon,0,0,Monaco,Lyon,L,Monaco
+1,0,2023-05-27,Lyon,Reims,W,Lyon,0,0,Reims,Lyon,L,Reims
+0,0,2023-06-03,Lyon,Nice,L,Lyon,1,1,Nice,Lyon,W,Nice
+0,1,2023-08-13,Lyon,Strasbourg,L,Lyon,1,0,Strasbourg,Lyon,W,Strasbourg
+0,1,2023-08-19,Lyon,Montpellier,L,Lyon,1,0,Montpellier,Lyon,W,Montpellier
+0,0,2023-08-27,Lyon,Nice,D,Lyon,0,0,Nice,Lyon,D,Nice
+0,0,2023-09-03,Lyon,Paris SG,L,Lyon,1,0,Paris SG,Lyon,W,Paris SG
+0,0,2023-09-17,Lyon,Le Havre,D,Lyon,0,0,Le Havre,Lyon,D,Le Havre
+0,0,2023-09-23,Lyon,Brest,L,Lyon,1,0,Brest,Lyon,W,Brest
+0,0,2023-10-01,Lyon,Reims,L,Lyon,1,0,Reims,Lyon,W,Reims
+0,0,2023-10-08,Lyon,Lorient,D,Lyon,0,0,Lorient,Lyon,D,Lorient
+0,0,2023-10-22,Lyon,Clermont,L,Lyon,1,0,Clermont,Lyon,W,Clermont
+0,0,2023-11-05,Lyon,Metz,D,Lyon,0,0,Metz,Lyon,D,Metz
+1,0,2023-11-12,Lyon,Rennes,W,Lyon,0,0,Rennes,Lyon,L,Rennes
+0,0,2023-11-26,Lyon,Lille,L,Lyon,1,0,Lille,Lyon,W,Lille
+0,0,2023-12-02,Lyon,Lens,L,Lyon,1,0,Lens,Lyon,W,Lens
+0,0,2023-12-06,Lyon,Marseille,L,Lyon,1,0,Marseille,Lyon,W,Marseille
+1,0,2023-12-10,Lyon,Toulouse,W,Lyon,0,0,Toulouse,Lyon,L,Toulouse
+1,0,2023-12-15,Lyon,Monaco,W,Lyon,0,0,Monaco,Lyon,L,Monaco
+1,0,2023-12-20,Lyon,Nantes,W,Lyon,0,0,Nantes,Lyon,L,Nantes
+0,0,2024-01-14,Lyon,Le Havre,L,Lyon,1,0,Le Havre,Lyon,W,Le Havre
+0,0,2024-01-26,Lyon,Rennes,L,Lyon,1,0,Rennes,Lyon,W,Rennes
+1,0,2024-02-04,Lyon,Marseille,W,Lyon,0,0,Marseille,Lyon,L,Marseille
+1,0,2024-02-11,Lyon,Montpellier,W,Lyon,0,0,Montpellier,Lyon,L,Montpellier
+1,0,2024-02-16,Lyon,Nice,W,Lyon,0,0,Nice,Lyon,L,Nice
+1,0,2024-02-23,Lyon,Metz,W,Lyon,0,0,Metz,Lyon,L,Metz
+0,0,2024-03-03,Lyon,Lens,L,Lyon,1,0,Lens,Lyon,W,Lens
+1,0,2024-03-09,Lyon,Lorient,W,Lyon,0,0,Lorient,Lyon,L,Lorient
+1,0,2024-03-15,Lyon,Toulouse,W,Lyon,0,0,Toulouse,Lyon,L,Toulouse
+0,0,2024-03-30,Lyon,Reims,D,Lyon,0,0,Reims,Lyon,D,Reims
+1,0,2024-04-07,Lyon,Nantes,W,Lyon,0,0,Nantes,Lyon,L,Nantes
+1,1,2024-04-14,Lyon,Brest,W,Lyon,0,0,Brest,Lyon,L,Brest
+0,0,2024-04-21,Lyon,Paris SG,L,Lyon,1,0,Paris SG,Lyon,W,Paris SG
+1,0,2024-04-28,Lyon,Monaco,W,Lyon,0,0,Monaco,Lyon,L,Monaco
+1,0,2024-05-06,Lyon,Lille,W,Lyon,0,0,Lille,Lyon,L,Lille
+1,0,2024-05-12,Lyon,Clermont,W,Lyon,0,0,Clermont,Lyon,L,Clermont
+1,0,2024-05-19,Lyon,Strasbourg,W,Lyon,0,0,Strasbourg,Lyon,L,Strasbourg
+0,0,2024-08-18,Lyon,Rennes,L,Lyon,1,1,Rennes,Lyon,W,Rennes
+0,0,2024-08-24,Lyon,Monaco,L,Lyon,1,0,Monaco,Lyon,W,Monaco
+1,0,2024-08-30,Lyon,Strasbourg,W,Lyon,0,0,Strasbourg,Lyon,L,Strasbourg
+0,0,2024-09-15,Lyon,Lens,D,Lyon,0,0,Lens,Lyon,D,Lens
+0,0,2024-09-22,Lyon,Marseille,L,Lyon,1,0,Marseille,Lyon,W,Marseille
+1,0,2024-09-29,Lyon,Toulouse,W,Lyon,0,0,Toulouse,Lyon,L,Toulouse
+1,0,2024-10-06,Lyon,Nantes,W,Lyon,0,0,Nantes,Lyon,L,Nantes
+1,0,2024-10-20,Lyon,Le Havre,W,Lyon,0,0,Le Havre,Lyon,L,Le Havre
+0,1,2024-10-27,Lyon,Auxerre,D,Lyon,0,0,Auxerre,Lyon,D,Auxerre
+0,0,2024-11-01,Lyon,Lille,D,Lyon,0,0,Lille,Lyon,D,Lille
+1,0,2024-11-10,Lyon,St Etienne,W,Lyon,0,0,St Etienne,Lyon,L,St Etienne
+0,0,2024-11-23,Lyon,Reims,D,Lyon,0,0,Reims,Lyon,D,Reims
+1,0,2024-12-01,Lyon,Nice,W,Lyon,0,0,Nice,Lyon,L,Nice
+1,1,2024-12-07,Lyon,Angers,W,Lyon,0,0,Angers,Lyon,L,Angers
+0,0,2024-12-15,Lyon,Paris SG,L,Lyon,1,1,Paris SG,Lyon,W,Paris SG
+1,0,2025-01-04,Lyon,Montpellier,W,Lyon,0,0,Montpellier,Lyon,L,Montpellier
+0,0,2025-01-11,Lyon,Brest,L,Lyon,1,0,Brest,Lyon,W,Brest
+0,0,2025-01-18,Lyon,Toulouse,D,Lyon,0,0,Toulouse,Lyon,D,Toulouse
+0,0,2025-01-26,Lyon,Nantes,D,Lyon,0,0,Nantes,Lyon,D,Nantes
+0,0,2025-02-02,Lyon,Marseille,L,Lyon,1,0,Marseille,Lyon,W,Marseille
+1,0,2025-02-09,Lyon,Reims,W,Lyon,0,0,Reims,Lyon,L,Reims
+1,0,2025-02-16,Lyon,Montpellier,W,Lyon,0,0,Montpellier,Lyon,L,Montpellier
+0,0,2025-02-23,Lyon,Paris SG,L,Lyon,1,0,Paris SG,Lyon,W,Paris SG
+1,1,2025-03-02,Lyon,Brest,W,Lyon,0,0,Brest,Lyon,L,Brest
+1,0,2025-03-09,Lyon,Nice,W,Lyon,0,0,Nice,Lyon,L,Nice
+1,0,2025-03-16,Lyon,Le Havre,W,Lyon,0,0,Le Havre,Lyon,L,Le Havre
+0,0,2025-03-28,Lyon,Strasbourg,L,Lyon,1,0,Strasbourg,Lyon,W,Strasbourg
+1,0,2025-04-05,Lyon,Lille,W,Lyon,0,0,Lille,Lyon,L,Lille
+1,0,2025-04-13,Lyon,Auxerre,W,Lyon,0,0,Auxerre,Lyon,L,Auxerre
+0,0,2025-04-20,Lyon,St Etienne,L,Lyon,1,0,St Etienne,Lyon,W,St Etienne
+1,0,2025-04-26,Lyon,Rennes,W,Lyon,0,0,Rennes,Lyon,L,Rennes
+0,0,2025-05-04,Lyon,Lens,L,Lyon,1,0,Lens,Lyon,W,Lens
+0,0,2025-05-10,Lyon,Monaco,L,Lyon,1,0,Monaco,Lyon,W,Monaco
+1,1,2025-05-17,Lyon,Angers,W,Lyon,0,0,Angers,Lyon,L,Angers
+1,0,2023-01-02,Marseille,Montpellier,W,Marseille,0,0,Montpellier,Marseille,L,Montpellier
+1,0,2023-01-11,Marseille,Troyes,W,Marseille,0,0,Troyes,Marseille,L,Troyes
+1,0,2023-01-14,Marseille,Lorient,W,Marseille,0,0,Lorient,Marseille,L,Lorient
+0,1,2023-01-28,Marseille,Monaco,D,Marseille,0,0,Monaco,Marseille,D,Monaco
+1,0,2023-02-01,Marseille,Nantes,W,Marseille,0,0,Nantes,Marseille,L,Nantes
+0,1,2023-02-05,Marseille,Nice,L,Marseille,1,0,Nice,Marseille,W,Nice
+1,0,2023-02-11,Marseille,Clermont,W,Marseille,0,0,Clermont,Marseille,L,Clermont
+1,0,2023-02-19,Marseille,Toulouse,W,Marseille,0,0,Toulouse,Marseille,L,Toulouse
+0,1,2023-02-26,Marseille,Paris SG,L,Marseille,1,0,Paris SG,Marseille,W,Paris SG
+1,0,2023-03-05,Marseille,Rennes,W,Marseille,0,0,Rennes,Marseille,L,Rennes
+0,0,2023-03-12,Marseille,Strasbourg,D,Marseille,0,0,Strasbourg,Marseille,D,Strasbourg
+1,0,2023-03-19,Marseille,Reims,W,Marseille,0,1,Reims,Marseille,L,Reims
+0,0,2023-03-31,Marseille,Montpellier,D,Marseille,0,0,Montpellier,Marseille,D,Montpellier
+0,0,2023-04-09,Marseille,Lorient,D,Marseille,0,0,Lorient,Marseille,D,Lorient
+1,0,2023-04-16,Marseille,Troyes,W,Marseille,0,0,Troyes,Marseille,L,Troyes
+1,0,2023-04-23,Marseille,Lyon,W,Marseille,0,0,Lyon,Marseille,L,Lyon
+1,1,2023-04-30,Marseille,Auxerre,W,Marseille,0,0,Auxerre,Marseille,L,Auxerre
+0,0,2023-05-06,Marseille,Lens,L,Marseille,1,0,Lens,Marseille,W,Lens
+1,1,2023-05-14,Marseille,Angers,W,Marseille,0,0,Angers,Marseille,L,Angers
+0,0,2023-05-20,Marseille,Lille,L,Marseille,1,0,Lille,Marseille,W,Lille
+0,0,2023-05-27,Marseille,Brest,L,Marseille,1,0,Brest,Marseille,W,Brest
+0,0,2023-06-03,Marseille,Ajaccio,L,Marseille,1,0,Ajaccio,Marseille,W,Ajaccio
+1,0,2023-08-12,Marseille,Reims,W,Marseille,0,0,Reims,Marseille,L,Reims
+0,0,2023-08-18,Marseille,Metz,D,Marseille,0,0,Metz,Marseille,D,Metz
+1,1,2023-08-26,Marseille,Brest,W,Marseille,0,0,Brest,Marseille,L,Brest
+0,0,2023-09-01,Marseille,Nantes,D,Marseille,0,0,Nantes,Marseille,D,Nantes
+0,1,2023-09-17,Marseille,Toulouse,D,Marseille,0,0,Toulouse,Marseille,D,Toulouse
+0,0,2023-09-24,Marseille,Paris SG,L,Marseille,1,1,Paris SG,Marseille,W,Paris SG
+0,0,2023-09-30,Marseille,Monaco,L,Marseille,1,0,Monaco,Marseille,W,Monaco
+1,0,2023-10-08,Marseille,Le Havre,W,Marseille,0,0,Le Havre,Marseille,L,Le Havre
+0,0,2023-10-21,Marseille,Nice,L,Marseille,1,0,Nice,Marseille,W,Nice
+0,0,2023-11-04,Marseille,Lille,D,Marseille,0,0,Lille,Marseille,D,Lille
+0,0,2023-11-12,Marseille,Lens,L,Marseille,1,0,Lens,Marseille,W,Lens
+0,0,2023-11-25,Marseille,Strasbourg,D,Marseille,0,0,Strasbourg,Marseille,D,Strasbourg
+1,0,2023-12-03,Marseille,Rennes,W,Marseille,0,0,Rennes,Marseille,L,Rennes
+1,0,2023-12-06,Marseille,Lyon,W,Marseille,0,0,Lyon,Marseille,L,Lyon
+1,0,2023-12-10,Marseille,Lorient,W,Marseille,0,0,Lorient,Marseille,L,Lorient
+1,0,2023-12-17,Marseille,Clermont,W,Marseille,0,0,Clermont,Marseille,L,Clermont
+0,0,2023-12-20,Marseille,Montpellier,D,Marseille,0,0,Montpellier,Marseille,D,Montpellier
+0,1,2024-01-12,Marseille,Strasbourg,D,Marseille,0,0,Strasbourg,Marseille,D,Strasbourg
+0,0,2024-01-27,Marseille,Monaco,D,Marseille,0,0,Monaco,Marseille,D,Monaco
+0,0,2024-02-04,Marseille,Lyon,L,Marseille,1,0,Lyon,Marseille,W,Lyon
+0,0,2024-02-09,Marseille,Metz,D,Marseille,0,0,Metz,Marseille,D,Metz
+0,0,2024-02-18,Marseille,Brest,L,Marseille,1,0,Brest,Marseille,W,Brest
+1,0,2024-02-25,Marseille,Montpellier,W,Marseille,0,0,Montpellier,Marseille,L,Montpellier
+1,0,2024-03-02,Marseille,Clermont,W,Marseille,0,0,Clermont,Marseille,L,Clermont
+1,0,2024-03-10,Marseille,Nantes,W,Marseille,0,0,Nantes,Marseille,L,Nantes
+0,0,2024-03-17,Marseille,Rennes,L,Marseille,1,0,Rennes,Marseille,W,Rennes
+0,0,2024-03-31,Marseille,Paris SG,L,Marseille,1,0,Paris SG,Marseille,W,Paris SG
+0,0,2024-04-05,Marseille,Lille,L,Marseille,1,0,Lille,Marseille,W,Lille
+0,0,2024-04-21,Marseille,Toulouse,D,Marseille,0,0,Toulouse,Marseille,D,Toulouse
+0,0,2024-04-24,Marseille,Nice,D,Marseille,0,0,Nice,Marseille,D,Nice
+1,0,2024-04-28,Marseille,Lens,W,Marseille,0,0,Lens,Marseille,L,Lens
+1,0,2024-05-12,Marseille,Lorient,W,Marseille,0,0,Lorient,Marseille,L,Lorient
+0,0,2024-05-15,Marseille,Reims,L,Marseille,1,0,Reims,Marseille,W,Reims
+1,0,2024-05-19,Marseille,Le Havre,W,Marseille,0,0,Le Havre,Marseille,L,Le Havre
+1,1,2024-08-17,Marseille,Brest,W,Marseille,0,0,Brest,Marseille,L,Brest
+0,0,2024-08-25,Marseille,Reims,D,Marseille,0,0,Reims,Marseille,D,Reims
+1,0,2024-08-31,Marseille,Toulouse,W,Marseille,0,0,Toulouse,Marseille,L,Toulouse
+1,0,2024-09-14,Marseille,Nice,W,Marseille,0,0,Nice,Marseille,L,Nice
+1,0,2024-09-22,Marseille,Lyon,W,Marseille,0,0,Lyon,Marseille,L,Lyon
+0,0,2024-09-29,Marseille,Strasbourg,L,Marseille,1,0,Strasbourg,Marseille,W,Strasbourg
+0,0,2024-10-04,Marseille,Angers,D,Marseille,0,0,Angers,Marseille,D,Angers
+1,0,2024-10-20,Marseille,Montpellier,W,Marseille,0,0,Montpellier,Marseille,L,Montpellier
+0,0,2024-10-27,Marseille,Paris SG,L,Marseille,1,1,Paris SG,Marseille,W,Paris SG
+1,0,2024-11-03,Marseille,Nantes,W,Marseille,0,0,Nantes,Marseille,L,Nantes
+0,1,2024-11-08,Marseille,Auxerre,L,Marseille,1,0,Auxerre,Marseille,W,Auxerre
+1,0,2024-11-23,Marseille,Lens,W,Marseille,0,0,Lens,Marseille,L,Lens
+1,0,2024-12-01,Marseille,Monaco,W,Marseille,0,0,Monaco,Marseille,L,Monaco
+1,0,2024-12-08,Marseille,St Etienne,W,Marseille,0,0,St Etienne,Marseille,L,St Etienne
+0,0,2024-12-14,Marseille,Lille,D,Marseille,0,0,Lille,Marseille,D,Lille
+1,0,2025-01-05,Marseille,Le Havre,W,Marseille,0,0,Le Havre,Marseille,L,Le Havre
+1,0,2025-01-11,Marseille,Rennes,W,Marseille,0,0,Rennes,Marseille,L,Rennes
+0,0,2025-01-19,Marseille,Strasbourg,D,Marseille,0,0,Strasbourg,Marseille,D,Strasbourg
+0,0,2025-01-26,Marseille,Nice,L,Marseille,1,0,Nice,Marseille,W,Nice
+1,0,2025-02-02,Marseille,Lyon,W,Marseille,0,0,Lyon,Marseille,L,Lyon
+1,1,2025-02-09,Marseille,Angers,W,Marseille,0,0,Angers,Marseille,L,Angers
+1,1,2025-02-15,Marseille,St Etienne,W,Marseille,0,0,St Etienne,Marseille,L,St Etienne
+0,1,2025-02-22,Marseille,Auxerre,L,Marseille,1,0,Auxerre,Marseille,W,Auxerre
+1,1,2025-03-02,Marseille,Nantes,W,Marseille,0,0,Nantes,Marseille,L,Nantes
+0,1,2025-03-08,Marseille,Lens,L,Marseille,1,0,Lens,Marseille,W,Lens
+0,0,2025-03-16,Marseille,Paris SG,L,Marseille,1,1,Paris SG,Marseille,W,Paris SG
+0,0,2025-03-29,Marseille,Reims,L,Marseille,1,0,Reims,Marseille,W,Reims
+1,0,2025-04-06,Marseille,Toulouse,W,Marseille,0,0,Toulouse,Marseille,L,Toulouse
+0,0,2025-04-12,Marseille,Monaco,L,Marseille,1,0,Monaco,Marseille,W,Monaco
+1,0,2025-04-19,Marseille,Montpellier,W,Marseille,0,0,Montpellier,Marseille,L,Montpellier
+1,0,2025-04-27,Marseille,Brest,W,Marseille,0,0,Brest,Marseille,L,Brest
+0,0,2025-05-04,Marseille,Lille,D,Marseille,0,0,Lille,Marseille,D,Lille
+1,1,2025-05-10,Marseille,Le Havre,W,Marseille,0,0,Le Havre,Marseille,L,Le Havre
+1,0,2025-05-17,Marseille,Rennes,W,Marseille,0,0,Rennes,Marseille,L,Rennes
+0,0,2023-08-13,Metz,Rennes,L,Metz,1,0,Rennes,Metz,W,Rennes
+0,0,2023-08-18,Metz,Marseille,D,Metz,0,0,Marseille,Metz,D,Marseille
+1,0,2023-08-27,Metz,Clermont,W,Metz,0,0,Clermont,Metz,L,Clermont
+0,0,2023-09-03,Metz,Reims,D,Metz,0,0,Reims,Metz,D,Reims
+1,0,2023-09-16,Metz,Lens,W,Metz,0,0,Lens,Metz,L,Lens
+0,0,2023-09-24,Metz,Strasbourg,L,Metz,1,0,Strasbourg,Metz,W,Strasbourg
+0,0,2023-10-01,Metz,Toulouse,L,Metz,1,0,Toulouse,Metz,W,Toulouse
+0,0,2023-10-07,Metz,Nice,L,Metz,1,0,Nice,Metz,W,Nice
+0,0,2023-10-22,Metz,Monaco,L,Metz,1,0,Monaco,Metz,W,Monaco
+0,0,2023-10-29,Metz,Le Havre,D,Metz,0,0,Le Havre,Metz,D,Le Havre
+0,0,2023-11-05,Metz,Lyon,D,Metz,0,0,Lyon,Metz,D,Lyon
+1,0,2023-11-12,Metz,Nantes,W,Metz,0,0,Nantes,Metz,L,Nantes
+1,0,2023-11-26,Metz,Lorient,W,Metz,0,0,Lorient,Metz,L,Lorient
+0,0,2023-12-03,Metz,Lille,L,Metz,1,0,Lille,Metz,W,Lille
+0,0,2023-12-10,Metz,Brest,L,Metz,1,0,Brest,Metz,W,Brest
+0,0,2023-12-17,Metz,Montpellier,L,Metz,1,0,Montpellier,Metz,W,Montpellier
+0,0,2023-12-20,Metz,Paris SG,L,Metz,1,0,Paris SG,Metz,W,Paris SG
+0,0,2024-01-14,Metz,Toulouse,L,Metz,1,0,Toulouse,Metz,W,Toulouse
+0,0,2024-01-27,Metz,Nice,L,Metz,1,0,Nice,Metz,W,Nice
+0,0,2024-02-04,Metz,Lorient,L,Metz,1,0,Lorient,Metz,W,Lorient
+0,0,2024-02-09,Metz,Marseille,D,Metz,0,0,Marseille,Metz,D,Marseille
+0,0,2024-02-18,Metz,Montpellier,L,Metz,1,0,Montpellier,Metz,W,Montpellier
+0,0,2024-02-23,Metz,Lyon,L,Metz,1,0,Lyon,Metz,W,Lyon
+1,0,2024-03-03,Metz,Nantes,W,Metz,0,0,Nantes,Metz,L,Nantes
+1,0,2024-03-10,Metz,Clermont,W,Metz,0,0,Clermont,Metz,L,Clermont
+0,0,2024-03-17,Metz,Reims,L,Metz,1,0,Reims,Metz,W,Reims
+0,0,2024-03-30,Metz,Monaco,L,Metz,1,0,Monaco,Metz,W,Monaco
+0,0,2024-04-07,Metz,Brest,L,Metz,1,0,Brest,Metz,W,Brest
+1,0,2024-04-12,Metz,Lens,W,Metz,0,0,Lens,Metz,L,Lens
+1,0,2024-04-21,Metz,Le Havre,W,Metz,0,0,Le Havre,Metz,L,Le Havre
+0,0,2024-04-28,Metz,Lille,L,Metz,1,0,Lille,Metz,W,Lille
+0,0,2024-05-04,Metz,Rennes,L,Metz,1,0,Rennes,Metz,W,Rennes
+0,0,2024-05-12,Metz,Strasbourg,L,Metz,1,0,Strasbourg,Metz,W,Strasbourg
+0,0,2024-05-19,Metz,Paris SG,L,Metz,1,0,Paris SG,Metz,W,Paris SG
+0,0,2023-01-11,Monaco,Lorient,D,Monaco,0,0,Lorient,Monaco,D,Lorient
+1,1,2023-01-15,Monaco,Ajaccio,W,Monaco,0,0,Ajaccio,Monaco,L,Ajaccio
+0,0,2023-01-28,Monaco,Marseille,D,Monaco,0,1,Marseille,Monaco,D,Marseille
+1,1,2023-02-01,Monaco,Auxerre,W,Monaco,0,0,Auxerre,Monaco,L,Auxerre
+1,1,2023-02-05,Monaco,Clermont,W,Monaco,0,0,Clermont,Monaco,L,Clermont
+1,0,2023-02-11,Monaco,Paris SG,W,Monaco,0,0,Paris SG,Monaco,L,Paris SG
+1,1,2023-02-19,Monaco,Brest,W,Monaco,0,0,Brest,Monaco,L,Brest
+0,0,2023-02-26,Monaco,Nice,L,Monaco,1,0,Nice,Monaco,W,Nice
+0,0,2023-03-05,Monaco,Troyes,D,Monaco,0,0,Troyes,Monaco,D,Troyes
+0,0,2023-03-12,Monaco,Reims,L,Monaco,1,0,Reims,Monaco,W,Reims
+1,0,2023-03-19,Monaco,Ajaccio,W,Monaco,0,0,Ajaccio,Monaco,L,Ajaccio
+1,0,2023-04-02,Monaco,Strasbourg,W,Monaco,0,0,Strasbourg,Monaco,L,Strasbourg
+0,0,2023-04-09,Monaco,Nantes,D,Monaco,0,0,Nantes,Monaco,D,Nantes
+1,0,2023-04-16,Monaco,Lorient,W,Monaco,0,0,Lorient,Monaco,L,Lorient
+0,0,2023-04-22,Monaco,Lens,L,Monaco,1,0,Lens,Monaco,W,Lens
+0,0,2023-04-30,Monaco,Montpellier,L,Monaco,1,0,Montpellier,Monaco,W,Montpellier
+1,0,2023-05-07,Monaco,Angers,W,Monaco,0,0,Angers,Monaco,L,Angers
+0,0,2023-05-14,Monaco,Lille,D,Monaco,0,0,Lille,Monaco,D,Lille
+0,0,2023-05-19,Monaco,Lyon,L,Monaco,1,0,Lyon,Monaco,W,Lyon
+0,0,2023-05-27,Monaco,Rennes,L,Monaco,1,1,Rennes,Monaco,W,Rennes
+0,0,2023-06-03,Monaco,Toulouse,L,Monaco,1,0,Toulouse,Monaco,W,Toulouse
+1,0,2023-08-13,Monaco,Clermont,W,Monaco,0,0,Clermont,Monaco,L,Clermont
+1,0,2023-08-20,Monaco,Strasbourg,W,Monaco,0,0,Strasbourg,Monaco,L,Strasbourg
+0,0,2023-08-25,Monaco,Nantes,D,Monaco,0,0,Nantes,Monaco,D,Nantes
+1,1,2023-09-02,Monaco,Lens,W,Monaco,0,0,Lens,Monaco,L,Lens
+0,0,2023-09-17,Monaco,Lorient,D,Monaco,0,0,Lorient,Monaco,D,Lorient
+0,1,2023-09-22,Monaco,Nice,L,Monaco,1,0,Nice,Monaco,W,Nice
+1,0,2023-09-30,Monaco,Marseille,W,Monaco,0,0,Marseille,Monaco,L,Marseille
+1,0,2023-10-07,Monaco,Reims,W,Monaco,0,0,Reims,Monaco,L,Reims
+1,0,2023-10-22,Monaco,Metz,W,Monaco,0,0,Metz,Monaco,L,Metz
+0,0,2023-10-29,Monaco,Lille,L,Monaco,1,0,Lille,Monaco,W,Lille
+1,1,2023-11-05,Monaco,Brest,W,Monaco,0,0,Brest,Monaco,L,Brest
+0,1,2023-11-11,Monaco,Le Havre,D,Monaco,0,0,Le Havre,Monaco,D,Le Havre
+0,0,2023-11-24,Monaco,Paris SG,L,Monaco,1,1,Paris SG,Monaco,W,Paris SG
+1,0,2023-12-03,Monaco,Montpellier,W,Monaco,0,0,Montpellier,Monaco,L,Montpellier
+1,0,2023-12-09,Monaco,Rennes,W,Monaco,0,0,Rennes,Monaco,L,Rennes
+0,0,2023-12-15,Monaco,Lyon,L,Monaco,1,0,Lyon,Monaco,W,Lyon
+1,0,2023-12-20,Monaco,Toulouse,W,Monaco,0,0,Toulouse,Monaco,L,Toulouse
+0,0,2024-01-13,Monaco,Reims,L,Monaco,1,0,Reims,Monaco,W,Reims
+0,0,2024-01-27,Monaco,Marseille,D,Monaco,0,0,Marseille,Monaco,D,Marseille
+0,0,2024-02-04,Monaco,Le Havre,D,Monaco,0,0,Le Havre,Monaco,D,Le Havre
+1,0,2024-02-11,Monaco,Nice,W,Monaco,0,0,Nice,Monaco,L,Nice
+0,0,2024-02-18,Monaco,Toulouse,L,Monaco,1,0,Toulouse,Monaco,W,Toulouse
+1,0,2024-02-25,Monaco,Lens,W,Monaco,0,0,Lens,Monaco,L,Lens
+0,0,2024-03-01,Monaco,Paris SG,D,Monaco,0,0,Paris SG,Monaco,D,Paris SG
+1,0,2024-03-10,Monaco,Strasbourg,W,Monaco,0,0,Strasbourg,Monaco,L,Strasbourg
+0,0,2024-03-17,Monaco,Lorient,D,Monaco,0,0,Lorient,Monaco,D,Lorient
+1,0,2024-03-30,Monaco,Metz,W,Monaco,0,0,Metz,Monaco,L,Metz
+1,1,2024-04-07,Monaco,Rennes,W,Monaco,0,0,Rennes,Monaco,L,Rennes
+1,1,2024-04-21,Monaco,Brest,W,Monaco,0,0,Brest,Monaco,L,Brest
+1,0,2024-04-24,Monaco,Lille,W,Monaco,0,0,Lille,Monaco,L,Lille
+0,0,2024-04-28,Monaco,Lyon,L,Monaco,1,0,Lyon,Monaco,W,Lyon
+1,0,2024-05-04,Monaco,Clermont,W,Monaco,0,0,Clermont,Monaco,L,Clermont
+1,0,2024-05-12,Monaco,Montpellier,W,Monaco,0,0,Montpellier,Monaco,L,Montpellier
+1,1,2024-05-19,Monaco,Nantes,W,Monaco,0,0,Nantes,Monaco,L,Nantes
+1,1,2024-08-17,Monaco,St Etienne,W,Monaco,0,0,St Etienne,Monaco,L,St Etienne
+1,0,2024-08-24,Monaco,Lyon,W,Monaco,0,0,Lyon,Monaco,L,Lyon
+0,0,2024-09-01,Monaco,Lens,D,Monaco,0,0,Lens,Monaco,D,Lens
+1,1,2024-09-14,Monaco,Auxerre,W,Monaco,0,0,Auxerre,Monaco,L,Auxerre
+1,1,2024-09-22,Monaco,Le Havre,W,Monaco,0,0,Le Havre,Monaco,L,Le Havre
+1,1,2024-09-28,Monaco,Montpellier,W,Monaco,0,0,Montpellier,Monaco,L,Montpellier
+1,0,2024-10-05,Monaco,Rennes,W,Monaco,0,0,Rennes,Monaco,L,Rennes
+0,0,2024-10-18,Monaco,Lille,D,Monaco,0,0,Lille,Monaco,D,Lille
+0,0,2024-10-27,Monaco,Nice,L,Monaco,1,0,Nice,Monaco,W,Nice
+0,0,2024-11-01,Monaco,Angers,L,Monaco,1,0,Angers,Monaco,W,Angers
+1,0,2024-11-09,Monaco,Strasbourg,W,Monaco,0,0,Strasbourg,Monaco,L,Strasbourg
+1,0,2024-11-22,Monaco,Brest,W,Monaco,0,0,Brest,Monaco,L,Brest
+0,0,2024-12-01,Monaco,Marseille,L,Monaco,1,0,Marseille,Monaco,W,Marseille
+1,0,2024-12-07,Monaco,Toulouse,W,Monaco,0,0,Toulouse,Monaco,L,Toulouse
+0,0,2024-12-14,Monaco,Reims,D,Monaco,0,0,Reims,Monaco,D,Reims
+0,0,2024-12-18,Monaco,Paris SG,L,Monaco,1,0,Paris SG,Monaco,W,Paris SG
+0,0,2025-01-10,Monaco,Nantes,D,Monaco,0,0,Nantes,Monaco,D,Nantes
+0,0,2025-01-17,Monaco,Montpellier,L,Monaco,1,0,Montpellier,Monaco,W,Montpellier
+1,0,2025-01-25,Monaco,Rennes,W,Monaco,0,0,Rennes,Monaco,L,Rennes
+1,0,2025-02-01,Monaco,Auxerre,W,Monaco,0,0,Auxerre,Monaco,L,Auxerre
+0,0,2025-02-07,Monaco,Paris SG,L,Monaco,1,0,Paris SG,Monaco,W,Paris SG
+1,0,2025-02-15,Monaco,Nantes,W,Monaco,0,0,Nantes,Monaco,L,Nantes
+0,0,2025-02-22,Monaco,Lille,L,Monaco,1,1,Lille,Monaco,W,Lille
+1,0,2025-02-28,Monaco,Reims,W,Monaco,0,0,Reims,Monaco,L,Reims
+0,1,2025-03-07,Monaco,Toulouse,D,Monaco,0,0,Toulouse,Monaco,D,Toulouse
+1,0,2025-03-15,Monaco,Angers,W,Monaco,0,0,Angers,Monaco,L,Angers
+1,1,2025-03-29,Monaco,Nice,W,Monaco,0,0,Nice,Monaco,L,Nice
+0,0,2025-04-05,Monaco,Brest,L,Monaco,1,0,Brest,Monaco,W,Brest
+1,0,2025-04-12,Monaco,Marseille,W,Monaco,0,0,Marseille,Monaco,L,Marseille
+0,0,2025-04-19,Monaco,Strasbourg,D,Monaco,0,0,Strasbourg,Monaco,D,Strasbourg
+0,0,2025-04-26,Monaco,Le Havre,D,Monaco,0,0,Le Havre,Monaco,D,Le Havre
+1,0,2025-05-03,Monaco,St Etienne,W,Monaco,0,0,St Etienne,Monaco,L,St Etienne
+1,0,2025-05-10,Monaco,Lyon,W,Monaco,0,0,Lyon,Monaco,L,Lyon
+0,0,2025-05-17,Monaco,Lens,L,Monaco,1,0,Lens,Monaco,W,Lens
+0,0,2023-01-02,Montpellier,Marseille,L,Montpellier,1,0,Marseille,Montpellier,W,Marseille
+0,0,2023-01-11,Montpellier,Nice,L,Montpellier,1,0,Nice,Montpellier,W,Nice
+0,0,2023-01-15,Montpellier,Nantes,L,Montpellier,1,0,Nantes,Montpellier,W,Nantes
+1,0,2023-01-29,Montpellier,Auxerre,W,Montpellier,0,0,Auxerre,Montpellier,L,Auxerre
+0,0,2023-02-01,Montpellier,Paris SG,L,Montpellier,1,0,Paris SG,Montpellier,W,Paris SG
+0,0,2023-02-05,Montpellier,Strasbourg,L,Montpellier,1,0,Strasbourg,Montpellier,W,Strasbourg
+1,0,2023-02-12,Montpellier,Brest,W,Montpellier,0,0,Brest,Montpellier,L,Brest
+1,0,2023-02-19,Montpellier,Troyes,W,Montpellier,0,0,Troyes,Montpellier,L,Troyes
+0,0,2023-02-25,Montpellier,Lens,D,Montpellier,0,0,Lens,Montpellier,D,Lens
+1,1,2023-03-05,Montpellier,Angers,W,Montpellier,0,0,Angers,Montpellier,L,Angers
+1,1,2023-03-12,Montpellier,Ajaccio,W,Montpellier,0,0,Ajaccio,Montpellier,L,Ajaccio
+1,0,2023-03-19,Montpellier,Clermont,W,Montpellier,0,0,Clermont,Montpellier,L,Clermont
+0,0,2023-03-31,Montpellier,Marseille,D,Montpellier,0,0,Marseille,Montpellier,D,Marseille
+0,0,2023-04-09,Montpellier,Toulouse,L,Montpellier,1,0,Toulouse,Montpellier,W,Toulouse
+0,0,2023-04-16,Montpellier,Lille,L,Montpellier,1,1,Lille,Montpellier,W,Lille
+1,0,2023-04-23,Montpellier,Rennes,W,Montpellier,0,0,Rennes,Montpellier,L,Rennes
+1,0,2023-04-30,Montpellier,Monaco,W,Montpellier,0,0,Monaco,Montpellier,L,Monaco
+0,0,2023-05-07,Montpellier,Lyon,L,Montpellier,1,0,Lyon,Montpellier,W,Lyon
+0,0,2023-05-14,Montpellier,Lorient,D,Montpellier,0,0,Lorient,Montpellier,D,Lorient
+1,0,2023-05-20,Montpellier,Nantes,W,Montpellier,0,0,Nantes,Montpellier,L,Nantes
+0,0,2023-05-27,Montpellier,Nice,L,Montpellier,1,0,Nice,Montpellier,W,Nice
+1,0,2023-06-03,Montpellier,Reims,W,Montpellier,0,0,Reims,Montpellier,L,Reims
+1,0,2023-08-19,Montpellier,Lyon,W,Montpellier,0,1,Lyon,Montpellier,L,Lyon
+0,0,2023-08-27,Montpellier,Reims,L,Montpellier,1,0,Reims,Montpellier,W,Reims
+0,0,2023-09-03,Montpellier,Lille,L,Montpellier,1,0,Lille,Montpellier,W,Lille
+0,0,2023-09-17,Montpellier,Strasbourg,D,Montpellier,0,0,Strasbourg,Montpellier,D,Strasbourg
+0,0,2023-09-24,Montpellier,Rennes,D,Montpellier,0,0,Rennes,Montpellier,D,Rennes
+1,0,2023-10-01,Montpellier,Lorient,W,Montpellier,0,0,Lorient,Montpellier,L,Lorient
+0,0,2023-10-22,Montpellier,Nantes,L,Montpellier,1,0,Nantes,Montpellier,W,Nantes
+1,0,2023-10-29,Montpellier,Toulouse,W,Montpellier,0,0,Toulouse,Montpellier,L,Toulouse
+0,0,2023-11-03,Montpellier,Paris SG,L,Montpellier,1,0,Paris SG,Montpellier,W,Paris SG
+0,0,2023-11-10,Montpellier,Nice,D,Montpellier,0,0,Nice,Montpellier,D,Nice
+0,0,2023-11-26,Montpellier,Brest,L,Montpellier,1,0,Brest,Montpellier,W,Brest
+0,0,2023-11-29,Montpellier,Clermont,D,Montpellier,0,0,Clermont,Montpellier,D,Clermont
+0,0,2023-12-03,Montpellier,Monaco,L,Montpellier,1,0,Monaco,Montpellier,W,Monaco
+0,0,2023-12-08,Montpellier,Lens,D,Montpellier,0,0,Lens,Montpellier,D,Lens
+1,0,2023-12-17,Montpellier,Metz,W,Montpellier,0,0,Metz,Montpellier,L,Metz
+0,0,2023-12-20,Montpellier,Marseille,D,Montpellier,0,0,Marseille,Montpellier,D,Marseille
+0,0,2024-01-14,Montpellier,Brest,L,Montpellier,1,0,Brest,Montpellier,W,Brest
+0,0,2024-01-28,Montpellier,Lille,D,Montpellier,0,0,Lille,Montpellier,D,Lille
+0,0,2024-02-03,Montpellier,Rennes,L,Montpellier,1,1,Rennes,Montpellier,W,Rennes
+0,0,2024-02-11,Montpellier,Lyon,L,Montpellier,1,0,Lyon,Montpellier,W,Lyon
+1,0,2024-02-18,Montpellier,Metz,W,Montpellier,0,0,Metz,Montpellier,L,Metz
+0,0,2024-02-25,Montpellier,Marseille,L,Montpellier,1,0,Marseille,Montpellier,W,Marseille
+0,0,2024-03-03,Montpellier,Strasbourg,D,Montpellier,0,0,Strasbourg,Montpellier,D,Strasbourg
+1,0,2024-03-08,Montpellier,Nice,W,Montpellier,0,1,Nice,Montpellier,L,Nice
+0,0,2024-03-17,Montpellier,Paris SG,L,Montpellier,1,0,Paris SG,Montpellier,W,Paris SG
+1,0,2024-03-31,Montpellier,Le Havre,W,Montpellier,0,0,Le Havre,Montpellier,L,Le Havre
+1,0,2024-04-07,Montpellier,Lorient,W,Montpellier,0,0,Lorient,Montpellier,L,Lorient
+0,0,2024-04-14,Montpellier,Clermont,D,Montpellier,0,0,Clermont,Montpellier,D,Clermont
+1,0,2024-04-21,Montpellier,Reims,W,Montpellier,0,0,Reims,Montpellier,L,Reims
+0,0,2024-04-26,Montpellier,Nantes,D,Montpellier,0,0,Nantes,Montpellier,D,Nantes
+1,0,2024-05-03,Montpellier,Toulouse,W,Montpellier,0,0,Toulouse,Montpellier,L,Toulouse
+0,0,2024-05-12,Montpellier,Monaco,L,Montpellier,1,0,Monaco,Montpellier,W,Monaco
+0,0,2024-05-19,Montpellier,Lens,D,Montpellier,0,0,Lens,Montpellier,D,Lens
+0,0,2024-08-18,Montpellier,Strasbourg,D,Montpellier,0,0,Strasbourg,Montpellier,D,Strasbourg
+0,0,2024-08-23,Montpellier,Paris SG,L,Montpellier,1,1,Paris SG,Montpellier,W,Paris SG
+0,0,2024-08-31,Montpellier,Nantes,L,Montpellier,1,0,Nantes,Montpellier,W,Nantes
+0,0,2024-09-15,Montpellier,Rennes,L,Montpellier,1,0,Rennes,Montpellier,W,Rennes
+1,0,2024-09-22,Montpellier,Auxerre,W,Montpellier,0,0,Auxerre,Montpellier,L,Auxerre
+0,0,2024-09-28,Montpellier,Monaco,L,Montpellier,1,1,Monaco,Montpellier,W,Monaco
+0,0,2024-10-06,Montpellier,Reims,L,Montpellier,1,0,Reims,Montpellier,W,Reims
+0,0,2024-10-20,Montpellier,Marseille,L,Montpellier,1,0,Marseille,Montpellier,W,Marseille
+0,0,2024-10-27,Montpellier,Toulouse,L,Montpellier,1,0,Toulouse,Montpellier,W,Toulouse
+0,0,2024-11-03,Montpellier,Le Havre,L,Montpellier,1,0,Le Havre,Montpellier,W,Le Havre
+1,0,2024-11-10,Montpellier,Brest,W,Montpellier,0,0,Brest,Montpellier,L,Brest
+0,0,2024-11-23,Montpellier,St Etienne,L,Montpellier,1,0,St Etienne,Montpellier,W,St Etienne
+0,0,2024-12-01,Montpellier,Lille,D,Montpellier,0,0,Lille,Montpellier,D,Lille
+0,0,2024-12-08,Montpellier,Lens,L,Montpellier,1,0,Lens,Montpellier,W,Lens
+0,0,2024-12-15,Montpellier,Nice,D,Montpellier,0,0,Nice,Montpellier,D,Nice
+0,0,2025-01-04,Montpellier,Lyon,L,Montpellier,1,0,Lyon,Montpellier,W,Lyon
+0,1,2025-01-12,Montpellier,Angers,L,Montpellier,1,0,Angers,Montpellier,W,Angers
+1,0,2025-01-17,Montpellier,Monaco,W,Montpellier,0,0,Monaco,Montpellier,L,Monaco
+1,0,2025-01-26,Montpellier,Toulouse,W,Montpellier,0,0,Toulouse,Montpellier,L,Toulouse
+0,0,2025-01-31,Montpellier,Lens,L,Montpellier,1,0,Lens,Montpellier,W,Lens
+0,0,2025-02-09,Montpellier,Strasbourg,L,Montpellier,1,0,Strasbourg,Montpellier,W,Strasbourg
+0,0,2025-02-16,Montpellier,Lyon,L,Montpellier,1,0,Lyon,Montpellier,W,Lyon
+0,0,2025-02-23,Montpellier,Nice,L,Montpellier,1,0,Nice,Montpellier,W,Nice
+0,0,2025-03-02,Montpellier,Rennes,L,Montpellier,1,0,Rennes,Montpellier,W,Rennes
+0,0,2025-03-08,Montpellier,Lille,L,Montpellier,1,0,Lille,Montpellier,W,Lille
+0,0,2025-03-16,Montpellier,St Etienne,L,Montpellier,1,0,St Etienne,Montpellier,W,St Etienne
+0,0,2025-03-30,Montpellier,Auxerre,L,Montpellier,1,0,Auxerre,Montpellier,W,Auxerre
+0,0,2025-04-06,Montpellier,Le Havre,L,Montpellier,1,0,Le Havre,Montpellier,W,Le Havre
+0,0,2025-04-13,Montpellier,Angers,L,Montpellier,1,0,Angers,Montpellier,W,Angers
+0,0,2025-04-19,Montpellier,Marseille,L,Montpellier,1,0,Marseille,Montpellier,W,Marseille
+0,0,2025-04-27,Montpellier,Reims,D,Montpellier,0,0,Reims,Montpellier,D,Reims
+0,0,2025-05-04,Montpellier,Brest,L,Montpellier,1,0,Brest,Montpellier,W,Brest
+0,0,2025-05-10,Montpellier,Paris SG,L,Montpellier,1,0,Paris SG,Montpellier,W,Paris SG
+0,0,2025-05-17,Montpellier,Nantes,L,Montpellier,1,0,Nantes,Montpellier,W,Nantes
+0,0,2023-01-11,Nantes,Lyon,D,Nantes,0,0,Lyon,Nantes,D,Lyon
+1,0,2023-01-15,Nantes,Montpellier,W,Nantes,0,0,Montpellier,Nantes,L,Montpellier
+0,0,2023-01-29,Nantes,Clermont,D,Nantes,0,0,Clermont,Nantes,D,Clermont
+0,0,2023-02-01,Nantes,Marseille,L,Nantes,1,0,Marseille,Nantes,W,Marseille
+1,0,2023-02-05,Nantes,Ajaccio,W,Nantes,0,0,Ajaccio,Nantes,L,Ajaccio
+1,0,2023-02-12,Nantes,Lorient,W,Nantes,0,0,Lorient,Nantes,L,Lorient
+0,0,2023-02-19,Nantes,Lens,L,Nantes,1,0,Lens,Nantes,W,Lens
+0,0,2023-02-26,Nantes,Rennes,L,Nantes,1,0,Rennes,Nantes,W,Rennes
+0,0,2023-03-04,Nantes,Paris SG,L,Nantes,1,0,Paris SG,Nantes,W,Paris SG
+0,0,2023-03-12,Nantes,Nice,D,Nantes,0,0,Nice,Nantes,D,Nice
+0,0,2023-03-17,Nantes,Lyon,D,Nantes,0,0,Lyon,Nantes,D,Lyon
+0,0,2023-04-02,Nantes,Reims,L,Nantes,1,0,Reims,Nantes,W,Reims
+0,0,2023-04-09,Nantes,Monaco,D,Nantes,0,0,Monaco,Nantes,D,Monaco
+0,0,2023-04-16,Nantes,Auxerre,L,Nantes,1,0,Auxerre,Nantes,W,Auxerre
+0,0,2023-04-23,Nantes,Troyes,D,Nantes,0,0,Troyes,Nantes,D,Troyes
+0,0,2023-05-03,Nantes,Brest,L,Nantes,1,0,Brest,Nantes,W,Brest
+0,0,2023-05-07,Nantes,Strasbourg,L,Nantes,1,0,Strasbourg,Nantes,W,Strasbourg
+0,0,2023-05-14,Nantes,Toulouse,D,Nantes,0,0,Toulouse,Nantes,D,Toulouse
+0,0,2023-05-20,Nantes,Montpellier,L,Nantes,1,0,Montpellier,Nantes,W,Montpellier
+0,0,2023-05-27,Nantes,Lille,L,Nantes,1,0,Lille,Nantes,W,Lille
+1,0,2023-06-03,Nantes,Angers,W,Nantes,0,0,Angers,Nantes,L,Angers
+0,0,2023-08-13,Nantes,Toulouse,L,Nantes,1,0,Toulouse,Nantes,W,Toulouse
+0,0,2023-08-20,Nantes,Lille,L,Nantes,1,0,Lille,Nantes,W,Lille
+0,0,2023-08-25,Nantes,Monaco,D,Nantes,0,0,Monaco,Nantes,D,Monaco
+0,0,2023-09-01,Nantes,Marseille,D,Nantes,0,0,Marseille,Nantes,D,Marseille
+1,0,2023-09-17,Nantes,Clermont,W,Nantes,0,0,Clermont,Nantes,L,Clermont
+1,0,2023-09-23,Nantes,Lorient,W,Nantes,0,0,Lorient,Nantes,L,Lorient
+0,0,2023-10-01,Nantes,Rennes,L,Nantes,1,0,Rennes,Nantes,W,Rennes
+1,0,2023-10-06,Nantes,Strasbourg,W,Nantes,0,0,Strasbourg,Nantes,L,Strasbourg
+1,0,2023-10-22,Nantes,Montpellier,W,Nantes,0,0,Montpellier,Nantes,L,Montpellier
+0,0,2023-10-28,Nantes,Lens,L,Nantes,1,0,Lens,Nantes,W,Lens
+0,0,2023-11-05,Nantes,Reims,L,Nantes,1,0,Reims,Nantes,W,Reims
+0,0,2023-11-12,Nantes,Metz,L,Nantes,1,0,Metz,Nantes,W,Metz
+0,0,2023-11-26,Nantes,Le Havre,D,Nantes,0,0,Le Havre,Nantes,D,Le Havre
+1,0,2023-12-02,Nantes,Nice,W,Nantes,0,0,Nice,Nantes,L,Nice
+0,0,2023-12-09,Nantes,Paris SG,L,Nantes,1,0,Paris SG,Nantes,W,Paris SG
+0,0,2023-12-17,Nantes,Brest,L,Nantes,1,0,Brest,Nantes,W,Brest
+0,0,2023-12-20,Nantes,Lyon,L,Nantes,1,0,Lyon,Nantes,W,Lyon
+0,0,2024-01-14,Nantes,Clermont,L,Nantes,1,0,Clermont,Nantes,W,Clermont
+0,0,2024-01-28,Nantes,Reims,D,Nantes,0,0,Reims,Nantes,D,Reims
+0,0,2024-02-03,Nantes,Lens,L,Nantes,1,0,Lens,Nantes,W,Lens
+1,0,2024-02-11,Nantes,Toulouse,W,Nantes,0,0,Toulouse,Nantes,L,Toulouse
+0,0,2024-02-17,Nantes,Paris SG,L,Nantes,1,0,Paris SG,Nantes,W,Paris SG
+1,0,2024-02-24,Nantes,Lorient,W,Nantes,0,0,Lorient,Nantes,L,Lorient
+0,0,2024-03-03,Nantes,Metz,L,Nantes,1,0,Metz,Nantes,W,Metz
+0,0,2024-03-10,Nantes,Marseille,L,Nantes,1,0,Marseille,Nantes,W,Marseille
+0,0,2024-03-16,Nantes,Strasbourg,L,Nantes,1,0,Strasbourg,Nantes,W,Strasbourg
+1,0,2024-03-31,Nantes,Nice,W,Nantes,0,0,Nice,Nantes,L,Nice
+0,0,2024-04-07,Nantes,Lyon,L,Nantes,1,0,Lyon,Nantes,W,Lyon
+1,0,2024-04-14,Nantes,Le Havre,W,Nantes,0,0,Le Havre,Nantes,L,Le Havre
+0,0,2024-04-20,Nantes,Rennes,L,Nantes,1,0,Rennes,Nantes,W,Rennes
+0,0,2024-04-26,Nantes,Montpellier,D,Nantes,0,0,Montpellier,Nantes,D,Montpellier
+0,0,2024-05-04,Nantes,Brest,D,Nantes,0,0,Brest,Nantes,D,Brest
+0,0,2024-05-12,Nantes,Lille,L,Nantes,1,0,Lille,Nantes,W,Lille
+0,0,2024-05-19,Nantes,Monaco,L,Nantes,1,1,Monaco,Nantes,W,Monaco
+0,0,2024-08-18,Nantes,Toulouse,D,Nantes,0,0,Toulouse,Nantes,D,Toulouse
+1,0,2024-08-25,Nantes,Auxerre,W,Nantes,0,0,Auxerre,Nantes,L,Auxerre
+1,0,2024-08-31,Nantes,Montpellier,W,Nantes,0,0,Montpellier,Nantes,L,Montpellier
+0,0,2024-09-15,Nantes,Reims,L,Nantes,1,0,Reims,Nantes,W,Reims
+0,1,2024-09-22,Nantes,Angers,D,Nantes,0,0,Angers,Nantes,D,Angers
+0,0,2024-09-29,Nantes,St Etienne,D,Nantes,0,0,St Etienne,Nantes,D,St Etienne
+0,0,2024-10-06,Nantes,Lyon,L,Nantes,1,0,Lyon,Nantes,W,Lyon
+0,0,2024-10-20,Nantes,Nice,D,Nantes,0,0,Nice,Nantes,D,Nice
+0,0,2024-10-27,Nantes,Strasbourg,L,Nantes,1,0,Strasbourg,Nantes,W,Strasbourg
+0,0,2024-11-03,Nantes,Marseille,L,Nantes,1,0,Marseille,Nantes,W,Marseille
+0,0,2024-11-09,Nantes,Lens,L,Nantes,1,0,Lens,Nantes,W,Lens
+0,0,2024-11-24,Nantes,Le Havre,L,Nantes,1,0,Le Havre,Nantes,W,Le Havre
+0,0,2024-11-30,Nantes,Paris SG,D,Nantes,0,1,Paris SG,Nantes,D,Paris SG
+1,0,2024-12-08,Nantes,Rennes,W,Nantes,0,0,Rennes,Nantes,L,Rennes
+0,0,2024-12-15,Nantes,Brest,L,Nantes,1,0,Brest,Nantes,W,Brest
+0,0,2025-01-04,Nantes,Lille,D,Nantes,0,0,Lille,Nantes,D,Lille
+0,0,2025-01-10,Nantes,Monaco,D,Nantes,0,0,Monaco,Nantes,D,Monaco
+0,0,2025-01-19,Nantes,St Etienne,D,Nantes,0,0,St Etienne,Nantes,D,St Etienne
+0,0,2025-01-26,Nantes,Lyon,D,Nantes,0,0,Lyon,Nantes,D,Lyon
+1,0,2025-02-02,Nantes,Reims,W,Nantes,0,0,Reims,Nantes,L,Reims
+0,0,2025-02-07,Nantes,Brest,L,Nantes,1,0,Brest,Nantes,W,Brest
+0,0,2025-02-15,Nantes,Monaco,L,Nantes,1,0,Monaco,Nantes,W,Monaco
+1,0,2025-02-23,Nantes,Lens,W,Nantes,0,0,Lens,Nantes,L,Lens
+0,0,2025-03-02,Nantes,Marseille,L,Nantes,1,1,Marseille,Nantes,W,Marseille
+0,0,2025-03-09,Nantes,Strasbourg,L,Nantes,1,0,Strasbourg,Nantes,W,Strasbourg
+1,0,2025-03-15,Nantes,Lille,W,Nantes,0,0,Lille,Nantes,L,Lille
+0,0,2025-03-30,Nantes,Le Havre,L,Nantes,1,0,Le Havre,Nantes,W,Le Havre
+1,0,2025-04-04,Nantes,Nice,W,Nantes,0,0,Nice,Nantes,L,Nice
+0,0,2025-04-18,Nantes,Rennes,L,Nantes,1,0,Rennes,Nantes,W,Rennes
+0,0,2025-04-22,Nantes,Paris SG,D,Nantes,0,1,Paris SG,Nantes,D,Paris SG
+0,0,2025-04-27,Nantes,Toulouse,D,Nantes,0,0,Toulouse,Nantes,D,Toulouse
+0,0,2025-05-04,Nantes,Angers,L,Nantes,1,0,Angers,Nantes,W,Angers
+0,0,2025-05-10,Nantes,Auxerre,D,Nantes,0,0,Auxerre,Nantes,D,Auxerre
+1,0,2025-05-17,Nantes,Montpellier,W,Nantes,0,0,Montpellier,Nantes,L,Montpellier
+0,0,2023-01-02,Nice,Rennes,L,Nice,1,0,Rennes,Nice,W,Rennes
+1,0,2023-01-11,Nice,Montpellier,W,Nice,0,0,Montpellier,Nice,L,Montpellier
+0,0,2023-01-15,Nice,Reims,D,Nice,0,0,Reims,Nice,D,Reims
+1,0,2023-01-29,Nice,Lille,W,Nice,0,0,Lille,Nice,L,Lille
+1,0,2023-02-01,Nice,Lens,W,Nice,0,0,Lens,Nice,L,Lens
+1,0,2023-02-05,Nice,Marseille,W,Nice,0,1,Marseille,Nice,L,Marseille
+1,1,2023-02-10,Nice,Ajaccio,W,Nice,0,0,Ajaccio,Nice,L,Ajaccio
+0,0,2023-02-18,Nice,Reims,D,Nice,0,0,Reims,Nice,D,Reims
+1,0,2023-02-26,Nice,Monaco,W,Nice,0,0,Monaco,Nice,L,Monaco
+0,0,2023-03-03,Nice,Auxerre,D,Nice,0,0,Auxerre,Nice,D,Auxerre
+0,0,2023-03-12,Nice,Nantes,D,Nice,0,0,Nantes,Nice,D,Nantes
+0,0,2023-03-19,Nice,Lorient,D,Nice,0,0,Lorient,Nice,D,Lorient
+0,1,2023-04-02,Nice,Angers,D,Nice,0,0,Angers,Nice,D,Angers
+0,0,2023-04-08,Nice,Paris SG,L,Nice,1,0,Paris SG,Nice,W,Paris SG
+0,0,2023-04-16,Nice,Brest,L,Nice,1,0,Brest,Nice,W,Brest
+0,0,2023-04-23,Nice,Clermont,L,Nice,1,0,Clermont,Nice,W,Clermont
+1,0,2023-04-30,Nice,Troyes,W,Nice,0,0,Troyes,Nice,L,Troyes
+1,1,2023-05-06,Nice,Rennes,W,Nice,0,0,Rennes,Nice,L,Rennes
+0,0,2023-05-13,Nice,Strasbourg,L,Nice,1,0,Strasbourg,Nice,W,Strasbourg
+0,1,2023-05-21,Nice,Toulouse,D,Nice,0,0,Toulouse,Nice,D,Toulouse
+1,0,2023-05-27,Nice,Montpellier,W,Nice,0,0,Montpellier,Nice,L,Montpellier
+1,1,2023-06-03,Nice,Lyon,W,Nice,0,0,Lyon,Nice,L,Lyon
+0,1,2023-08-11,Nice,Lille,D,Nice,0,0,Lille,Nice,D,Lille
+0,0,2023-08-20,Nice,Lorient,D,Nice,0,0,Lorient,Nice,D,Lorient
+0,0,2023-08-27,Nice,Lyon,D,Nice,0,0,Lyon,Nice,D,Lyon
+1,0,2023-09-03,Nice,Strasbourg,W,Nice,0,0,Strasbourg,Nice,L,Strasbourg
+1,0,2023-09-15,Nice,Paris SG,W,Nice,0,1,Paris SG,Nice,L,Paris SG
+1,0,2023-09-22,Nice,Monaco,W,Nice,0,1,Monaco,Nice,L,Monaco
+0,1,2023-10-01,Nice,Brest,D,Nice,0,0,Brest,Nice,D,Brest
+1,0,2023-10-07,Nice,Metz,W,Nice,0,0,Metz,Nice,L,Metz
+1,0,2023-10-21,Nice,Marseille,W,Nice,0,0,Marseille,Nice,L,Marseille
+1,0,2023-10-27,Nice,Clermont,W,Nice,0,0,Clermont,Nice,L,Clermont
+1,0,2023-11-05,Nice,Rennes,W,Nice,0,0,Rennes,Nice,L,Rennes
+0,0,2023-11-10,Nice,Montpellier,D,Nice,0,0,Montpellier,Nice,D,Montpellier
+1,0,2023-11-26,Nice,Toulouse,W,Nice,0,0,Toulouse,Nice,L,Toulouse
+0,0,2023-12-02,Nice,Nantes,L,Nice,1,0,Nantes,Nice,W,Nantes
+1,0,2023-12-10,Nice,Reims,W,Nice,0,0,Reims,Nice,L,Reims
+0,0,2023-12-16,Nice,Le Havre,L,Nice,1,0,Le Havre,Nice,W,Le Havre
+1,0,2023-12-20,Nice,Lens,W,Nice,0,0,Lens,Nice,L,Lens
+0,0,2024-01-13,Nice,Rennes,L,Nice,1,1,Rennes,Nice,W,Rennes
+1,0,2024-01-27,Nice,Metz,W,Nice,0,0,Metz,Nice,L,Metz
+0,0,2024-02-04,Nice,Brest,D,Nice,0,0,Brest,Nice,D,Brest
+0,0,2024-02-11,Nice,Monaco,L,Nice,1,0,Monaco,Nice,W,Monaco
+0,0,2024-02-16,Nice,Lyon,L,Nice,1,0,Lyon,Nice,W,Lyon
+0,0,2024-02-25,Nice,Clermont,D,Nice,0,0,Clermont,Nice,D,Clermont
+0,0,2024-03-03,Nice,Toulouse,L,Nice,1,0,Toulouse,Nice,W,Toulouse
+0,1,2024-03-08,Nice,Montpellier,L,Nice,1,0,Montpellier,Nice,W,Montpellier
+1,0,2024-03-16,Nice,Lens,W,Nice,0,0,Lens,Nice,L,Lens
+0,0,2024-03-31,Nice,Nantes,L,Nice,1,0,Nantes,Nice,W,Nantes
+0,0,2024-04-07,Nice,Reims,D,Nice,0,0,Reims,Nice,D,Reims
+1,0,2024-04-19,Nice,Lorient,W,Nice,0,0,Lorient,Nice,L,Lorient
+0,0,2024-04-24,Nice,Marseille,D,Nice,0,0,Marseille,Nice,D,Marseille
+1,0,2024-04-28,Nice,Strasbourg,W,Nice,0,0,Strasbourg,Nice,L,Strasbourg
+1,1,2024-05-10,Nice,Le Havre,W,Nice,0,0,Le Havre,Nice,L,Le Havre
+0,0,2024-05-15,Nice,Paris SG,L,Nice,1,0,Paris SG,Nice,W,Paris SG
+0,0,2024-05-19,Nice,Lille,D,Nice,0,0,Lille,Nice,D,Lille
+0,0,2024-08-18,Nice,Auxerre,L,Nice,1,0,Auxerre,Nice,W,Auxerre
+0,0,2024-08-25,Nice,Toulouse,D,Nice,0,0,Toulouse,Nice,D,Toulouse
+1,0,2024-09-01,Nice,Angers,W,Nice,0,0,Angers,Nice,L,Angers
+0,0,2024-09-14,Nice,Marseille,L,Nice,1,0,Marseille,Nice,W,Marseille
+1,0,2024-09-20,Nice,St Etienne,W,Nice,0,0,St Etienne,Nice,L,St Etienne
+0,0,2024-09-28,Nice,Lens,D,Nice,0,0,Lens,Nice,D,Lens
+0,0,2024-10-06,Nice,Paris SG,D,Nice,0,0,Paris SG,Nice,D,Paris SG
+0,0,2024-10-20,Nice,Nantes,D,Nice,0,0,Nantes,Nice,D,Nantes
+1,0,2024-10-27,Nice,Monaco,W,Nice,0,0,Monaco,Nice,L,Monaco
+1,0,2024-11-02,Nice,Brest,W,Nice,0,0,Brest,Nice,L,Brest
+0,0,2024-11-10,Nice,Lille,D,Nice,0,0,Lille,Nice,D,Lille
+1,0,2024-11-24,Nice,Strasbourg,W,Nice,0,0,Strasbourg,Nice,L,Strasbourg
+0,0,2024-12-01,Nice,Lyon,L,Nice,1,0,Lyon,Nice,W,Lyon
+1,0,2024-12-07,Nice,Le Havre,W,Nice,0,0,Le Havre,Nice,L,Le Havre
+0,0,2024-12-15,Nice,Montpellier,D,Nice,0,0,Montpellier,Nice,D,Montpellier
+1,0,2025-01-03,Nice,Rennes,W,Nice,0,0,Rennes,Nice,L,Rennes
+1,0,2025-01-11,Nice,Reims,W,Nice,0,0,Reims,Nice,L,Reims
+0,0,2025-01-17,Nice,Lille,L,Nice,1,0,Lille,Nice,W,Lille
+1,0,2025-01-26,Nice,Marseille,W,Nice,0,0,Marseille,Nice,L,Marseille
+0,0,2025-02-02,Nice,Toulouse,D,Nice,0,0,Toulouse,Nice,D,Toulouse
+1,0,2025-02-08,Nice,Lens,W,Nice,0,0,Lens,Nice,L,Lens
+1,0,2025-02-16,Nice,Le Havre,W,Nice,0,0,Le Havre,Nice,L,Le Havre
+1,0,2025-02-23,Nice,Montpellier,W,Nice,0,0,Montpellier,Nice,L,Montpellier
+1,0,2025-03-01,Nice,St Etienne,W,Nice,0,0,St Etienne,Nice,L,St Etienne
+0,0,2025-03-09,Nice,Lyon,L,Nice,1,0,Lyon,Nice,W,Lyon
+0,1,2025-03-14,Nice,Auxerre,D,Nice,0,0,Auxerre,Nice,D,Auxerre
+0,0,2025-03-29,Nice,Monaco,L,Nice,1,1,Monaco,Nice,W,Monaco
+0,0,2025-04-04,Nice,Nantes,L,Nice,1,0,Nantes,Nice,W,Nantes
+0,0,2025-04-12,Nice,Strasbourg,D,Nice,0,0,Strasbourg,Nice,D,Strasbourg
+1,0,2025-04-20,Nice,Angers,W,Nice,0,0,Angers,Nice,L,Angers
+1,0,2025-04-25,Nice,Paris SG,W,Nice,0,0,Paris SG,Nice,L,Paris SG
+1,1,2025-05-02,Nice,Reims,W,Nice,0,0,Reims,Nice,L,Reims
+0,0,2025-05-10,Nice,Rennes,L,Nice,1,0,Rennes,Nice,W,Rennes
+1,0,2025-05-17,Nice,Brest,W,Nice,0,0,Brest,Nice,L,Brest
+1,1,2023-01-11,Paris SG,Angers,W,Paris SG,0,0,Angers,Paris SG,L,Angers
+0,0,2023-01-15,Paris SG,Rennes,L,Paris SG,1,0,Rennes,Paris SG,W,Rennes
+0,0,2023-01-29,Paris SG,Reims,D,Paris SG,0,0,Reims,Paris SG,D,Reims
+1,0,2023-02-01,Paris SG,Montpellier,W,Paris SG,0,0,Montpellier,Paris SG,L,Montpellier
+1,0,2023-02-04,Paris SG,Toulouse,W,Paris SG,0,0,Toulouse,Paris SG,L,Toulouse
+0,0,2023-02-11,Paris SG,Monaco,L,Paris SG,1,0,Monaco,Paris SG,W,Monaco
+1,0,2023-02-19,Paris SG,Lille,W,Paris SG,0,0,Lille,Paris SG,L,Lille
+1,0,2023-02-26,Paris SG,Marseille,W,Paris SG,0,1,Marseille,Paris SG,L,Marseille
+1,0,2023-03-04,Paris SG,Nantes,W,Paris SG,0,0,Nantes,Paris SG,L,Nantes
+1,1,2023-03-11,Paris SG,Brest,W,Paris SG,0,0,Brest,Paris SG,L,Brest
+0,0,2023-03-19,Paris SG,Rennes,L,Paris SG,1,0,Rennes,Paris SG,W,Rennes
+0,1,2023-04-02,Paris SG,Lyon,L,Paris SG,1,0,Lyon,Paris SG,W,Lyon
+1,0,2023-04-08,Paris SG,Nice,W,Paris SG,0,0,Nice,Paris SG,L,Nice
+1,0,2023-04-15,Paris SG,Lens,W,Paris SG,0,0,Lens,Paris SG,L,Lens
+1,1,2023-04-21,Paris SG,Angers,W,Paris SG,0,0,Angers,Paris SG,L,Angers
+0,0,2023-04-30,Paris SG,Lorient,L,Paris SG,1,0,Lorient,Paris SG,W,Lorient
+1,0,2023-05-07,Paris SG,Troyes,W,Paris SG,0,0,Troyes,Paris SG,L,Troyes
+1,1,2023-05-13,Paris SG,Ajaccio,W,Paris SG,0,0,Ajaccio,Paris SG,L,Ajaccio
+1,1,2023-05-21,Paris SG,Auxerre,W,Paris SG,0,0,Auxerre,Paris SG,L,Auxerre
+0,1,2023-05-27,Paris SG,Strasbourg,D,Paris SG,0,0,Strasbourg,Paris SG,D,Strasbourg
+0,1,2023-06-03,Paris SG,Clermont,L,Paris SG,1,0,Clermont,Paris SG,W,Clermont
+0,0,2023-08-12,Paris SG,Lorient,D,Paris SG,0,0,Lorient,Paris SG,D,Lorient
+0,0,2023-08-19,Paris SG,Toulouse,D,Paris SG,0,0,Toulouse,Paris SG,D,Toulouse
+1,0,2023-08-26,Paris SG,Lens,W,Paris SG,0,0,Lens,Paris SG,L,Lens
+1,0,2023-09-03,Paris SG,Lyon,W,Paris SG,0,0,Lyon,Paris SG,L,Lyon
+0,1,2023-09-15,Paris SG,Nice,L,Paris SG,1,0,Nice,Paris SG,W,Nice
+1,1,2023-09-24,Paris SG,Marseille,W,Paris SG,0,0,Marseille,Paris SG,L,Marseille
+0,1,2023-09-30,Paris SG,Clermont,D,Paris SG,0,0,Clermont,Paris SG,D,Clermont
+1,0,2023-10-08,Paris SG,Rennes,W,Paris SG,0,0,Rennes,Paris SG,L,Rennes
+1,1,2023-10-21,Paris SG,Strasbourg,W,Paris SG,0,0,Strasbourg,Paris SG,L,Strasbourg
+1,1,2023-10-29,Paris SG,Brest,W,Paris SG,0,0,Brest,Paris SG,L,Brest
+1,0,2023-11-03,Paris SG,Montpellier,W,Paris SG,0,0,Montpellier,Paris SG,L,Montpellier
+1,0,2023-11-11,Paris SG,Reims,W,Paris SG,0,0,Reims,Paris SG,L,Reims
+1,1,2023-11-24,Paris SG,Monaco,W,Paris SG,0,0,Monaco,Paris SG,L,Monaco
+1,1,2023-12-03,Paris SG,Le Havre,W,Paris SG,0,0,Le Havre,Paris SG,L,Le Havre
+1,0,2023-12-09,Paris SG,Nantes,W,Paris SG,0,0,Nantes,Paris SG,L,Nantes
+0,0,2023-12-17,Paris SG,Lille,D,Paris SG,0,0,Lille,Paris SG,D,Lille
+1,0,2023-12-20,Paris SG,Metz,W,Paris SG,0,0,Metz,Paris SG,L,Metz
+1,0,2024-01-14,Paris SG,Lens,W,Paris SG,0,0,Lens,Paris SG,L,Lens
+0,1,2024-01-28,Paris SG,Brest,D,Paris SG,0,1,Brest,Paris SG,D,Brest
+1,0,2024-02-02,Paris SG,Strasbourg,W,Paris SG,0,0,Strasbourg,Paris SG,L,Strasbourg
+1,0,2024-02-10,Paris SG,Lille,W,Paris SG,0,0,Lille,Paris SG,L,Lille
+1,0,2024-02-17,Paris SG,Nantes,W,Paris SG,0,0,Nantes,Paris SG,L,Nantes
+0,0,2024-02-25,Paris SG,Rennes,D,Paris SG,0,0,Rennes,Paris SG,D,Rennes
+0,0,2024-03-01,Paris SG,Monaco,D,Paris SG,0,0,Monaco,Paris SG,D,Monaco
+0,0,2024-03-10,Paris SG,Reims,D,Paris SG,0,0,Reims,Paris SG,D,Reims
+1,0,2024-03-17,Paris SG,Montpellier,W,Paris SG,0,0,Montpellier,Paris SG,L,Montpellier
+1,0,2024-03-31,Paris SG,Marseille,W,Paris SG,0,0,Marseille,Paris SG,L,Marseille
+0,1,2024-04-06,Paris SG,Clermont,D,Paris SG,0,0,Clermont,Paris SG,D,Clermont
+1,0,2024-04-21,Paris SG,Lyon,W,Paris SG,0,0,Lyon,Paris SG,L,Lyon
+1,0,2024-04-24,Paris SG,Lorient,W,Paris SG,0,0,Lorient,Paris SG,L,Lorient
+0,1,2024-04-27,Paris SG,Le Havre,D,Paris SG,0,0,Le Havre,Paris SG,D,Le Havre
+0,1,2024-05-12,Paris SG,Toulouse,L,Paris SG,1,0,Toulouse,Paris SG,W,Toulouse
+1,0,2024-05-15,Paris SG,Nice,W,Paris SG,0,0,Nice,Paris SG,L,Nice
+1,0,2024-05-19,Paris SG,Metz,W,Paris SG,0,0,Metz,Paris SG,L,Metz
+1,0,2024-08-16,Paris SG,Le Havre,W,Paris SG,0,0,Le Havre,Paris SG,L,Le Havre
+1,1,2024-08-23,Paris SG,Montpellier,W,Paris SG,0,0,Montpellier,Paris SG,L,Montpellier
+1,1,2024-09-01,Paris SG,Lille,W,Paris SG,0,0,Lille,Paris SG,L,Lille
+1,1,2024-09-14,Paris SG,Brest,W,Paris SG,0,0,Brest,Paris SG,L,Brest
+0,1,2024-09-21,Paris SG,Reims,D,Paris SG,0,0,Reims,Paris SG,D,Reims
+1,0,2024-09-27,Paris SG,Rennes,W,Paris SG,0,0,Rennes,Paris SG,L,Rennes
+0,0,2024-10-06,Paris SG,Nice,D,Paris SG,0,0,Nice,Paris SG,D,Nice
+1,1,2024-10-19,Paris SG,Strasbourg,W,Paris SG,0,0,Strasbourg,Paris SG,L,Strasbourg
+1,1,2024-10-27,Paris SG,Marseille,W,Paris SG,0,0,Marseille,Paris SG,L,Marseille
+1,1,2024-11-02,Paris SG,Lens,W,Paris SG,0,0,Lens,Paris SG,L,Lens
+1,1,2024-11-09,Paris SG,Angers,W,Paris SG,0,0,Angers,Paris SG,L,Angers
+1,1,2024-11-22,Paris SG,Toulouse,W,Paris SG,0,0,Toulouse,Paris SG,L,Toulouse
+0,1,2024-11-30,Paris SG,Nantes,D,Paris SG,0,0,Nantes,Paris SG,D,Nantes
+0,1,2024-12-06,Paris SG,Auxerre,D,Paris SG,0,0,Auxerre,Paris SG,D,Auxerre
+1,1,2024-12-15,Paris SG,Lyon,W,Paris SG,0,0,Lyon,Paris SG,L,Lyon
+1,0,2024-12-18,Paris SG,Monaco,W,Paris SG,0,0,Monaco,Paris SG,L,Monaco
+1,1,2025-01-12,Paris SG,St Etienne,W,Paris SG,0,0,St Etienne,Paris SG,L,St Etienne
+1,1,2025-01-18,Paris SG,Lens,W,Paris SG,0,0,Lens,Paris SG,L,Lens
+0,1,2025-01-25,Paris SG,Reims,D,Paris SG,0,0,Reims,Paris SG,D,Reims
+1,1,2025-02-01,Paris SG,Brest,W,Paris SG,0,0,Brest,Paris SG,L,Brest
+1,0,2025-02-07,Paris SG,Monaco,W,Paris SG,0,0,Monaco,Paris SG,L,Monaco
+1,0,2025-02-15,Paris SG,Toulouse,W,Paris SG,0,0,Toulouse,Paris SG,L,Toulouse
+1,0,2025-02-23,Paris SG,Lyon,W,Paris SG,0,0,Lyon,Paris SG,L,Lyon
+1,1,2025-03-01,Paris SG,Lille,W,Paris SG,0,0,Lille,Paris SG,L,Lille
+1,1,2025-03-08,Paris SG,Rennes,W,Paris SG,0,0,Rennes,Paris SG,L,Rennes
+1,1,2025-03-16,Paris SG,Marseille,W,Paris SG,0,0,Marseille,Paris SG,L,Marseille
+1,1,2025-03-29,Paris SG,St Etienne,W,Paris SG,0,0,St Etienne,Paris SG,L,St Etienne
+1,1,2025-04-05,Paris SG,Angers,W,Paris SG,0,0,Angers,Paris SG,L,Angers
+1,1,2025-04-19,Paris SG,Le Havre,W,Paris SG,0,0,Le Havre,Paris SG,L,Le Havre
+0,1,2025-04-22,Paris SG,Nantes,D,Paris SG,0,0,Nantes,Paris SG,D,Nantes
+0,0,2025-04-25,Paris SG,Nice,L,Paris SG,1,0,Nice,Paris SG,W,Nice
+0,0,2025-05-03,Paris SG,Strasbourg,L,Paris SG,1,0,Strasbourg,Paris SG,W,Strasbourg
+1,0,2025-05-10,Paris SG,Montpellier,W,Paris SG,0,0,Montpellier,Paris SG,L,Montpellier
+1,0,2025-05-17,Paris SG,Auxerre,W,Paris SG,0,0,Auxerre,Paris SG,L,Auxerre
+0,0,2023-01-02,Reims,Lille,D,Reims,0,0,Lille,Reims,D,Lille
+1,0,2023-01-11,Reims,Ajaccio,W,Reims,0,0,Ajaccio,Reims,L,Ajaccio
+0,0,2023-01-15,Reims,Nice,D,Reims,0,0,Nice,Reims,D,Nice
+0,0,2023-01-29,Reims,Paris SG,D,Reims,0,0,Paris SG,Reims,D,Paris SG
+1,0,2023-02-01,Reims,Lorient,W,Reims,0,0,Lorient,Reims,L,Lorient
+0,0,2023-02-05,Reims,Auxerre,D,Reims,0,0,Auxerre,Reims,D,Auxerre
+1,1,2023-02-12,Reims,Troyes,W,Reims,0,0,Troyes,Reims,L,Troyes
+0,0,2023-02-18,Reims,Nice,D,Reims,0,0,Nice,Reims,D,Nice
+1,0,2023-02-26,Reims,Toulouse,W,Reims,0,0,Toulouse,Reims,L,Toulouse
+1,1,2023-03-05,Reims,Ajaccio,W,Reims,0,0,Ajaccio,Reims,L,Ajaccio
+1,0,2023-03-12,Reims,Monaco,W,Reims,0,0,Monaco,Reims,L,Monaco
+0,1,2023-03-19,Reims,Marseille,L,Reims,1,0,Marseille,Reims,W,Marseille
+1,0,2023-04-02,Reims,Nantes,W,Reims,0,0,Nantes,Reims,L,Nantes
+0,1,2023-04-09,Reims,Brest,D,Reims,0,0,Brest,Reims,D,Brest
+0,0,2023-04-15,Reims,Rennes,L,Reims,1,0,Rennes,Reims,W,Rennes
+0,0,2023-04-23,Reims,Strasbourg,L,Reims,1,0,Strasbourg,Reims,W,Strasbourg
+0,0,2023-04-30,Reims,Clermont,L,Reims,1,0,Clermont,Reims,W,Clermont
+1,0,2023-05-06,Reims,Lille,W,Reims,0,0,Lille,Reims,L,Lille
+0,0,2023-05-12,Reims,Lens,L,Reims,1,0,Lens,Reims,W,Lens
+0,0,2023-05-21,Reims,Angers,D,Reims,0,0,Angers,Reims,D,Angers
+0,0,2023-05-27,Reims,Lyon,L,Reims,1,0,Lyon,Reims,W,Lyon
+0,0,2023-06-03,Reims,Montpellier,L,Reims,1,0,Montpellier,Reims,W,Montpellier
+0,0,2023-08-12,Reims,Marseille,L,Reims,1,0,Marseille,Reims,W,Marseille
+1,0,2023-08-20,Reims,Clermont,W,Reims,0,0,Clermont,Reims,L,Clermont
+1,0,2023-08-27,Reims,Montpellier,W,Reims,0,0,Montpellier,Reims,L,Montpellier
+0,0,2023-09-03,Reims,Metz,D,Reims,0,0,Metz,Reims,D,Metz
+0,0,2023-09-17,Reims,Brest,L,Reims,1,0,Brest,Reims,W,Brest
+1,0,2023-09-26,Reims,Lille,W,Reims,0,0,Lille,Reims,L,Lille
+1,0,2023-10-01,Reims,Lyon,W,Reims,0,0,Lyon,Reims,L,Lyon
+0,0,2023-10-07,Reims,Monaco,L,Reims,1,0,Monaco,Reims,W,Monaco
+0,0,2023-10-22,Reims,Toulouse,D,Reims,0,0,Toulouse,Reims,D,Toulouse
+1,0,2023-10-28,Reims,Lorient,W,Reims,0,0,Lorient,Reims,L,Lorient
+1,0,2023-11-05,Reims,Nantes,W,Reims,0,0,Nantes,Reims,L,Nantes
+0,0,2023-11-11,Reims,Paris SG,L,Reims,1,0,Paris SG,Reims,W,Paris SG
+0,0,2023-11-26,Reims,Rennes,L,Reims,1,0,Rennes,Reims,W,Rennes
+1,0,2023-12-01,Reims,Strasbourg,W,Reims,0,0,Strasbourg,Reims,L,Strasbourg
+0,0,2023-12-10,Reims,Nice,L,Reims,1,0,Nice,Reims,W,Nice
+0,0,2023-12-16,Reims,Lens,L,Reims,1,0,Lens,Reims,W,Lens
+1,0,2023-12-20,Reims,Le Havre,W,Reims,0,0,Le Havre,Reims,L,Le Havre
+1,0,2024-01-13,Reims,Monaco,W,Reims,0,0,Monaco,Reims,L,Monaco
+0,0,2024-01-28,Reims,Nantes,D,Reims,0,0,Nantes,Reims,D,Nantes
+0,0,2024-02-04,Reims,Toulouse,L,Reims,1,0,Toulouse,Reims,W,Toulouse
+0,0,2024-02-11,Reims,Lorient,L,Reims,1,0,Lorient,Reims,W,Lorient
+0,0,2024-02-18,Reims,Lens,D,Reims,0,0,Lens,Reims,D,Lens
+1,0,2024-02-25,Reims,Le Havre,W,Reims,0,0,Le Havre,Reims,L,Le Havre
+0,0,2024-03-02,Reims,Lille,L,Reims,1,0,Lille,Reims,W,Lille
+0,0,2024-03-10,Reims,Paris SG,D,Reims,0,0,Paris SG,Reims,D,Paris SG
+1,0,2024-03-17,Reims,Metz,W,Reims,0,0,Metz,Reims,L,Metz
+0,0,2024-03-30,Reims,Lyon,D,Reims,0,0,Lyon,Reims,D,Lyon
+0,0,2024-04-07,Reims,Nice,D,Reims,0,0,Nice,Reims,D,Nice
+0,0,2024-04-13,Reims,Strasbourg,L,Reims,1,0,Strasbourg,Reims,W,Strasbourg
+0,0,2024-04-21,Reims,Montpellier,L,Reims,1,0,Montpellier,Reims,W,Montpellier
+0,0,2024-04-28,Reims,Clermont,L,Reims,1,0,Clermont,Reims,W,Clermont
+0,0,2024-05-10,Reims,Brest,D,Reims,0,0,Brest,Reims,D,Brest
+1,0,2024-05-15,Reims,Marseille,W,Reims,0,0,Marseille,Reims,L,Marseille
+1,0,2024-05-19,Reims,Rennes,W,Reims,0,0,Rennes,Reims,L,Rennes
+0,0,2024-08-17,Reims,Lille,L,Reims,1,0,Lille,Reims,W,Lille
+0,0,2024-08-25,Reims,Marseille,D,Reims,0,0,Marseille,Reims,D,Marseille
+1,0,2024-09-01,Reims,Rennes,W,Reims,0,0,Rennes,Reims,L,Rennes
+1,0,2024-09-15,Reims,Nantes,W,Reims,0,0,Nantes,Reims,L,Nantes
+0,0,2024-09-21,Reims,Paris SG,D,Reims,0,1,Paris SG,Reims,D,Paris SG
+1,0,2024-09-29,Reims,Angers,W,Reims,0,0,Angers,Reims,L,Angers
+1,0,2024-10-06,Reims,Montpellier,W,Reims,0,0,Montpellier,Reims,L,Montpellier
+0,1,2024-10-20,Reims,Auxerre,L,Reims,1,0,Auxerre,Reims,W,Auxerre
+0,1,2024-10-26,Reims,Brest,L,Reims,1,0,Brest,Reims,W,Brest
+0,0,2024-11-03,Reims,Toulouse,L,Reims,1,0,Toulouse,Reims,W,Toulouse
+1,0,2024-11-10,Reims,Le Havre,W,Reims,0,0,Le Havre,Reims,L,Le Havre
+0,0,2024-11-23,Reims,Lyon,D,Reims,0,0,Lyon,Reims,D,Lyon
+0,0,2024-11-29,Reims,Lens,L,Reims,1,0,Lens,Reims,W,Lens
+0,0,2024-12-08,Reims,Strasbourg,D,Reims,0,0,Strasbourg,Reims,D,Strasbourg
+0,0,2024-12-14,Reims,Monaco,D,Reims,0,0,Monaco,Reims,D,Monaco
+0,0,2025-01-04,Reims,St Etienne,L,Reims,1,0,St Etienne,Reims,W,St Etienne
+0,0,2025-01-11,Reims,Nice,L,Reims,1,0,Nice,Reims,W,Nice
+0,0,2025-01-19,Reims,Le Havre,D,Reims,0,0,Le Havre,Reims,D,Le Havre
+0,0,2025-01-25,Reims,Paris SG,D,Reims,0,1,Paris SG,Reims,D,Paris SG
+0,0,2025-02-02,Reims,Nantes,L,Reims,1,0,Nantes,Reims,W,Nantes
+0,0,2025-02-09,Reims,Lyon,L,Reims,1,0,Lyon,Reims,W,Lyon
+0,0,2025-02-16,Reims,Angers,L,Reims,1,0,Angers,Reims,W,Angers
+0,0,2025-02-21,Reims,Rennes,L,Reims,1,0,Rennes,Reims,W,Rennes
+0,0,2025-02-28,Reims,Monaco,L,Reims,1,0,Monaco,Reims,W,Monaco
+0,0,2025-03-09,Reims,Auxerre,L,Reims,1,0,Auxerre,Reims,W,Auxerre
+0,0,2025-03-16,Reims,Brest,D,Reims,0,0,Brest,Reims,D,Brest
+1,0,2025-03-29,Reims,Marseille,W,Reims,0,0,Marseille,Reims,L,Marseille
+0,0,2025-04-06,Reims,Strasbourg,L,Reims,1,0,Strasbourg,Reims,W,Strasbourg
+1,0,2025-04-11,Reims,Lens,W,Reims,0,0,Lens,Reims,L,Lens
+1,0,2025-04-20,Reims,Toulouse,W,Reims,0,0,Toulouse,Reims,L,Toulouse
+0,0,2025-04-27,Reims,Montpellier,D,Reims,0,0,Montpellier,Reims,D,Montpellier
+0,0,2025-05-02,Reims,Nice,L,Reims,1,1,Nice,Reims,W,Nice
+0,0,2025-05-10,Reims,St Etienne,L,Reims,1,0,St Etienne,Reims,W,St Etienne
+0,0,2025-05-17,Reims,Lille,L,Reims,1,0,Lille,Reims,W,Lille
+1,0,2023-01-02,Rennes,Nice,W,Rennes,0,0,Nice,Rennes,L,Nice
+0,0,2023-01-11,Rennes,Clermont,L,Rennes,1,0,Clermont,Rennes,W,Clermont
+1,0,2023-01-15,Rennes,Paris SG,W,Rennes,0,0,Paris SG,Rennes,L,Paris SG
+0,0,2023-01-27,Rennes,Lorient,L,Rennes,1,0,Lorient,Rennes,W,Lorient
+1,0,2023-02-01,Rennes,Strasbourg,W,Rennes,0,0,Strasbourg,Rennes,L,Strasbourg
+0,0,2023-02-04,Rennes,Lille,L,Rennes,1,0,Lille,Rennes,W,Lille
+0,0,2023-02-12,Rennes,Toulouse,L,Rennes,1,0,Toulouse,Rennes,W,Toulouse
+1,0,2023-02-19,Rennes,Clermont,W,Rennes,0,0,Clermont,Rennes,L,Clermont
+1,0,2023-02-26,Rennes,Nantes,W,Rennes,0,0,Nantes,Rennes,L,Nantes
+0,0,2023-03-05,Rennes,Marseille,L,Rennes,1,0,Marseille,Rennes,W,Marseille
+0,0,2023-03-11,Rennes,Auxerre,D,Rennes,0,0,Auxerre,Rennes,D,Auxerre
+1,0,2023-03-19,Rennes,Paris SG,W,Rennes,0,0,Paris SG,Rennes,L,Paris SG
+0,0,2023-04-01,Rennes,Lens,L,Rennes,1,0,Lens,Rennes,W,Lens
+0,0,2023-04-09,Rennes,Lyon,L,Rennes,1,0,Lyon,Rennes,W,Lyon
+1,0,2023-04-15,Rennes,Reims,W,Rennes,0,0,Reims,Rennes,L,Reims
+0,0,2023-04-23,Rennes,Montpellier,L,Rennes,1,0,Montpellier,Rennes,W,Montpellier
+1,1,2023-04-30,Rennes,Angers,W,Rennes,0,0,Angers,Rennes,L,Angers
+0,0,2023-05-06,Rennes,Nice,L,Rennes,1,1,Nice,Rennes,W,Nice
+1,0,2023-05-14,Rennes,Troyes,W,Rennes,0,0,Troyes,Rennes,L,Troyes
+1,1,2023-05-21,Rennes,Ajaccio,W,Rennes,0,0,Ajaccio,Rennes,L,Ajaccio
+1,1,2023-05-27,Rennes,Monaco,W,Rennes,0,0,Monaco,Rennes,L,Monaco
+1,1,2023-06-03,Rennes,Brest,W,Rennes,0,0,Brest,Rennes,L,Brest
+1,0,2023-08-13,Rennes,Metz,W,Rennes,0,0,Metz,Rennes,L,Metz
+0,0,2023-08-20,Rennes,Lens,D,Rennes,0,0,Lens,Rennes,D,Lens
+0,1,2023-09-02,Rennes,Brest,D,Rennes,0,0,Brest,Rennes,D,Brest
+0,0,2023-09-16,Rennes,Lille,D,Rennes,0,0,Lille,Rennes,D,Lille
+0,0,2023-09-24,Rennes,Montpellier,D,Rennes,0,0,Montpellier,Rennes,D,Montpellier
+1,0,2023-10-01,Rennes,Nantes,W,Rennes,0,0,Nantes,Rennes,L,Nantes
+0,0,2023-10-08,Rennes,Paris SG,L,Rennes,1,0,Paris SG,Rennes,W,Paris SG
+0,0,2023-10-22,Rennes,Lorient,L,Rennes,1,0,Lorient,Rennes,W,Lorient
+0,0,2023-10-29,Rennes,Strasbourg,D,Rennes,0,0,Strasbourg,Rennes,D,Strasbourg
+0,0,2023-11-05,Rennes,Nice,L,Rennes,1,0,Nice,Rennes,W,Nice
+0,0,2023-11-12,Rennes,Lyon,L,Rennes,1,0,Lyon,Rennes,W,Lyon
+1,0,2023-11-26,Rennes,Reims,W,Rennes,0,0,Reims,Rennes,L,Reims
+0,0,2023-12-03,Rennes,Marseille,L,Rennes,1,0,Marseille,Rennes,W,Marseille
+0,0,2023-12-09,Rennes,Monaco,L,Rennes,1,0,Monaco,Rennes,W,Monaco
+0,0,2023-12-17,Rennes,Toulouse,D,Rennes,0,0,Toulouse,Rennes,D,Toulouse
+1,0,2023-12-20,Rennes,Clermont,W,Rennes,0,0,Clermont,Rennes,L,Clermont
+1,1,2024-01-13,Rennes,Nice,W,Rennes,0,0,Nice,Rennes,L,Nice
+1,0,2024-01-26,Rennes,Lyon,W,Rennes,0,0,Lyon,Rennes,L,Lyon
+1,1,2024-02-03,Rennes,Montpellier,W,Rennes,0,0,Montpellier,Rennes,L,Montpellier
+1,0,2024-02-11,Rennes,Le Havre,W,Rennes,0,0,Le Havre,Rennes,L,Le Havre
+1,0,2024-02-18,Rennes,Clermont,W,Rennes,0,0,Clermont,Rennes,L,Clermont
+0,0,2024-02-25,Rennes,Paris SG,D,Rennes,0,0,Paris SG,Rennes,D,Paris SG
+0,0,2024-03-03,Rennes,Lorient,L,Rennes,1,0,Lorient,Rennes,W,Lorient
+0,0,2024-03-10,Rennes,Lille,D,Rennes,0,0,Lille,Rennes,D,Lille
+1,0,2024-03-17,Rennes,Marseille,W,Rennes,0,0,Marseille,Rennes,L,Marseille
+0,0,2024-03-31,Rennes,Strasbourg,L,Rennes,1,0,Strasbourg,Rennes,W,Strasbourg
+0,0,2024-04-07,Rennes,Monaco,L,Rennes,1,1,Monaco,Rennes,W,Monaco
+0,0,2024-04-13,Rennes,Toulouse,L,Rennes,1,0,Toulouse,Rennes,W,Toulouse
+1,0,2024-04-20,Rennes,Nantes,W,Rennes,0,0,Nantes,Rennes,L,Nantes
+0,1,2024-04-28,Rennes,Brest,L,Rennes,1,0,Brest,Rennes,W,Brest
+1,0,2024-05-04,Rennes,Metz,W,Rennes,0,0,Metz,Rennes,L,Metz
+0,0,2024-05-12,Rennes,Lens,D,Rennes,0,0,Lens,Rennes,D,Lens
+0,0,2024-05-19,Rennes,Reims,L,Rennes,1,0,Reims,Rennes,W,Reims
+1,1,2024-08-18,Rennes,Lyon,W,Rennes,0,0,Lyon,Rennes,L,Lyon
+0,0,2024-08-25,Rennes,Strasbourg,L,Rennes,1,0,Strasbourg,Rennes,W,Strasbourg
+0,0,2024-09-01,Rennes,Reims,L,Rennes,1,0,Reims,Rennes,W,Reims
+1,0,2024-09-15,Rennes,Montpellier,W,Rennes,0,0,Montpellier,Rennes,L,Montpellier
+0,0,2024-09-21,Rennes,Lens,D,Rennes,0,0,Lens,Rennes,D,Lens
+0,0,2024-09-27,Rennes,Paris SG,L,Rennes,1,0,Paris SG,Rennes,W,Paris SG
+0,0,2024-10-05,Rennes,Monaco,L,Rennes,1,0,Monaco,Rennes,W,Monaco
+0,0,2024-10-19,Rennes,Brest,D,Rennes,0,0,Brest,Rennes,D,Brest
+1,0,2024-10-25,Rennes,Le Havre,W,Rennes,0,0,Le Havre,Rennes,L,Le Havre
+0,0,2024-11-03,Rennes,Auxerre,L,Rennes,1,0,Auxerre,Rennes,W,Auxerre
+0,0,2024-11-10,Rennes,Toulouse,L,Rennes,1,0,Toulouse,Rennes,W,Toulouse
+0,0,2024-11-24,Rennes,Lille,L,Rennes,1,0,Lille,Rennes,W,Lille
+1,0,2024-11-30,Rennes,St Etienne,W,Rennes,0,0,St Etienne,Rennes,L,St Etienne
+0,0,2024-12-08,Rennes,Nantes,L,Rennes,1,0,Nantes,Rennes,W,Nantes
+1,0,2024-12-15,Rennes,Angers,W,Rennes,0,0,Angers,Rennes,L,Angers
+0,0,2025-01-03,Rennes,Nice,L,Rennes,1,0,Nice,Rennes,W,Nice
+0,0,2025-01-11,Rennes,Marseille,L,Rennes,1,0,Marseille,Rennes,W,Marseille
+0,0,2025-01-18,Rennes,Brest,L,Rennes,1,0,Brest,Rennes,W,Brest
+0,0,2025-01-25,Rennes,Monaco,L,Rennes,1,0,Monaco,Rennes,W,Monaco
+1,0,2025-02-02,Rennes,Strasbourg,W,Rennes,0,0,Strasbourg,Rennes,L,Strasbourg
+1,0,2025-02-08,Rennes,St Etienne,W,Rennes,0,0,St Etienne,Rennes,L,St Etienne
+0,0,2025-02-16,Rennes,Lille,L,Rennes,1,0,Lille,Rennes,W,Lille
+1,0,2025-02-21,Rennes,Reims,W,Rennes,0,0,Reims,Rennes,L,Reims
+1,0,2025-03-02,Rennes,Montpellier,W,Rennes,0,0,Montpellier,Rennes,L,Montpellier
+0,0,2025-03-08,Rennes,Paris SG,L,Rennes,1,1,Paris SG,Rennes,W,Paris SG
+0,0,2025-03-15,Rennes,Lens,L,Rennes,1,0,Lens,Rennes,W,Lens
+1,0,2025-03-30,Rennes,Angers,W,Rennes,0,0,Angers,Rennes,L,Angers
+0,0,2025-04-06,Rennes,Auxerre,L,Rennes,1,0,Auxerre,Rennes,W,Auxerre
+1,0,2025-04-13,Rennes,Le Havre,W,Rennes,0,0,Le Havre,Rennes,L,Le Havre
+1,0,2025-04-18,Rennes,Nantes,W,Rennes,0,0,Nantes,Rennes,L,Nantes
+0,0,2025-04-26,Rennes,Lyon,L,Rennes,1,0,Lyon,Rennes,W,Lyon
+0,0,2025-05-03,Rennes,Toulouse,L,Rennes,1,0,Toulouse,Rennes,W,Toulouse
+1,0,2025-05-10,Rennes,Nice,W,Rennes,0,0,Nice,Rennes,L,Nice
+0,0,2025-05-17,Rennes,Marseille,L,Rennes,1,0,Marseille,Rennes,W,Marseille
+0,0,2024-08-17,St Etienne,Monaco,L,St Etienne,1,1,Monaco,St Etienne,W,Monaco
+0,0,2024-08-24,St Etienne,Le Havre,L,St Etienne,1,0,Le Havre,St Etienne,W,Le Havre
+0,0,2024-08-31,St Etienne,Brest,L,St Etienne,1,0,Brest,St Etienne,W,Brest
+1,0,2024-09-13,St Etienne,Lille,W,St Etienne,0,0,Lille,St Etienne,L,Lille
+0,0,2024-09-20,St Etienne,Nice,L,St Etienne,1,0,Nice,St Etienne,W,Nice
+0,0,2024-09-29,St Etienne,Nantes,D,St Etienne,0,0,Nantes,St Etienne,D,Nantes
+1,0,2024-10-05,St Etienne,Auxerre,W,St Etienne,0,0,Auxerre,St Etienne,L,Auxerre
+0,0,2024-10-19,St Etienne,Lens,L,St Etienne,1,0,Lens,St Etienne,W,Lens
+0,0,2024-10-26,St Etienne,Angers,L,St Etienne,1,0,Angers,St Etienne,W,Angers
+1,0,2024-11-02,St Etienne,Strasbourg,W,St Etienne,0,0,Strasbourg,St Etienne,L,Strasbourg
+0,0,2024-11-10,St Etienne,Lyon,L,St Etienne,1,0,Lyon,St Etienne,W,Lyon
+1,0,2024-11-23,St Etienne,Montpellier,W,St Etienne,0,0,Montpellier,St Etienne,L,Montpellier
+0,0,2024-11-30,St Etienne,Rennes,L,St Etienne,1,0,Rennes,St Etienne,W,Rennes
+0,0,2024-12-08,St Etienne,Marseille,L,St Etienne,1,0,Marseille,St Etienne,W,Marseille
+0,0,2024-12-13,St Etienne,Toulouse,L,St Etienne,1,0,Toulouse,St Etienne,W,Toulouse
+1,0,2025-01-04,St Etienne,Reims,W,St Etienne,0,0,Reims,St Etienne,L,Reims
+0,0,2025-01-12,St Etienne,Paris SG,L,St Etienne,1,1,Paris SG,St Etienne,W,Paris SG
+0,0,2025-01-19,St Etienne,Nantes,D,St Etienne,0,0,Nantes,St Etienne,D,Nantes
+0,0,2025-01-24,St Etienne,Auxerre,D,St Etienne,0,0,Auxerre,St Etienne,D,Auxerre
+0,0,2025-02-01,St Etienne,Lille,L,St Etienne,1,0,Lille,St Etienne,W,Lille
+0,0,2025-02-08,St Etienne,Rennes,L,St Etienne,1,0,Rennes,St Etienne,W,Rennes
+0,0,2025-02-15,St Etienne,Marseille,L,St Etienne,1,1,Marseille,St Etienne,W,Marseille
+0,0,2025-02-22,St Etienne,Angers,D,St Etienne,0,0,Angers,St Etienne,D,Angers
+0,0,2025-03-01,St Etienne,Nice,L,St Etienne,1,0,Nice,St Etienne,W,Nice
+0,0,2025-03-09,St Etienne,Le Havre,D,St Etienne,0,0,Le Havre,St Etienne,D,Le Havre
+1,0,2025-03-16,St Etienne,Montpellier,W,St Etienne,0,0,Montpellier,St Etienne,L,Montpellier
+0,0,2025-03-29,St Etienne,Paris SG,L,St Etienne,1,1,Paris SG,St Etienne,W,Paris SG
+0,0,2025-04-06,St Etienne,Lens,L,St Etienne,1,0,Lens,St Etienne,W,Lens
+0,0,2025-04-13,St Etienne,Brest,D,St Etienne,0,0,Brest,St Etienne,D,Brest
+1,0,2025-04-20,St Etienne,Lyon,W,St Etienne,0,0,Lyon,St Etienne,L,Lyon
+0,0,2025-04-26,St Etienne,Strasbourg,L,St Etienne,1,0,Strasbourg,St Etienne,W,Strasbourg
+0,0,2025-05-03,St Etienne,Monaco,L,St Etienne,1,0,Monaco,St Etienne,W,Monaco
+1,0,2025-05-10,St Etienne,Reims,W,St Etienne,0,0,Reims,St Etienne,L,Reims
+0,0,2025-05-17,St Etienne,Toulouse,L,St Etienne,1,0,Toulouse,St Etienne,W,Toulouse
+0,0,2023-01-02,Strasbourg,Troyes,L,Strasbourg,1,0,Troyes,Strasbourg,W,Troyes
+0,0,2023-01-11,Strasbourg,Lens,D,Strasbourg,0,0,Lens,Strasbourg,D,Lens
+1,0,2023-01-14,Strasbourg,Lyon,W,Strasbourg,0,0,Lyon,Strasbourg,L,Lyon
+0,0,2023-01-29,Strasbourg,Toulouse,L,Strasbourg,1,0,Toulouse,Strasbourg,W,Toulouse
+0,0,2023-02-01,Strasbourg,Rennes,L,Strasbourg,1,0,Rennes,Strasbourg,W,Rennes
+1,0,2023-02-05,Strasbourg,Montpellier,W,Strasbourg,0,0,Montpellier,Strasbourg,L,Montpellier
+0,0,2023-02-12,Strasbourg,Lille,L,Strasbourg,1,1,Lille,Strasbourg,W,Lille
+1,0,2023-02-18,Strasbourg,Angers,W,Strasbourg,0,0,Angers,Strasbourg,L,Angers
+0,0,2023-02-26,Strasbourg,Clermont,D,Strasbourg,0,0,Clermont,Strasbourg,D,Clermont
+0,0,2023-03-05,Strasbourg,Brest,L,Strasbourg,1,0,Brest,Strasbourg,W,Brest
+0,0,2023-03-12,Strasbourg,Marseille,D,Strasbourg,0,0,Marseille,Strasbourg,D,Marseille
+1,1,2023-03-19,Strasbourg,Auxerre,W,Strasbourg,0,0,Auxerre,Strasbourg,L,Auxerre
+0,0,2023-04-02,Strasbourg,Monaco,L,Strasbourg,1,0,Monaco,Strasbourg,W,Monaco
+0,0,2023-04-07,Strasbourg,Lens,L,Strasbourg,1,0,Lens,Strasbourg,W,Lens
+1,0,2023-04-16,Strasbourg,Ajaccio,W,Strasbourg,0,0,Ajaccio,Strasbourg,L,Ajaccio
+1,0,2023-04-23,Strasbourg,Reims,W,Strasbourg,0,0,Reims,Strasbourg,L,Reims
+0,0,2023-04-28,Strasbourg,Lyon,L,Strasbourg,1,0,Lyon,Strasbourg,W,Lyon
+1,0,2023-05-07,Strasbourg,Nantes,W,Strasbourg,0,0,Nantes,Strasbourg,L,Nantes
+1,0,2023-05-13,Strasbourg,Nice,W,Strasbourg,0,0,Nice,Strasbourg,L,Nice
+0,0,2023-05-21,Strasbourg,Troyes,D,Strasbourg,0,0,Troyes,Strasbourg,D,Troyes
+0,0,2023-05-27,Strasbourg,Paris SG,D,Strasbourg,0,1,Paris SG,Strasbourg,D,Paris SG
+0,0,2023-06-03,Strasbourg,Lorient,L,Strasbourg,1,0,Lorient,Strasbourg,W,Lorient
+1,0,2023-08-13,Strasbourg,Lyon,W,Strasbourg,0,1,Lyon,Strasbourg,L,Lyon
+0,0,2023-08-20,Strasbourg,Monaco,L,Strasbourg,1,0,Monaco,Strasbourg,W,Monaco
+1,0,2023-08-27,Strasbourg,Toulouse,W,Strasbourg,0,0,Toulouse,Strasbourg,L,Toulouse
+0,0,2023-09-03,Strasbourg,Nice,L,Strasbourg,1,0,Nice,Strasbourg,W,Nice
+0,0,2023-09-17,Strasbourg,Montpellier,D,Strasbourg,0,0,Montpellier,Strasbourg,D,Montpellier
+1,0,2023-09-24,Strasbourg,Metz,W,Strasbourg,0,0,Metz,Strasbourg,L,Metz
+0,0,2023-09-29,Strasbourg,Lens,L,Strasbourg,1,0,Lens,Strasbourg,W,Lens
+0,0,2023-10-06,Strasbourg,Nantes,L,Strasbourg,1,0,Nantes,Strasbourg,W,Nantes
+0,0,2023-10-21,Strasbourg,Paris SG,L,Strasbourg,1,1,Paris SG,Strasbourg,W,Paris SG
+0,0,2023-10-29,Strasbourg,Rennes,D,Strasbourg,0,0,Rennes,Strasbourg,D,Rennes
+0,0,2023-11-05,Strasbourg,Clermont,D,Strasbourg,0,0,Clermont,Strasbourg,D,Clermont
+0,0,2023-11-25,Strasbourg,Marseille,D,Strasbourg,0,0,Marseille,Strasbourg,D,Marseille
+0,0,2023-12-01,Strasbourg,Reims,L,Strasbourg,1,0,Reims,Strasbourg,W,Reims
+0,0,2023-12-07,Strasbourg,Brest,D,Strasbourg,0,0,Brest,Strasbourg,D,Brest
+1,0,2023-12-10,Strasbourg,Le Havre,W,Strasbourg,0,0,Le Havre,Strasbourg,L,Le Havre
+1,0,2023-12-17,Strasbourg,Lorient,W,Strasbourg,0,0,Lorient,Strasbourg,L,Lorient
+1,0,2023-12-20,Strasbourg,Lille,W,Strasbourg,0,0,Lille,Strasbourg,L,Lille
+0,0,2024-01-12,Strasbourg,Marseille,D,Strasbourg,0,1,Marseille,Strasbourg,D,Marseille
+0,0,2024-01-28,Strasbourg,Clermont,D,Strasbourg,0,0,Clermont,Strasbourg,D,Clermont
+0,0,2024-02-02,Strasbourg,Paris SG,L,Strasbourg,1,0,Paris SG,Strasbourg,W,Paris SG
+0,0,2024-02-10,Strasbourg,Lens,L,Strasbourg,1,0,Lens,Strasbourg,W,Lens
+0,0,2024-02-18,Strasbourg,Lorient,L,Strasbourg,1,0,Lorient,Strasbourg,W,Lorient
+0,0,2024-02-24,Strasbourg,Brest,L,Strasbourg,1,0,Brest,Strasbourg,W,Brest
+0,0,2024-03-03,Strasbourg,Montpellier,D,Strasbourg,0,0,Montpellier,Strasbourg,D,Montpellier
+0,0,2024-03-10,Strasbourg,Monaco,L,Strasbourg,1,0,Monaco,Strasbourg,W,Monaco
+1,0,2024-03-16,Strasbourg,Nantes,W,Strasbourg,0,0,Nantes,Strasbourg,L,Nantes
+1,0,2024-03-31,Strasbourg,Rennes,W,Strasbourg,0,0,Rennes,Strasbourg,L,Rennes
+0,0,2024-04-07,Strasbourg,Toulouse,D,Strasbourg,0,0,Toulouse,Strasbourg,D,Toulouse
+1,0,2024-04-13,Strasbourg,Reims,W,Strasbourg,0,0,Reims,Strasbourg,L,Reims
+0,0,2024-04-21,Strasbourg,Lille,L,Strasbourg,1,0,Lille,Strasbourg,W,Lille
+0,0,2024-04-28,Strasbourg,Nice,L,Strasbourg,1,0,Nice,Strasbourg,W,Nice
+0,0,2024-05-04,Strasbourg,Le Havre,L,Strasbourg,1,0,Le Havre,Strasbourg,W,Le Havre
+1,0,2024-05-12,Strasbourg,Metz,W,Strasbourg,0,0,Metz,Strasbourg,L,Metz
+0,0,2024-05-19,Strasbourg,Lyon,L,Strasbourg,1,0,Lyon,Strasbourg,W,Lyon
+0,0,2024-08-18,Strasbourg,Montpellier,D,Strasbourg,0,0,Montpellier,Strasbourg,D,Montpellier
+1,0,2024-08-25,Strasbourg,Rennes,W,Strasbourg,0,0,Rennes,Strasbourg,L,Rennes
+0,0,2024-08-30,Strasbourg,Lyon,L,Strasbourg,1,0,Lyon,Strasbourg,W,Lyon
+0,0,2024-09-15,Strasbourg,Angers,D,Strasbourg,0,0,Angers,Strasbourg,D,Angers
+0,0,2024-09-21,Strasbourg,Lille,D,Strasbourg,0,0,Lille,Strasbourg,D,Lille
+1,0,2024-09-29,Strasbourg,Marseille,W,Strasbourg,0,0,Marseille,Strasbourg,L,Marseille
+0,0,2024-10-06,Strasbourg,Lens,D,Strasbourg,0,0,Lens,Strasbourg,D,Lens
+0,0,2024-10-19,Strasbourg,Paris SG,L,Strasbourg,1,1,Paris SG,Strasbourg,W,Paris SG
+1,0,2024-10-27,Strasbourg,Nantes,W,Strasbourg,0,0,Nantes,Strasbourg,L,Nantes
+0,0,2024-11-02,Strasbourg,St Etienne,L,Strasbourg,1,0,St Etienne,Strasbourg,W,St Etienne
+0,0,2024-11-09,Strasbourg,Monaco,L,Strasbourg,1,0,Monaco,Strasbourg,W,Monaco
+0,0,2024-11-24,Strasbourg,Nice,L,Strasbourg,1,0,Nice,Strasbourg,W,Nice
+0,0,2024-11-30,Strasbourg,Brest,L,Strasbourg,1,0,Brest,Strasbourg,W,Brest
+0,0,2024-12-08,Strasbourg,Reims,D,Strasbourg,0,0,Reims,Strasbourg,D,Reims
+1,0,2024-12-15,Strasbourg,Le Havre,W,Strasbourg,0,0,Le Havre,Strasbourg,L,Le Havre
+1,0,2025-01-05,Strasbourg,Auxerre,W,Strasbourg,0,0,Auxerre,Strasbourg,L,Auxerre
+1,0,2025-01-12,Strasbourg,Toulouse,W,Strasbourg,0,0,Toulouse,Strasbourg,L,Toulouse
+0,0,2025-01-19,Strasbourg,Marseille,D,Strasbourg,0,0,Marseille,Strasbourg,D,Marseille
+1,0,2025-01-25,Strasbourg,Lille,W,Strasbourg,0,0,Lille,Strasbourg,L,Lille
+0,0,2025-02-02,Strasbourg,Rennes,L,Strasbourg,1,0,Rennes,Strasbourg,W,Rennes
+1,0,2025-02-09,Strasbourg,Montpellier,W,Strasbourg,0,0,Montpellier,Strasbourg,L,Montpellier
+1,0,2025-02-16,Strasbourg,Lens,W,Strasbourg,0,0,Lens,Strasbourg,L,Lens
+0,1,2025-02-23,Strasbourg,Brest,D,Strasbourg,0,0,Brest,Strasbourg,D,Brest
+1,1,2025-03-02,Strasbourg,Auxerre,W,Strasbourg,0,0,Auxerre,Strasbourg,L,Auxerre
+1,0,2025-03-09,Strasbourg,Nantes,W,Strasbourg,0,0,Nantes,Strasbourg,L,Nantes
+1,0,2025-03-16,Strasbourg,Toulouse,W,Strasbourg,0,0,Toulouse,Strasbourg,L,Toulouse
+1,0,2025-03-28,Strasbourg,Lyon,W,Strasbourg,0,0,Lyon,Strasbourg,L,Lyon
+1,0,2025-04-06,Strasbourg,Reims,W,Strasbourg,0,0,Reims,Strasbourg,L,Reims
+0,0,2025-04-12,Strasbourg,Nice,D,Strasbourg,0,0,Nice,Strasbourg,D,Nice
+0,0,2025-04-19,Strasbourg,Monaco,D,Strasbourg,0,0,Monaco,Strasbourg,D,Monaco
+1,0,2025-04-26,Strasbourg,St Etienne,W,Strasbourg,0,0,St Etienne,Strasbourg,L,St Etienne
+1,0,2025-05-03,Strasbourg,Paris SG,W,Strasbourg,0,0,Paris SG,Strasbourg,L,Paris SG
+0,0,2025-05-10,Strasbourg,Angers,L,Strasbourg,1,0,Angers,Strasbourg,W,Angers
+0,1,2025-05-17,Strasbourg,Le Havre,L,Strasbourg,1,0,Le Havre,Strasbourg,W,Le Havre
+1,0,2023-01-11,Toulouse,Auxerre,W,Toulouse,0,0,Auxerre,Toulouse,L,Auxerre
+0,0,2023-01-15,Toulouse,Brest,D,Toulouse,0,0,Brest,Toulouse,D,Brest
+1,0,2023-01-29,Toulouse,Strasbourg,W,Toulouse,0,0,Strasbourg,Toulouse,L,Strasbourg
+1,0,2023-02-01,Toulouse,Troyes,W,Toulouse,0,0,Troyes,Toulouse,L,Troyes
+0,0,2023-02-04,Toulouse,Paris SG,L,Toulouse,1,0,Paris SG,Toulouse,W,Paris SG
+1,0,2023-02-12,Toulouse,Rennes,W,Toulouse,0,0,Rennes,Toulouse,L,Rennes
+0,0,2023-02-19,Toulouse,Marseille,L,Toulouse,1,0,Marseille,Toulouse,W,Marseille
+0,0,2023-02-26,Toulouse,Reims,L,Toulouse,1,0,Reims,Toulouse,W,Reims
+0,0,2023-03-05,Toulouse,Clermont,L,Toulouse,1,0,Clermont,Toulouse,W,Clermont
+1,0,2023-03-12,Toulouse,Angers,W,Toulouse,0,0,Angers,Toulouse,L,Angers
+0,0,2023-03-18,Toulouse,Lille,L,Toulouse,1,0,Lille,Toulouse,W,Lille
+0,0,2023-04-02,Toulouse,Brest,L,Toulouse,1,0,Brest,Toulouse,W,Brest
+1,0,2023-04-09,Toulouse,Montpellier,W,Toulouse,0,0,Montpellier,Toulouse,L,Montpellier
+0,0,2023-04-14,Toulouse,Lyon,L,Toulouse,1,0,Lyon,Toulouse,W,Lyon
+1,0,2023-04-23,Toulouse,Lorient,W,Toulouse,0,0,Lorient,Toulouse,L,Lorient
+0,0,2023-05-02,Toulouse,Lens,L,Toulouse,1,0,Lens,Toulouse,W,Lens
+0,0,2023-05-07,Toulouse,Ajaccio,D,Toulouse,0,0,Ajaccio,Toulouse,D,Ajaccio
+0,0,2023-05-14,Toulouse,Nantes,D,Toulouse,0,0,Nantes,Toulouse,D,Nantes
+0,0,2023-05-21,Toulouse,Nice,D,Toulouse,0,1,Nice,Toulouse,D,Nice
+0,0,2023-05-27,Toulouse,Auxerre,D,Toulouse,0,0,Auxerre,Toulouse,D,Auxerre
+1,0,2023-06-03,Toulouse,Monaco,W,Toulouse,0,0,Monaco,Toulouse,L,Monaco
+1,0,2023-08-13,Toulouse,Nantes,W,Toulouse,0,0,Nantes,Toulouse,L,Nantes
+0,0,2023-08-19,Toulouse,Paris SG,D,Toulouse,0,0,Paris SG,Toulouse,D,Paris SG
+0,0,2023-08-27,Toulouse,Strasbourg,L,Toulouse,1,0,Strasbourg,Toulouse,W,Strasbourg
+0,0,2023-09-03,Toulouse,Clermont,D,Toulouse,0,0,Clermont,Toulouse,D,Clermont
+0,0,2023-09-17,Toulouse,Marseille,D,Toulouse,0,1,Marseille,Toulouse,D,Marseille
+0,0,2023-09-24,Toulouse,Lens,L,Toulouse,1,0,Lens,Toulouse,W,Lens
+1,0,2023-10-01,Toulouse,Metz,W,Toulouse,0,0,Metz,Toulouse,L,Metz
+0,0,2023-10-08,Toulouse,Brest,D,Toulouse,0,1,Brest,Toulouse,D,Brest
+0,0,2023-10-22,Toulouse,Reims,D,Toulouse,0,0,Reims,Toulouse,D,Reims
+0,0,2023-10-29,Toulouse,Montpellier,L,Toulouse,1,0,Montpellier,Toulouse,W,Montpellier
+0,0,2023-11-05,Toulouse,Le Havre,L,Toulouse,1,0,Le Havre,Toulouse,W,Le Havre
+0,0,2023-11-12,Toulouse,Lille,D,Toulouse,0,0,Lille,Toulouse,D,Lille
+0,0,2023-11-26,Toulouse,Nice,L,Toulouse,1,0,Nice,Toulouse,W,Nice
+0,0,2023-12-03,Toulouse,Lorient,D,Toulouse,0,0,Lorient,Toulouse,D,Lorient
+0,0,2023-12-10,Toulouse,Lyon,L,Toulouse,1,0,Lyon,Toulouse,W,Lyon
+0,0,2023-12-17,Toulouse,Rennes,D,Toulouse,0,0,Rennes,Toulouse,D,Rennes
+0,0,2023-12-20,Toulouse,Monaco,L,Toulouse,1,0,Monaco,Toulouse,W,Monaco
+1,0,2024-01-14,Toulouse,Metz,W,Toulouse,0,0,Metz,Toulouse,L,Metz
+0,0,2024-01-28,Toulouse,Lens,L,Toulouse,1,0,Lens,Toulouse,W,Lens
+1,0,2024-02-04,Toulouse,Reims,W,Toulouse,0,0,Reims,Toulouse,L,Reims
+0,0,2024-02-11,Toulouse,Nantes,L,Toulouse,1,0,Nantes,Toulouse,W,Nantes
+1,0,2024-02-18,Toulouse,Monaco,W,Toulouse,0,0,Monaco,Toulouse,L,Monaco
+1,0,2024-02-25,Toulouse,Lille,W,Toulouse,0,0,Lille,Toulouse,L,Lille
+1,0,2024-03-03,Toulouse,Nice,W,Toulouse,0,0,Nice,Toulouse,L,Nice
+0,0,2024-03-10,Toulouse,Le Havre,L,Toulouse,1,0,Le Havre,Toulouse,W,Le Havre
+0,0,2024-03-15,Toulouse,Lyon,L,Toulouse,1,0,Lyon,Toulouse,W,Lyon
+1,0,2024-03-31,Toulouse,Clermont,W,Toulouse,0,0,Clermont,Toulouse,L,Clermont
+0,0,2024-04-07,Toulouse,Strasbourg,D,Toulouse,0,0,Strasbourg,Toulouse,D,Strasbourg
+1,0,2024-04-13,Toulouse,Rennes,W,Toulouse,0,0,Rennes,Toulouse,L,Rennes
+0,0,2024-04-21,Toulouse,Marseille,D,Toulouse,0,0,Marseille,Toulouse,D,Marseille
+1,0,2024-04-28,Toulouse,Lorient,W,Toulouse,0,0,Lorient,Toulouse,L,Lorient
+0,0,2024-05-03,Toulouse,Montpellier,L,Toulouse,1,0,Montpellier,Toulouse,W,Montpellier
+1,0,2024-05-12,Toulouse,Paris SG,W,Toulouse,0,1,Paris SG,Toulouse,L,Paris SG
+0,0,2024-05-19,Toulouse,Brest,L,Toulouse,1,0,Brest,Toulouse,W,Brest
+0,0,2024-08-18,Toulouse,Nantes,D,Toulouse,0,0,Nantes,Toulouse,D,Nantes
+0,0,2024-08-25,Toulouse,Nice,D,Toulouse,0,0,Nice,Toulouse,D,Nice
+0,0,2024-08-31,Toulouse,Marseille,L,Toulouse,1,0,Marseille,Toulouse,W,Marseille
+1,0,2024-09-15,Toulouse,Le Havre,W,Toulouse,0,0,Le Havre,Toulouse,L,Le Havre
+0,0,2024-09-22,Toulouse,Brest,L,Toulouse,1,0,Brest,Toulouse,W,Brest
+0,0,2024-09-29,Toulouse,Lyon,L,Toulouse,1,0,Lyon,Toulouse,W,Lyon
+0,0,2024-10-05,Toulouse,Lille,L,Toulouse,1,1,Lille,Toulouse,W,Lille
+0,0,2024-10-20,Toulouse,Angers,D,Toulouse,0,0,Angers,Toulouse,D,Angers
+1,0,2024-10-27,Toulouse,Montpellier,W,Toulouse,0,0,Montpellier,Toulouse,L,Montpellier
+1,0,2024-11-03,Toulouse,Reims,W,Toulouse,0,0,Reims,Toulouse,L,Reims
+1,0,2024-11-10,Toulouse,Rennes,W,Toulouse,0,0,Rennes,Toulouse,L,Rennes
+0,0,2024-11-22,Toulouse,Paris SG,L,Toulouse,1,1,Paris SG,Toulouse,W,Paris SG
+1,0,2024-12-01,Toulouse,Auxerre,W,Toulouse,0,0,Auxerre,Toulouse,L,Auxerre
+0,0,2024-12-07,Toulouse,Monaco,L,Toulouse,1,0,Monaco,Toulouse,W,Monaco
+1,0,2024-12-13,Toulouse,St Etienne,W,Toulouse,0,0,St Etienne,Toulouse,L,St Etienne
+1,0,2025-01-05,Toulouse,Lens,W,Toulouse,0,0,Lens,Toulouse,L,Lens
+0,0,2025-01-12,Toulouse,Strasbourg,L,Toulouse,1,0,Strasbourg,Toulouse,W,Strasbourg
+0,0,2025-01-18,Toulouse,Lyon,D,Toulouse,0,0,Lyon,Toulouse,D,Lyon
+0,0,2025-01-26,Toulouse,Montpellier,L,Toulouse,1,0,Montpellier,Toulouse,W,Montpellier
+0,0,2025-02-02,Toulouse,Nice,D,Toulouse,0,0,Nice,Toulouse,D,Nice
+0,0,2025-02-09,Toulouse,Auxerre,D,Toulouse,0,0,Auxerre,Toulouse,D,Auxerre
+0,0,2025-02-15,Toulouse,Paris SG,L,Toulouse,1,0,Paris SG,Toulouse,W,Paris SG
+1,0,2025-02-23,Toulouse,Le Havre,W,Toulouse,0,0,Le Havre,Toulouse,L,Le Havre
+1,0,2025-03-02,Toulouse,Angers,W,Toulouse,0,0,Angers,Toulouse,L,Angers
+0,0,2025-03-07,Toulouse,Monaco,D,Toulouse,0,1,Monaco,Toulouse,D,Monaco
+0,0,2025-03-16,Toulouse,Strasbourg,L,Toulouse,1,0,Strasbourg,Toulouse,W,Strasbourg
+0,1,2025-03-30,Toulouse,Brest,L,Toulouse,1,0,Brest,Toulouse,W,Brest
+0,0,2025-04-06,Toulouse,Marseille,L,Toulouse,1,0,Marseille,Toulouse,W,Marseille
+0,0,2025-04-12,Toulouse,Lille,L,Toulouse,1,0,Lille,Toulouse,W,Lille
+0,0,2025-04-20,Toulouse,Reims,L,Toulouse,1,0,Reims,Toulouse,W,Reims
+0,0,2025-04-27,Toulouse,Nantes,D,Toulouse,0,0,Nantes,Toulouse,D,Nantes
+1,0,2025-05-03,Toulouse,Rennes,W,Toulouse,0,0,Rennes,Toulouse,L,Rennes
+0,0,2025-05-10,Toulouse,Lens,D,Toulouse,0,0,Lens,Toulouse,D,Lens
+1,0,2025-05-17,Toulouse,St Etienne,W,Toulouse,0,0,St Etienne,Toulouse,L,St Etienne
+1,0,2023-01-02,Troyes,Strasbourg,W,Troyes,0,0,Strasbourg,Troyes,L,Strasbourg
+0,0,2023-01-11,Troyes,Marseille,L,Troyes,1,0,Marseille,Troyes,W,Marseille
+0,0,2023-01-15,Troyes,Lille,L,Troyes,1,0,Lille,Troyes,W,Lille
+0,0,2023-01-28,Troyes,Lens,D,Troyes,0,0,Lens,Troyes,D,Lens
+0,0,2023-02-01,Troyes,Toulouse,L,Troyes,1,0,Toulouse,Troyes,W,Toulouse
+0,0,2023-02-04,Troyes,Lyon,L,Troyes,1,0,Lyon,Troyes,W,Lyon
+0,0,2023-02-12,Troyes,Reims,L,Troyes,1,1,Reims,Troyes,W,Reims
+0,0,2023-02-19,Troyes,Montpellier,L,Troyes,1,0,Montpellier,Troyes,W,Montpellier
+0,0,2023-02-26,Troyes,Ajaccio,L,Troyes,1,0,Ajaccio,Troyes,W,Ajaccio
+0,0,2023-03-05,Troyes,Monaco,D,Troyes,0,0,Monaco,Troyes,D,Monaco
+0,0,2023-03-12,Troyes,Lorient,L,Troyes,1,0,Lorient,Troyes,W,Lorient
+0,0,2023-03-19,Troyes,Brest,D,Troyes,0,0,Brest,Troyes,D,Brest
+0,0,2023-04-01,Troyes,Auxerre,L,Troyes,1,0,Auxerre,Troyes,W,Auxerre
+0,0,2023-04-09,Troyes,Clermont,L,Troyes,1,0,Clermont,Troyes,W,Clermont
+0,0,2023-04-16,Troyes,Marseille,L,Troyes,1,0,Marseille,Troyes,W,Marseille
+0,0,2023-04-23,Troyes,Nantes,D,Troyes,0,0,Nantes,Troyes,D,Nantes
+0,0,2023-04-30,Troyes,Nice,L,Troyes,1,0,Nice,Troyes,W,Nice
+0,0,2023-05-07,Troyes,Paris SG,L,Troyes,1,0,Paris SG,Troyes,W,Paris SG
+0,0,2023-05-14,Troyes,Rennes,L,Troyes,1,0,Rennes,Troyes,W,Rennes
+0,0,2023-05-21,Troyes,Strasbourg,D,Troyes,0,0,Strasbourg,Troyes,D,Strasbourg
+0,0,2023-05-27,Troyes,Angers,L,Troyes,1,0,Angers,Troyes,W,Angers
+0,0,2023-06-03,Troyes,Lille,D,Troyes,0,0,Lille,Troyes,D,Lille

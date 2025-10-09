@@ -1,0 +1,761 @@
+date,day,comp,venue,result,gf,ga,opponent,referee,sh,sot,foul_comm,foul_rec,yc_rec,rc_rec,yc_opp,rc_opp,season,team,day_code
+2024-08-16,Fri,Premier League,Away,L,0.0,1.0,Man United,R Jones,10.0,2.0,10.0,12.0,3.0,0.0,2.0,0.0,2025,Fulham,4
+2024-08-16,Fri,Premier League,Home,W,1.0,0.0,Fulham,R Jones,14.0,5.0,12.0,10.0,2.0,0.0,3.0,0.0,2025,Man United,4
+2024-08-17,Sat,Premier League,Home,W,2.0,0.0,Wolves,J Gillett,18.0,6.0,17.0,14.0,2.0,0.0,2.0,0.0,2025,Arsenal,5
+2024-08-17,Sat,Premier League,Away,W,2.0,1.0,West Ham,T Harrington,15.0,3.0,11.0,18.0,2.0,0.0,1.0,0.0,2025,Aston Villa,5
+2024-08-17,Sat,Premier League,Away,D,1.0,1.0,Nott'm Forest,M Oliver,13.0,4.0,8.0,17.0,3.0,0.0,1.0,0.0,2025,Bournemouth,5
+2024-08-17,Sat,Premier League,Away,W,3.0,0.0,Everton,S Hooper,10.0,5.0,8.0,8.0,1.0,0.0,1.0,1.0,2025,Brighton,5
+2024-08-17,Sat,Premier League,Home,L,0.0,3.0,Brighton,S Hooper,9.0,1.0,8.0,8.0,1.0,1.0,1.0,0.0,2025,Everton,5
+2024-08-17,Sat,Premier League,Home,L,0.0,2.0,Liverpool,T Robinson,7.0,2.0,9.0,18.0,3.0,0.0,1.0,0.0,2025,Ipswich,5
+2024-08-17,Sat,Premier League,Away,W,2.0,0.0,Ipswich,T Robinson,18.0,5.0,18.0,9.0,1.0,0.0,3.0,0.0,2025,Liverpool,5
+2024-08-17,Sat,Premier League,Home,W,1.0,0.0,Southampton,C Pawson,3.0,1.0,15.0,16.0,2.0,1.0,4.0,0.0,2025,Newcastle,5
+2024-08-17,Sat,Premier League,Home,D,1.0,1.0,Bournemouth,M Oliver,14.0,8.0,17.0,8.0,1.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2024-08-17,Sat,Premier League,Away,L,0.0,1.0,Newcastle,C Pawson,19.0,4.0,16.0,15.0,4.0,0.0,2.0,1.0,2025,Southampton,5
+2024-08-17,Sat,Premier League,Home,L,1.0,2.0,Aston Villa,T Harrington,14.0,3.0,18.0,11.0,1.0,0.0,2.0,0.0,2025,West Ham,5
+2024-08-17,Sat,Premier League,Away,L,0.0,2.0,Arsenal,J Gillett,9.0,3.0,14.0,17.0,2.0,0.0,2.0,0.0,2025,Wolves,5
+2024-08-18,Sun,Premier League,Home,W,2.0,1.0,Crystal Palace,S Barrott,9.0,5.0,6.0,15.0,1.0,0.0,5.0,0.0,2025,Brentford,6
+2024-08-18,Sun,Premier League,Home,L,0.0,2.0,Man City,A Taylor,10.0,3.0,12.0,9.0,1.0,0.0,1.0,0.0,2025,Chelsea,6
+2024-08-18,Sun,Premier League,Away,L,1.0,2.0,Brentford,S Barrott,14.0,6.0,15.0,6.0,5.0,0.0,1.0,0.0,2025,Crystal Palace,6
+2024-08-18,Sun,Premier League,Away,W,2.0,0.0,Chelsea,A Taylor,11.0,5.0,9.0,12.0,1.0,0.0,1.0,0.0,2025,Man City,6
+2024-08-19,Mon,Premier League,Home,D,1.0,1.0,Tottenham,C Kavanagh,7.0,3.0,11.0,12.0,1.0,0.0,1.0,0.0,2025,Leicester,0
+2024-08-19,Mon,Premier League,Away,D,1.0,1.0,Leicester,C Kavanagh,15.0,7.0,12.0,11.0,1.0,0.0,1.0,0.0,2025,Tottenham,0
+2024-08-24,Sat,Premier League,Away,W,2.0,0.0,Aston Villa,M Oliver,9.0,4.0,15.0,8.0,3.0,0.0,1.0,0.0,2025,Arsenal,5
+2024-08-24,Sat,Premier League,Home,L,0.0,2.0,Arsenal,M Oliver,11.0,3.0,8.0,15.0,1.0,0.0,3.0,0.0,2025,Aston Villa,5
+2024-08-24,Sat,Premier League,Home,W,2.0,1.0,Man United,C Pawson,14.0,5.0,9.0,13.0,1.0,0.0,2.0,0.0,2025,Brighton,5
+2024-08-24,Sat,Premier League,Home,L,0.0,2.0,West Ham,R Jones,14.0,2.0,9.0,17.0,1.0,0.0,1.0,0.0,2025,Crystal Palace,5
+2024-08-24,Sat,Premier League,Away,L,0.0,4.0,Tottenham,A Taylor,10.0,1.0,15.0,11.0,0.0,0.0,0.0,0.0,2025,Everton,5
+2024-08-24,Sat,Premier League,Home,W,2.0,1.0,Leicester,D Bond,18.0,6.0,14.0,13.0,2.0,0.0,2.0,0.0,2025,Fulham,5
+2024-08-24,Sat,Premier League,Away,L,1.0,4.0,Man City,M Salisbury,1.0,1.0,15.0,4.0,3.0,0.0,2.0,0.0,2025,Ipswich,5
+2024-08-24,Sat,Premier League,Away,L,1.0,2.0,Fulham,D Bond,10.0,4.0,13.0,14.0,2.0,0.0,2.0,0.0,2025,Leicester,5
+2024-08-24,Sat,Premier League,Home,W,4.0,1.0,Ipswich,M Salisbury,14.0,5.0,4.0,15.0,2.0,0.0,3.0,0.0,2025,Man City,5
+2024-08-24,Sat,Premier League,Away,L,1.0,2.0,Brighton,C Pawson,11.0,4.0,13.0,9.0,2.0,0.0,1.0,0.0,2025,Man United,5
+2024-08-24,Sat,Premier League,Away,W,1.0,0.0,Southampton,S Barrott,23.0,8.0,14.0,14.0,3.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2024-08-24,Sat,Premier League,Home,L,0.0,1.0,Nott'm Forest,S Barrott,5.0,1.0,14.0,14.0,3.0,0.0,3.0,0.0,2025,Southampton,5
+2024-08-24,Sat,Premier League,Home,W,4.0,0.0,Everton,A Taylor,13.0,7.0,11.0,15.0,0.0,0.0,0.0,0.0,2025,Tottenham,5
+2024-08-24,Sat,Premier League,Away,W,2.0,0.0,Crystal Palace,R Jones,18.0,3.0,17.0,9.0,1.0,0.0,1.0,0.0,2025,West Ham,5
+2024-08-25,Sun,Premier League,Home,D,1.0,1.0,Newcastle,D Coote,16.0,4.0,19.0,8.0,2.0,0.0,2.0,0.0,2025,Bournemouth,6
+2024-08-25,Sun,Premier League,Away,L,0.0,2.0,Liverpool,S Attwell,8.0,2.0,7.0,10.0,3.0,0.0,2.0,0.0,2025,Brentford,6
+2024-08-25,Sun,Premier League,Away,W,6.0,2.0,Wolves,D England,14.0,8.0,13.0,13.0,3.0,0.0,2.0,0.0,2025,Chelsea,6
+2024-08-25,Sun,Premier League,Home,W,2.0,0.0,Brentford,S Attwell,19.0,8.0,10.0,7.0,2.0,0.0,3.0,0.0,2025,Liverpool,6
+2024-08-25,Sun,Premier League,Away,D,1.0,1.0,Bournemouth,D Coote,14.0,5.0,8.0,19.0,2.0,0.0,2.0,0.0,2025,Newcastle,6
+2024-08-25,Sun,Premier League,Home,L,2.0,6.0,Chelsea,D England,12.0,4.0,13.0,13.0,2.0,0.0,3.0,0.0,2025,Wolves,6
+2024-08-31,Sat,Premier League,Home,D,1.0,1.0,Brighton,C Kavanagh,11.0,7.0,12.0,7.0,3.0,1.0,2.0,0.0,2025,Arsenal,5
+2024-08-31,Sat,Premier League,Away,W,2.0,1.0,Leicester,D Coote,10.0,5.0,21.0,13.0,5.0,0.0,4.0,0.0,2025,Aston Villa,5
+2024-08-31,Sat,Premier League,Away,W,3.0,2.0,Everton,S Attwell,17.0,7.0,1.0,6.0,1.0,0.0,2.0,0.0,2025,Bournemouth,5
+2024-08-31,Sat,Premier League,Home,W,3.0,1.0,Southampton,J Smith,20.0,7.0,10.0,7.0,2.0,0.0,1.0,0.0,2025,Brentford,5
+2024-08-31,Sat,Premier League,Away,D,1.0,1.0,Arsenal,C Kavanagh,22.0,4.0,7.0,12.0,2.0,0.0,3.0,1.0,2025,Brighton,5
+2024-08-31,Sat,Premier League,Home,L,2.0,3.0,Bournemouth,S Attwell,18.0,8.0,6.0,1.0,2.0,0.0,1.0,0.0,2025,Everton,5
+2024-08-31,Sat,Premier League,Away,D,1.0,1.0,Ipswich,L Smith,9.0,4.0,15.0,15.0,3.0,0.0,2.0,0.0,2025,Fulham,5
+2024-08-31,Sat,Premier League,Home,D,1.0,1.0,Fulham,L Smith,11.0,4.0,15.0,15.0,2.0,0.0,3.0,0.0,2025,Ipswich,5
+2024-08-31,Sat,Premier League,Home,L,1.0,2.0,Aston Villa,D Coote,9.0,3.0,13.0,21.0,4.0,0.0,5.0,0.0,2025,Leicester,5
+2024-08-31,Sat,Premier League,Away,W,3.0,1.0,West Ham,M Oliver,23.0,8.0,3.0,10.0,2.0,0.0,3.0,0.0,2025,Man City,5
+2024-08-31,Sat,Premier League,Home,D,1.0,1.0,Wolves,S Hooper,16.0,5.0,15.0,18.0,3.0,0.0,4.0,0.0,2025,Nott'm Forest,5
+2024-08-31,Sat,Premier League,Away,L,1.0,3.0,Brentford,J Smith,18.0,6.0,7.0,10.0,1.0,0.0,2.0,0.0,2025,Southampton,5
+2024-08-31,Sat,Premier League,Home,L,1.0,3.0,Man City,M Oliver,10.0,2.0,10.0,3.0,3.0,0.0,2.0,0.0,2025,West Ham,5
+2024-08-31,Sat,Premier League,Away,D,1.0,1.0,Nott'm Forest,S Hooper,11.0,3.0,18.0,15.0,4.0,0.0,3.0,0.0,2025,Wolves,5
+2024-09-01,Sun,Premier League,Home,D,1.0,1.0,Crystal Palace,J Gillett,13.0,7.0,9.0,13.0,4.0,0.0,2.0,0.0,2025,Chelsea,6
+2024-09-01,Sun,Premier League,Away,D,1.0,1.0,Chelsea,J Gillett,9.0,3.0,13.0,9.0,2.0,0.0,4.0,0.0,2025,Crystal Palace,6
+2024-09-01,Sun,Premier League,Away,W,3.0,0.0,Man United,A Taylor,11.0,3.0,7.0,7.0,1.0,0.0,4.0,0.0,2025,Liverpool,6
+2024-09-01,Sun,Premier League,Home,L,0.0,3.0,Liverpool,A Taylor,8.0,3.0,7.0,7.0,4.0,0.0,1.0,0.0,2025,Man United,6
+2024-09-01,Sun,Premier League,Home,W,2.0,1.0,Tottenham,R Jones,9.0,3.0,16.0,13.0,4.0,0.0,4.0,0.0,2025,Newcastle,6
+2024-09-01,Sun,Premier League,Away,L,1.0,2.0,Newcastle,R Jones,20.0,6.0,13.0,16.0,4.0,0.0,4.0,0.0,2025,Tottenham,6
+2024-09-14,Sat,Premier League,Home,W,3.0,2.0,Everton,C Pawson,17.0,8.0,10.0,12.0,1.0,0.0,4.0,0.0,2025,Aston Villa,5
+2024-09-14,Sat,Premier League,Home,L,0.0,1.0,Chelsea,A Taylor,19.0,7.0,16.0,9.0,6.0,0.0,8.0,0.0,2025,Bournemouth,5
+2024-09-14,Sat,Premier League,Away,L,1.0,2.0,Man City,D Bond,8.0,5.0,3.0,9.0,1.0,0.0,3.0,0.0,2025,Brentford,5
+2024-09-14,Sat,Premier League,Home,D,0.0,0.0,Ipswich,S Barrott,21.0,6.0,14.0,16.0,4.0,0.0,3.0,0.0,2025,Brighton,5
+2024-09-14,Sat,Premier League,Away,W,1.0,0.0,Bournemouth,A Taylor,10.0,3.0,9.0,16.0,8.0,0.0,6.0,0.0,2025,Chelsea,5
+2024-09-14,Sat,Premier League,Home,D,2.0,2.0,Leicester,T Harrington,20.0,4.0,11.0,15.0,0.0,0.0,3.0,0.0,2025,Crystal Palace,5
+2024-09-14,Sat,Premier League,Away,L,2.0,3.0,Aston Villa,C Pawson,6.0,2.0,12.0,10.0,4.0,0.0,1.0,0.0,2025,Everton,5
+2024-09-14,Sat,Premier League,Home,D,1.0,1.0,West Ham,T Robinson,21.0,5.0,15.0,18.0,2.0,0.0,3.0,0.0,2025,Fulham,5
+2024-09-14,Sat,Premier League,Away,D,0.0,0.0,Brighton,S Barrott,6.0,1.0,16.0,14.0,3.0,0.0,4.0,0.0,2025,Ipswich,5
+2024-09-14,Sat,Premier League,Away,D,2.0,2.0,Crystal Palace,T Harrington,9.0,4.0,15.0,11.0,3.0,0.0,0.0,0.0,2025,Leicester,5
+2024-09-14,Sat,Premier League,Home,L,0.0,1.0,Nott'm Forest,M Oliver,14.0,5.0,15.0,6.0,4.0,0.0,4.0,0.0,2025,Liverpool,5
+2024-09-14,Sat,Premier League,Home,W,2.0,1.0,Brentford,D Bond,18.0,7.0,9.0,3.0,3.0,0.0,1.0,0.0,2025,Man City,5
+2024-09-14,Sat,Premier League,Away,W,3.0,0.0,Southampton,S Attwell,20.0,10.0,14.0,11.0,4.0,0.0,1.0,1.0,2025,Man United,5
+2024-09-14,Sat,Premier League,Away,W,1.0,0.0,Liverpool,M Oliver,5.0,3.0,6.0,15.0,4.0,0.0,4.0,0.0,2025,Nott'm Forest,5
+2024-09-14,Sat,Premier League,Home,L,0.0,3.0,Man United,S Attwell,6.0,4.0,11.0,14.0,1.0,1.0,4.0,0.0,2025,Southampton,5
+2024-09-14,Sat,Premier League,Away,D,1.0,1.0,Fulham,T Robinson,11.0,3.0,18.0,15.0,3.0,0.0,2.0,0.0,2025,West Ham,5
+2024-09-15,Sun,Premier League,Away,W,1.0,0.0,Tottenham,J Gillett,7.0,4.0,10.0,13.0,3.0,0.0,5.0,0.0,2025,Arsenal,6
+2024-09-15,Sun,Premier League,Away,W,2.0,1.0,Wolves,C Kavanagh,14.0,6.0,6.0,17.0,3.0,0.0,3.0,0.0,2025,Newcastle,6
+2024-09-15,Sun,Premier League,Home,L,0.0,1.0,Arsenal,J Gillett,15.0,5.0,13.0,10.0,5.0,0.0,3.0,0.0,2025,Tottenham,6
+2024-09-15,Sun,Premier League,Home,L,1.0,2.0,Newcastle,C Kavanagh,12.0,5.0,17.0,6.0,3.0,0.0,3.0,0.0,2025,Wolves,6
+2024-09-21,Sat,Premier League,Home,W,3.0,1.0,Wolves,T Robinson,9.0,4.0,11.0,16.0,3.0,0.0,6.0,0.0,2025,Aston Villa,5
+2024-09-21,Sat,Premier League,Away,L,0.0,3.0,Liverpool,T Harrington,19.0,6.0,12.0,10.0,4.0,0.0,1.0,0.0,2025,Bournemouth,5
+2024-09-21,Sat,Premier League,Away,L,1.0,3.0,Tottenham,J Brooks,6.0,6.0,9.0,11.0,1.0,0.0,3.0,0.0,2025,Brentford,5
+2024-09-21,Sat,Premier League,Away,W,3.0,0.0,West Ham,S Barrott,12.0,5.0,9.0,17.0,2.0,0.0,5.0,0.0,2025,Chelsea,5
+2024-09-21,Sat,Premier League,Home,D,0.0,0.0,Man United,D Coote,9.0,4.0,7.0,12.0,3.0,0.0,1.0,0.0,2025,Crystal Palace,5
+2024-09-21,Sat,Premier League,Away,D,1.0,1.0,Leicester,D England,16.0,5.0,12.0,11.0,2.0,0.0,1.0,0.0,2025,Everton,5
+2024-09-21,Sat,Premier League,Home,W,3.0,1.0,Newcastle,P Bankes,22.0,11.0,16.0,8.0,6.0,0.0,0.0,0.0,2025,Fulham,5
+2024-09-21,Sat,Premier League,Away,D,1.0,1.0,Southampton,S Allison,13.0,6.0,16.0,16.0,4.0,0.0,4.0,0.0,2025,Ipswich,5
+2024-09-21,Sat,Premier League,Home,D,1.0,1.0,Everton,D England,12.0,2.0,11.0,12.0,1.0,0.0,2.0,0.0,2025,Leicester,5
+2024-09-21,Sat,Premier League,Home,W,3.0,0.0,Bournemouth,T Harrington,19.0,13.0,10.0,12.0,1.0,0.0,4.0,0.0,2025,Liverpool,5
+2024-09-21,Sat,Premier League,Away,D,0.0,0.0,Crystal Palace,D Coote,15.0,6.0,12.0,7.0,1.0,0.0,3.0,0.0,2025,Man United,5
+2024-09-21,Sat,Premier League,Away,L,1.0,3.0,Fulham,P Bankes,15.0,4.0,8.0,16.0,0.0,0.0,6.0,0.0,2025,Newcastle,5
+2024-09-21,Sat,Premier League,Home,D,1.0,1.0,Ipswich,S Allison,11.0,3.0,16.0,16.0,4.0,0.0,4.0,0.0,2025,Southampton,5
+2024-09-21,Sat,Premier League,Home,W,3.0,1.0,Brentford,J Brooks,23.0,10.0,11.0,9.0,3.0,0.0,1.0,0.0,2025,Tottenham,5
+2024-09-21,Sat,Premier League,Home,L,0.0,3.0,Chelsea,S Barrott,15.0,7.0,17.0,9.0,5.0,0.0,2.0,0.0,2025,West Ham,5
+2024-09-21,Sat,Premier League,Away,L,1.0,3.0,Aston Villa,T Robinson,10.0,4.0,16.0,11.0,6.0,0.0,3.0,0.0,2025,Wolves,5
+2024-09-22,Sun,Premier League,Away,D,2.0,2.0,Man City,M Oliver,5.0,3.0,10.0,7.0,4.0,1.0,3.0,0.0,2025,Arsenal,6
+2024-09-22,Sun,Premier League,Home,D,2.0,2.0,Nott'm Forest,R Jones,14.0,3.0,12.0,11.0,3.0,0.0,4.0,1.0,2025,Brighton,6
+2024-09-22,Sun,Premier League,Home,D,2.0,2.0,Arsenal,M Oliver,33.0,11.0,7.0,10.0,3.0,0.0,4.0,1.0,2025,Man City,6
+2024-09-22,Sun,Premier League,Away,D,2.0,2.0,Brighton,R Jones,4.0,3.0,11.0,12.0,4.0,1.0,3.0,0.0,2025,Nott'm Forest,6
+2024-09-28,Sat,Premier League,Home,W,4.0,2.0,Leicester,S Barrott,36.0,16.0,11.0,6.0,2.0,0.0,4.0,0.0,2025,Arsenal,5
+2024-09-28,Sat,Premier League,Home,D,1.0,1.0,West Ham,S Hooper,8.0,3.0,2.0,11.0,2.0,0.0,3.0,0.0,2025,Brentford,5
+2024-09-28,Sat,Premier League,Away,L,2.0,4.0,Chelsea,P Bankes,15.0,5.0,8.0,11.0,2.0,0.0,3.0,0.0,2025,Brighton,5
+2024-09-28,Sat,Premier League,Home,W,4.0,2.0,Brighton,P Bankes,15.0,7.0,11.0,8.0,3.0,0.0,2.0,0.0,2025,Chelsea,5
+2024-09-28,Sat,Premier League,Away,L,1.0,2.0,Everton,A Madley,17.0,5.0,11.0,13.0,1.0,0.0,2.0,0.0,2025,Crystal Palace,5
+2024-09-28,Sat,Premier League,Home,W,2.0,1.0,Crystal Palace,A Madley,8.0,2.0,13.0,11.0,2.0,0.0,1.0,0.0,2025,Everton,5
+2024-09-28,Sat,Premier League,Away,W,1.0,0.0,Nott'm Forest,J Smith,14.0,2.0,15.0,11.0,4.0,0.0,2.0,0.0,2025,Fulham,5
+2024-09-28,Sat,Premier League,Away,L,2.0,4.0,Arsenal,S Barrott,5.0,3.0,6.0,11.0,4.0,0.0,2.0,0.0,2025,Leicester,5
+2024-09-28,Sat,Premier League,Away,W,2.0,1.0,Wolves,A Taylor,10.0,6.0,8.0,16.0,3.0,0.0,2.0,0.0,2025,Liverpool,5
+2024-09-28,Sat,Premier League,Away,D,1.0,1.0,Newcastle,J Gillett,16.0,6.0,10.0,14.0,4.0,0.0,4.0,0.0,2025,Man City,5
+2024-09-28,Sat,Premier League,Home,D,1.0,1.0,Man City,J Gillett,11.0,4.0,14.0,10.0,4.0,0.0,4.0,0.0,2025,Newcastle,5
+2024-09-28,Sat,Premier League,Home,L,0.0,1.0,Fulham,J Smith,11.0,1.0,11.0,15.0,2.0,0.0,4.0,0.0,2025,Nott'm Forest,5
+2024-09-28,Sat,Premier League,Away,D,1.0,1.0,Brentford,S Hooper,19.0,3.0,11.0,2.0,3.0,0.0,2.0,0.0,2025,West Ham,5
+2024-09-28,Sat,Premier League,Home,L,1.0,2.0,Liverpool,A Taylor,8.0,3.0,16.0,8.0,2.0,0.0,3.0,0.0,2025,Wolves,5
+2024-09-29,Sun,Premier League,Away,D,2.0,2.0,Ipswich,S Attwell,7.0,3.0,14.0,10.0,1.0,0.0,4.0,0.0,2025,Aston Villa,6
+2024-09-29,Sun,Premier League,Home,D,2.0,2.0,Aston Villa,S Attwell,15.0,5.0,10.0,14.0,4.0,0.0,1.0,0.0,2025,Ipswich,6
+2024-09-29,Sun,Premier League,Home,L,0.0,3.0,Tottenham,C Kavanagh,11.0,2.0,16.0,14.0,5.0,1.0,3.0,0.0,2025,Man United,6
+2024-09-29,Sun,Premier League,Away,W,3.0,0.0,Man United,C Kavanagh,24.0,10.0,14.0,16.0,3.0,0.0,5.0,1.0,2025,Tottenham,6
+2024-09-30,Mon,Premier League,Home,W,3.0,1.0,Southampton,M Oliver,14.0,6.0,19.0,12.0,2.0,0.0,5.0,0.0,2025,Bournemouth,0
+2024-09-30,Mon,Premier League,Away,L,1.0,3.0,Bournemouth,M Oliver,9.0,3.0,12.0,19.0,5.0,0.0,2.0,0.0,2025,Southampton,0
+2024-10-05,Sat,Premier League,Home,W,3.0,1.0,Southampton,T Harrington,29.0,6.0,10.0,9.0,0.0,0.0,3.0,0.0,2025,Arsenal,5
+2024-10-05,Sat,Premier League,Away,L,0.0,1.0,Leicester,D Bond,17.0,2.0,14.0,12.0,1.0,0.0,4.0,0.0,2025,Bournemouth,5
+2024-10-05,Sat,Premier League,Home,W,5.0,3.0,Wolves,A Madley,19.0,12.0,9.0,10.0,2.0,0.0,3.0,0.0,2025,Brentford,5
+2024-10-05,Sat,Premier League,Home,L,0.0,1.0,Liverpool,S Hooper,9.0,5.0,7.0,15.0,4.0,0.0,2.0,0.0,2025,Crystal Palace,5
+2024-10-05,Sat,Premier League,Home,D,0.0,0.0,Newcastle,C Pawson,8.0,2.0,12.0,8.0,1.0,0.0,2.0,0.0,2025,Everton,5
+2024-10-05,Sat,Premier League,Away,L,2.0,3.0,Man City,P Bankes,11.0,4.0,10.0,4.0,1.0,0.0,2.0,0.0,2025,Fulham,5
+2024-10-05,Sat,Premier League,Away,L,1.0,4.0,West Ham,A Taylor,9.0,2.0,6.0,12.0,1.0,0.0,0.0,0.0,2025,Ipswich,5
+2024-10-05,Sat,Premier League,Home,W,1.0,0.0,Bournemouth,D Bond,6.0,2.0,12.0,14.0,4.0,0.0,1.0,0.0,2025,Leicester,5
+2024-10-05,Sat,Premier League,Away,W,1.0,0.0,Crystal Palace,S Hooper,16.0,4.0,15.0,7.0,2.0,0.0,4.0,0.0,2025,Liverpool,5
+2024-10-05,Sat,Premier League,Home,W,3.0,2.0,Fulham,P Bankes,20.0,7.0,4.0,10.0,2.0,0.0,1.0,0.0,2025,Man City,5
+2024-10-05,Sat,Premier League,Away,D,0.0,0.0,Everton,C Pawson,14.0,3.0,8.0,12.0,2.0,0.0,1.0,0.0,2025,Newcastle,5
+2024-10-05,Sat,Premier League,Away,L,1.0,3.0,Arsenal,T Harrington,8.0,2.0,9.0,10.0,3.0,0.0,0.0,0.0,2025,Southampton,5
+2024-10-05,Sat,Premier League,Home,W,4.0,1.0,Ipswich,A Taylor,23.0,13.0,12.0,6.0,0.0,0.0,1.0,0.0,2025,West Ham,5
+2024-10-05,Sat,Premier League,Away,L,3.0,5.0,Brentford,A Madley,17.0,6.0,10.0,9.0,3.0,0.0,2.0,0.0,2025,Wolves,5
+2024-10-06,Sun,Premier League,Home,D,0.0,0.0,Man United,R Jones,11.0,1.0,12.0,11.0,1.0,0.0,5.0,0.0,2025,Aston Villa,6
+2024-10-06,Sun,Premier League,Home,W,3.0,2.0,Tottenham,D Coote,11.0,4.0,14.0,10.0,2.0,0.0,2.0,0.0,2025,Brighton,6
+2024-10-06,Sun,Premier League,Home,D,1.0,1.0,Nott'm Forest,C Kavanagh,22.0,8.0,12.0,11.0,6.0,0.0,2.0,1.0,2025,Chelsea,6
+2024-10-06,Sun,Premier League,Away,D,0.0,0.0,Aston Villa,R Jones,10.0,4.0,11.0,12.0,5.0,0.0,1.0,0.0,2025,Man United,6
+2024-10-06,Sun,Premier League,Away,D,1.0,1.0,Chelsea,C Kavanagh,16.0,9.0,11.0,12.0,2.0,1.0,6.0,0.0,2025,Nott'm Forest,6
+2024-10-06,Sun,Premier League,Away,L,2.0,3.0,Brighton,D Coote,13.0,3.0,10.0,14.0,2.0,0.0,2.0,0.0,2025,Tottenham,6
+2024-10-19,Sat,Premier League,Away,L,0.0,2.0,Bournemouth,R Jones,6.0,1.0,11.0,12.0,1.0,1.0,1.0,0.0,2025,Arsenal,5
+2024-10-19,Sat,Premier League,Away,W,3.0,1.0,Fulham,D England,14.0,5.0,11.0,8.0,3.0,1.0,3.0,1.0,2025,Aston Villa,5
+2024-10-19,Sat,Premier League,Home,W,2.0,0.0,Arsenal,R Jones,13.0,4.0,12.0,11.0,1.0,0.0,1.0,1.0,2025,Bournemouth,5
+2024-10-19,Sat,Premier League,Away,L,1.0,2.0,Man United,S Barrott,8.0,2.0,5.0,14.0,2.0,0.0,2.0,0.0,2025,Brentford,5
+2024-10-19,Sat,Premier League,Away,W,1.0,0.0,Newcastle,P Bankes,10.0,5.0,9.0,11.0,2.0,0.0,2.0,0.0,2025,Brighton,5
+2024-10-19,Sat,Premier League,Away,W,2.0,0.0,Ipswich,M Oliver,11.0,8.0,10.0,12.0,1.0,0.0,1.0,0.0,2025,Everton,5
+2024-10-19,Sat,Premier League,Home,L,1.0,3.0,Aston Villa,D England,10.0,4.0,8.0,11.0,3.0,1.0,3.0,1.0,2025,Fulham,5
+2024-10-19,Sat,Premier League,Home,L,0.0,2.0,Everton,M Oliver,13.0,2.0,12.0,10.0,1.0,0.0,1.0,0.0,2025,Ipswich,5
+2024-10-19,Sat,Premier League,Away,W,3.0,2.0,Southampton,A Taylor,18.0,4.0,10.0,10.0,3.0,0.0,5.0,1.0,2025,Leicester,5
+2024-10-19,Sat,Premier League,Home,W,2.0,1.0,Brentford,S Barrott,23.0,11.0,14.0,5.0,2.0,0.0,2.0,0.0,2025,Man United,5
+2024-10-19,Sat,Premier League,Home,L,0.0,1.0,Brighton,P Bankes,21.0,6.0,11.0,9.0,2.0,0.0,2.0,0.0,2025,Newcastle,5
+2024-10-19,Sat,Premier League,Home,L,2.0,3.0,Leicester,A Taylor,14.0,7.0,10.0,10.0,5.0,1.0,3.0,0.0,2025,Southampton,5
+2024-10-19,Sat,Premier League,Home,W,4.0,1.0,West Ham,A Madley,22.0,7.0,10.0,15.0,1.0,0.0,3.0,1.0,2025,Tottenham,5
+2024-10-19,Sat,Premier League,Away,L,1.0,4.0,Tottenham,A Madley,11.0,4.0,15.0,10.0,3.0,1.0,1.0,0.0,2025,West Ham,5
+2024-10-20,Sun,Premier League,Away,L,1.0,2.0,Liverpool,J Brooks,12.0,2.0,13.0,12.0,3.0,0.0,4.0,0.0,2025,Chelsea,6
+2024-10-20,Sun,Premier League,Home,W,2.0,1.0,Chelsea,J Brooks,9.0,5.0,12.0,13.0,4.0,0.0,3.0,0.0,2025,Liverpool,6
+2024-10-20,Sun,Premier League,Away,W,2.0,1.0,Wolves,C Kavanagh,22.0,7.0,5.0,8.0,1.0,0.0,4.0,0.0,2025,Man City,6
+2024-10-20,Sun,Premier League,Home,L,1.0,2.0,Man City,C Kavanagh,3.0,2.0,8.0,5.0,4.0,0.0,1.0,0.0,2025,Wolves,6
+2024-10-21,Mon,Premier League,Away,L,0.0,1.0,Nott'm Forest,T Robinson,20.0,7.0,12.0,9.0,3.0,0.0,2.0,0.0,2025,Crystal Palace,0
+2024-10-21,Mon,Premier League,Home,W,1.0,0.0,Crystal Palace,T Robinson,20.0,6.0,9.0,12.0,2.0,0.0,3.0,0.0,2025,Nott'm Forest,0
+2024-10-25,Fri,Premier League,Home,L,1.0,3.0,Nott'm Forest,C Pawson,11.0,1.0,16.0,9.0,5.0,0.0,2.0,0.0,2025,Leicester,4
+2024-10-25,Fri,Premier League,Away,W,3.0,1.0,Leicester,C Pawson,20.0,5.0,9.0,16.0,2.0,0.0,5.0,0.0,2025,Nott'm Forest,4
+2024-10-26,Sat,Premier League,Home,D,1.0,1.0,Bournemouth,A Madley,18.0,8.0,12.0,14.0,7.0,0.0,6.0,0.0,2025,Aston Villa,5
+2024-10-26,Sat,Premier League,Away,D,1.0,1.0,Aston Villa,A Madley,11.0,3.0,14.0,12.0,6.0,0.0,7.0,0.0,2025,Bournemouth,5
+2024-10-26,Sat,Premier League,Home,W,4.0,3.0,Ipswich,L Smith,20.0,9.0,7.0,10.0,0.0,0.0,1.0,1.0,2025,Brentford,5
+2024-10-26,Sat,Premier League,Home,D,2.0,2.0,Wolves,M Oliver,19.0,6.0,12.0,10.0,3.0,0.0,3.0,0.0,2025,Brighton,5
+2024-10-26,Sat,Premier League,Home,D,1.0,1.0,Fulham,J Brooks,10.0,5.0,8.0,8.0,1.0,0.0,0.0,0.0,2025,Everton,5
+2024-10-26,Sat,Premier League,Away,D,1.0,1.0,Everton,J Brooks,14.0,3.0,8.0,8.0,0.0,0.0,1.0,0.0,2025,Fulham,5
+2024-10-26,Sat,Premier League,Away,L,3.0,4.0,Brentford,L Smith,11.0,5.0,10.0,7.0,1.0,1.0,0.0,0.0,2025,Ipswich,5
+2024-10-26,Sat,Premier League,Home,W,1.0,0.0,Southampton,T Harrington,22.0,8.0,9.0,9.0,1.0,0.0,3.0,0.0,2025,Man City,5
+2024-10-26,Sat,Premier League,Away,L,0.0,1.0,Man City,T Harrington,5.0,2.0,9.0,9.0,3.0,0.0,1.0,0.0,2025,Southampton,5
+2024-10-26,Sat,Premier League,Away,D,2.0,2.0,Brighton,M Oliver,14.0,7.0,10.0,12.0,3.0,0.0,3.0,0.0,2025,Wolves,5
+2024-10-27,Sun,Premier League,Home,D,2.0,2.0,Liverpool,A Taylor,9.0,3.0,14.0,14.0,2.0,0.0,2.0,0.0,2025,Arsenal,6
+2024-10-27,Sun,Premier League,Home,W,2.0,1.0,Newcastle,S Hooper,17.0,7.0,13.0,16.0,6.0,0.0,3.0,0.0,2025,Chelsea,6
+2024-10-27,Sun,Premier League,Home,W,1.0,0.0,Tottenham,D Bond,14.0,6.0,16.0,12.0,4.0,0.0,4.0,0.0,2025,Crystal Palace,6
+2024-10-27,Sun,Premier League,Away,D,2.0,2.0,Arsenal,A Taylor,9.0,4.0,14.0,14.0,2.0,0.0,2.0,0.0,2025,Liverpool,6
+2024-10-27,Sun,Premier League,Away,L,1.0,2.0,West Ham,D Coote,18.0,5.0,7.0,6.0,1.0,0.0,5.0,0.0,2025,Man United,6
+2024-10-27,Sun,Premier League,Away,L,1.0,2.0,Chelsea,S Hooper,11.0,3.0,16.0,13.0,3.0,0.0,6.0,0.0,2025,Newcastle,6
+2024-10-27,Sun,Premier League,Away,L,0.0,1.0,Crystal Palace,D Bond,11.0,3.0,12.0,16.0,4.0,0.0,4.0,0.0,2025,Tottenham,6
+2024-10-27,Sun,Premier League,Home,W,2.0,1.0,Man United,D Coote,12.0,3.0,6.0,7.0,5.0,0.0,1.0,0.0,2025,West Ham,6
+2024-11-02,Sat,Premier League,Away,L,0.0,1.0,Newcastle,J Brooks,10.0,1.0,18.0,16.0,4.0,0.0,4.0,0.0,2025,Arsenal,5
+2024-11-02,Sat,Premier League,Home,W,2.0,1.0,Man City,M Oliver,12.0,6.0,11.0,6.0,2.0,0.0,1.0,0.0,2025,Bournemouth,5
+2024-11-02,Sat,Premier League,Away,L,1.0,2.0,Liverpool,T Harrington,13.0,5.0,18.0,10.0,1.0,0.0,1.0,0.0,2025,Brighton,5
+2024-11-02,Sat,Premier League,Away,D,2.0,2.0,Wolves,A Taylor,19.0,7.0,9.0,7.0,2.0,0.0,1.0,0.0,2025,Crystal Palace,5
+2024-11-02,Sat,Premier League,Away,L,0.0,1.0,Southampton,A Madley,16.0,5.0,18.0,14.0,2.0,0.0,4.0,0.0,2025,Everton,5
+2024-11-02,Sat,Premier League,Home,D,1.0,1.0,Leicester,T Robinson,14.0,2.0,11.0,10.0,4.0,1.0,2.0,0.0,2025,Ipswich,5
+2024-11-02,Sat,Premier League,Away,D,1.0,1.0,Ipswich,T Robinson,20.0,6.0,10.0,11.0,2.0,0.0,4.0,1.0,2025,Leicester,5
+2024-11-02,Sat,Premier League,Home,W,2.0,1.0,Brighton,T Harrington,16.0,8.0,10.0,18.0,1.0,0.0,1.0,0.0,2025,Liverpool,5
+2024-11-02,Sat,Premier League,Away,L,1.0,2.0,Bournemouth,M Oliver,18.0,4.0,6.0,11.0,1.0,0.0,2.0,0.0,2025,Man City,5
+2024-11-02,Sat,Premier League,Home,W,1.0,0.0,Arsenal,J Brooks,9.0,4.0,16.0,18.0,4.0,0.0,4.0,0.0,2025,Newcastle,5
+2024-11-02,Sat,Premier League,Home,W,3.0,0.0,West Ham,P Bankes,19.0,6.0,7.0,9.0,1.0,0.0,2.0,1.0,2025,Nott'm Forest,5
+2024-11-02,Sat,Premier League,Home,W,1.0,0.0,Everton,A Madley,9.0,2.0,14.0,18.0,4.0,0.0,2.0,0.0,2025,Southampton,5
+2024-11-02,Sat,Premier League,Away,L,0.0,3.0,Nott'm Forest,P Bankes,4.0,2.0,9.0,7.0,2.0,1.0,1.0,0.0,2025,West Ham,5
+2024-11-02,Sat,Premier League,Home,D,2.0,2.0,Crystal Palace,A Taylor,11.0,6.0,7.0,9.0,1.0,0.0,2.0,0.0,2025,Wolves,5
+2024-11-03,Sun,Premier League,Away,L,1.0,4.0,Tottenham,C Pawson,12.0,1.0,14.0,14.0,0.0,0.0,2.0,0.0,2025,Aston Villa,6
+2024-11-03,Sun,Premier League,Away,D,1.0,1.0,Man United,R Jones,12.0,3.0,14.0,19.0,2.0,0.0,6.0,0.0,2025,Chelsea,6
+2024-11-03,Sun,Premier League,Home,D,1.0,1.0,Chelsea,R Jones,11.0,4.0,19.0,14.0,6.0,0.0,2.0,0.0,2025,Man United,6
+2024-11-03,Sun,Premier League,Home,W,4.0,1.0,Aston Villa,C Pawson,16.0,6.0,14.0,14.0,2.0,0.0,0.0,0.0,2025,Tottenham,6
+2024-11-04,Mon,Premier League,Away,L,1.0,2.0,Fulham,S Attwell,5.0,2.0,10.0,3.0,1.0,0.0,2.0,0.0,2025,Brentford,0
+2024-11-04,Mon,Premier League,Home,W,2.0,1.0,Brentford,S Attwell,26.0,12.0,3.0,10.0,2.0,0.0,1.0,0.0,2025,Fulham,0
+2024-11-09,Sat,Premier League,Away,L,0.0,2.0,Liverpool,D Coote,12.0,2.0,15.0,11.0,3.0,0.0,0.0,0.0,2025,Aston Villa,5
+2024-11-09,Sat,Premier League,Away,L,2.0,3.0,Brentford,D Bond,15.0,3.0,16.0,8.0,4.0,0.0,2.0,0.0,2025,Bournemouth,5
+2024-11-09,Sat,Premier League,Home,W,3.0,2.0,Bournemouth,D Bond,12.0,6.0,8.0,16.0,2.0,0.0,4.0,0.0,2025,Brentford,5
+2024-11-09,Sat,Premier League,Home,W,2.0,1.0,Man City,S Barrott,10.0,4.0,12.0,10.0,3.0,0.0,3.0,0.0,2025,Brighton,5
+2024-11-09,Sat,Premier League,Home,L,0.0,2.0,Fulham,M Salisbury,13.0,5.0,10.0,11.0,1.0,1.0,1.0,0.0,2025,Crystal Palace,5
+2024-11-09,Sat,Premier League,Away,D,0.0,0.0,West Ham,S Attwell,18.0,4.0,9.0,10.0,2.0,0.0,1.0,0.0,2025,Everton,5
+2024-11-09,Sat,Premier League,Away,W,2.0,0.0,Crystal Palace,M Salisbury,17.0,7.0,11.0,10.0,1.0,0.0,1.0,1.0,2025,Fulham,5
+2024-11-09,Sat,Premier League,Home,W,2.0,0.0,Aston Villa,D Coote,14.0,5.0,11.0,15.0,0.0,0.0,3.0,0.0,2025,Liverpool,5
+2024-11-09,Sat,Premier League,Away,L,1.0,2.0,Brighton,S Barrott,15.0,6.0,10.0,12.0,3.0,0.0,3.0,0.0,2025,Man City,5
+2024-11-09,Sat,Premier League,Away,L,0.0,2.0,Wolves,T Bramall,9.0,0.0,12.0,14.0,4.0,0.0,1.0,0.0,2025,Southampton,5
+2024-11-09,Sat,Premier League,Home,D,0.0,0.0,Everton,S Attwell,11.0,6.0,10.0,9.0,1.0,0.0,2.0,0.0,2025,West Ham,5
+2024-11-09,Sat,Premier League,Home,W,2.0,0.0,Southampton,T Bramall,8.0,4.0,14.0,12.0,1.0,0.0,4.0,0.0,2025,Wolves,5
+2024-11-10,Sun,Premier League,Away,D,1.0,1.0,Chelsea,M Oliver,13.0,3.0,12.0,12.0,2.0,0.0,4.0,0.0,2025,Arsenal,6
+2024-11-10,Sun,Premier League,Home,D,1.0,1.0,Arsenal,M Oliver,17.0,3.0,12.0,12.0,4.0,0.0,2.0,0.0,2025,Chelsea,6
+2024-11-10,Sun,Premier League,Away,W,2.0,1.0,Tottenham,D England,8.0,3.0,19.0,10.0,5.0,0.0,1.0,0.0,2025,Ipswich,6
+2024-11-10,Sun,Premier League,Away,L,0.0,3.0,Man United,P Bankes,6.0,5.0,5.0,9.0,1.0,0.0,0.0,0.0,2025,Leicester,6
+2024-11-10,Sun,Premier League,Home,W,3.0,0.0,Leicester,P Bankes,13.0,3.0,9.0,5.0,0.0,0.0,1.0,0.0,2025,Man United,6
+2024-11-10,Sun,Premier League,Away,W,3.0,1.0,Nott'm Forest,A Taylor,17.0,6.0,6.0,13.0,1.0,0.0,1.0,0.0,2025,Newcastle,6
+2024-11-10,Sun,Premier League,Home,L,1.0,3.0,Newcastle,A Taylor,9.0,3.0,13.0,6.0,1.0,0.0,1.0,0.0,2025,Nott'm Forest,6
+2024-11-10,Sun,Premier League,Home,L,1.0,2.0,Ipswich,D England,17.0,5.0,10.0,19.0,1.0,0.0,5.0,0.0,2025,Tottenham,6
+2024-11-23,Sat,Premier League,Home,W,3.0,0.0,Nott'm Forest,S Hooper,19.0,7.0,10.0,1.0,3.0,0.0,2.0,0.0,2025,Arsenal,5
+2024-11-23,Sat,Premier League,Home,D,2.0,2.0,Crystal Palace,T Robinson,17.0,5.0,10.0,11.0,3.0,0.0,2.0,0.0,2025,Aston Villa,5
+2024-11-23,Sat,Premier League,Home,L,1.0,2.0,Brighton,S Attwell,19.0,5.0,13.0,10.0,2.0,0.0,2.0,1.0,2025,Bournemouth,5
+2024-11-23,Sat,Premier League,Away,D,0.0,0.0,Everton,C Kavanagh,9.0,2.0,10.0,8.0,0.0,1.0,0.0,0.0,2025,Brentford,5
+2024-11-23,Sat,Premier League,Away,W,2.0,1.0,Bournemouth,S Attwell,6.0,4.0,10.0,13.0,2.0,1.0,2.0,0.0,2025,Brighton,5
+2024-11-23,Sat,Premier League,Away,W,2.0,1.0,Leicester,A Madley,16.0,7.0,12.0,15.0,3.0,0.0,4.0,0.0,2025,Chelsea,5
+2024-11-23,Sat,Premier League,Away,D,2.0,2.0,Aston Villa,T Robinson,13.0,6.0,11.0,10.0,2.0,0.0,3.0,0.0,2025,Crystal Palace,5
+2024-11-23,Sat,Premier League,Home,D,0.0,0.0,Brentford,C Kavanagh,27.0,5.0,8.0,10.0,0.0,0.0,0.0,1.0,2025,Everton,5
+2024-11-23,Sat,Premier League,Home,L,1.0,4.0,Wolves,R Jones,10.0,3.0,14.0,14.0,3.0,0.0,0.0,0.0,2025,Fulham,5
+2024-11-23,Sat,Premier League,Home,L,1.0,2.0,Chelsea,A Madley,4.0,1.0,15.0,12.0,4.0,0.0,3.0,0.0,2025,Leicester,5
+2024-11-23,Sat,Premier League,Home,L,0.0,4.0,Tottenham,J Brooks,23.0,5.0,19.0,9.0,4.0,0.0,2.0,0.0,2025,Man City,5
+2024-11-23,Sat,Premier League,Away,L,0.0,3.0,Arsenal,S Hooper,7.0,0.0,1.0,10.0,2.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2024-11-23,Sat,Premier League,Away,W,4.0,0.0,Man City,J Brooks,9.0,7.0,9.0,19.0,2.0,0.0,4.0,0.0,2025,Tottenham,5
+2024-11-23,Sat,Premier League,Away,W,4.0,1.0,Fulham,R Jones,10.0,5.0,14.0,14.0,0.0,0.0,3.0,0.0,2025,Wolves,5
+2024-11-24,Sun,Premier League,Home,D,1.0,1.0,Man United,A Taylor,11.0,6.0,11.0,10.0,0.0,0.0,0.0,0.0,2025,Ipswich,6
+2024-11-24,Sun,Premier League,Away,W,3.0,2.0,Southampton,S Barrott,27.0,11.0,9.0,11.0,4.0,0.0,3.0,0.0,2025,Liverpool,6
+2024-11-24,Sun,Premier League,Away,D,1.0,1.0,Ipswich,A Taylor,11.0,4.0,10.0,11.0,0.0,0.0,0.0,0.0,2025,Man United,6
+2024-11-24,Sun,Premier League,Home,L,2.0,3.0,Liverpool,S Barrott,7.0,5.0,11.0,9.0,3.0,0.0,4.0,0.0,2025,Southampton,6
+2024-11-25,Mon,Premier League,Home,L,0.0,2.0,West Ham,C Pawson,18.0,2.0,11.0,8.0,1.0,0.0,0.0,0.0,2025,Newcastle,0
+2024-11-25,Mon,Premier League,Away,W,2.0,0.0,Newcastle,C Pawson,15.0,6.0,8.0,11.0,0.0,0.0,1.0,0.0,2025,West Ham,0
+2024-11-29,Fri,Premier League,Home,D,1.0,1.0,Southampton,R Jones,22.0,5.0,20.0,16.0,2.0,0.0,4.0,0.0,2025,Brighton,4
+2024-11-29,Fri,Premier League,Away,D,1.0,1.0,Brighton,R Jones,10.0,2.0,16.0,20.0,4.0,0.0,2.0,0.0,2025,Southampton,4
+2024-11-30,Sat,Premier League,Away,W,5.0,2.0,West Ham,A Taylor,16.0,7.0,13.0,10.0,1.0,0.0,4.0,0.0,2025,Arsenal,5
+2024-11-30,Sat,Premier League,Away,W,4.0,2.0,Wolves,P Bankes,12.0,8.0,11.0,13.0,1.0,0.0,4.0,0.0,2025,Bournemouth,5
+2024-11-30,Sat,Premier League,Home,W,4.0,1.0,Leicester,M Oliver,13.0,6.0,9.0,10.0,1.0,0.0,1.0,0.0,2025,Brentford,5
+2024-11-30,Sat,Premier League,Home,D,1.0,1.0,Newcastle,D England,16.0,4.0,12.0,11.0,3.0,0.0,3.0,0.0,2025,Crystal Palace,5
+2024-11-30,Sat,Premier League,Away,L,0.0,1.0,Nott'm Forest,T Harrington,7.0,3.0,16.0,5.0,3.0,0.0,1.0,0.0,2025,Ipswich,5
+2024-11-30,Sat,Premier League,Away,L,1.0,4.0,Brentford,M Oliver,7.0,3.0,10.0,9.0,1.0,0.0,1.0,0.0,2025,Leicester,5
+2024-11-30,Sat,Premier League,Away,D,1.0,1.0,Crystal Palace,D England,1.0,0.0,11.0,12.0,3.0,0.0,3.0,0.0,2025,Newcastle,5
+2024-11-30,Sat,Premier League,Home,W,1.0,0.0,Ipswich,T Harrington,12.0,5.0,5.0,16.0,1.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2024-11-30,Sat,Premier League,Home,L,2.0,5.0,Arsenal,A Taylor,12.0,5.0,10.0,13.0,4.0,0.0,1.0,0.0,2025,West Ham,5
+2024-11-30,Sat,Premier League,Home,L,2.0,4.0,Bournemouth,P Bankes,10.0,3.0,13.0,11.0,4.0,0.0,1.0,0.0,2025,Wolves,5
+2024-12-01,Sun,Premier League,Away,L,0.0,3.0,Chelsea,S Attwell,10.0,4.0,6.0,21.0,2.0,0.0,2.0,0.0,2025,Aston Villa,6
+2024-12-01,Sun,Premier League,Home,W,3.0,0.0,Aston Villa,S Attwell,17.0,8.0,21.0,6.0,2.0,0.0,2.0,0.0,2025,Chelsea,6
+2024-12-01,Sun,Premier League,Away,L,0.0,4.0,Man United,J Brooks,8.0,2.0,12.0,12.0,3.0,0.0,2.0,0.0,2025,Everton,6
+2024-12-01,Sun,Premier League,Away,D,1.0,1.0,Tottenham,D Bond,14.0,6.0,14.0,4.0,1.0,1.0,0.0,0.0,2025,Fulham,6
+2024-12-01,Sun,Premier League,Home,W,2.0,0.0,Man City,C Kavanagh,18.0,7.0,9.0,8.0,1.0,0.0,3.0,0.0,2025,Liverpool,6
+2024-12-01,Sun,Premier League,Away,L,0.0,2.0,Liverpool,C Kavanagh,8.0,2.0,8.0,9.0,3.0,0.0,1.0,0.0,2025,Man City,6
+2024-12-01,Sun,Premier League,Home,W,4.0,0.0,Everton,J Brooks,11.0,5.0,12.0,12.0,2.0,0.0,3.0,0.0,2025,Man United,6
+2024-12-01,Sun,Premier League,Home,D,1.0,1.0,Fulham,D Bond,8.0,3.0,4.0,14.0,0.0,0.0,1.0,1.0,2025,Tottenham,6
+2024-12-03,Tue,Premier League,Away,W,1.0,0.0,Ipswich,C Pawson,13.0,3.0,13.0,14.0,4.0,0.0,2.0,0.0,2025,Crystal Palace,1
+2024-12-03,Tue,Premier League,Home,L,0.0,1.0,Crystal Palace,C Pawson,9.0,2.0,14.0,13.0,2.0,0.0,4.0,0.0,2025,Ipswich,1
+2024-12-03,Tue,Premier League,Home,W,3.0,1.0,West Ham,J Smith,8.0,6.0,9.0,7.0,2.0,0.0,2.0,0.0,2025,Leicester,1
+2024-12-03,Tue,Premier League,Away,L,1.0,3.0,Leicester,J Smith,31.0,10.0,7.0,9.0,2.0,0.0,2.0,0.0,2025,West Ham,1
+2024-12-04,Wed,Premier League,Home,W,2.0,0.0,Man United,S Barrott,14.0,6.0,12.0,8.0,1.0,0.0,3.0,0.0,2025,Arsenal,2
+2024-12-04,Wed,Premier League,Home,W,3.0,1.0,Brentford,L Smith,20.0,10.0,11.0,15.0,2.0,0.0,2.0,0.0,2025,Aston Villa,2
+2024-12-04,Wed,Premier League,Away,L,1.0,3.0,Aston Villa,L Smith,9.0,1.0,15.0,11.0,2.0,0.0,2.0,0.0,2025,Brentford,2
+2024-12-04,Wed,Premier League,Away,W,5.0,1.0,Southampton,T Harrington,26.0,13.0,14.0,7.0,0.0,0.0,1.0,1.0,2025,Chelsea,2
+2024-12-04,Wed,Premier League,Home,W,4.0,0.0,Wolves,M Salisbury,13.0,4.0,10.0,8.0,2.0,0.0,0.0,0.0,2025,Everton,2
+2024-12-04,Wed,Premier League,Away,D,3.0,3.0,Newcastle,A Madley,16.0,5.0,17.0,9.0,5.0,0.0,2.0,0.0,2025,Liverpool,2
+2024-12-04,Wed,Premier League,Home,W,3.0,0.0,Nott'm Forest,M Oliver,17.0,7.0,7.0,15.0,2.0,0.0,4.0,0.0,2025,Man City,2
+2024-12-04,Wed,Premier League,Away,L,0.0,2.0,Arsenal,S Barrott,5.0,2.0,8.0,12.0,3.0,0.0,1.0,0.0,2025,Man United,2
+2024-12-04,Wed,Premier League,Home,D,3.0,3.0,Liverpool,A Madley,17.0,6.0,9.0,17.0,2.0,0.0,5.0,0.0,2025,Newcastle,2
+2024-12-04,Wed,Premier League,Away,L,0.0,3.0,Man City,M Oliver,12.0,3.0,15.0,7.0,4.0,0.0,2.0,0.0,2025,Nott'm Forest,2
+2024-12-04,Wed,Premier League,Home,L,1.0,5.0,Chelsea,T Harrington,6.0,4.0,7.0,14.0,1.0,1.0,0.0,0.0,2025,Southampton,2
+2024-12-04,Wed,Premier League,Away,L,0.0,4.0,Everton,M Salisbury,6.0,2.0,8.0,10.0,0.0,0.0,2.0,0.0,2025,Wolves,2
+2024-12-05,Thu,Premier League,Home,W,1.0,0.0,Tottenham,S Hooper,21.0,8.0,15.0,8.0,2.0,0.0,2.0,0.0,2025,Bournemouth,3
+2024-12-05,Thu,Premier League,Away,L,1.0,3.0,Fulham,P Bankes,13.0,3.0,8.0,7.0,2.0,0.0,2.0,0.0,2025,Brighton,3
+2024-12-05,Thu,Premier League,Home,W,3.0,1.0,Brighton,P Bankes,6.0,2.0,7.0,8.0,2.0,0.0,2.0,0.0,2025,Fulham,3
+2024-12-05,Thu,Premier League,Away,L,0.0,1.0,Bournemouth,S Hooper,12.0,4.0,8.0,15.0,2.0,0.0,2.0,0.0,2025,Tottenham,3
+2024-12-07,Sat,Premier League,Home,W,1.0,0.0,Southampton,D Bond,18.0,5.0,18.0,15.0,1.0,0.0,3.0,0.0,2025,Aston Villa,5
+2024-12-07,Sat,Premier League,Home,W,4.0,2.0,Newcastle,T Robinson,11.0,8.0,10.0,7.0,3.0,0.0,0.0,0.0,2025,Brentford,5
+2024-12-07,Sat,Premier League,Home,D,2.0,2.0,Man City,R Jones,12.0,3.0,4.0,10.0,1.0,0.0,0.0,1.0,2025,Crystal Palace,5
+2024-12-07,Sat,Premier League,Away,D,2.0,2.0,Crystal Palace,R Jones,12.0,4.0,10.0,4.0,0.0,1.0,1.0,0.0,2025,Man City,5
+2024-12-07,Sat,Premier League,Home,L,2.0,3.0,Nott'm Forest,D England,17.0,7.0,10.0,13.0,0.0,0.0,2.0,0.0,2025,Man United,5
+2024-12-07,Sat,Premier League,Away,L,2.0,4.0,Brentford,T Robinson,16.0,3.0,7.0,10.0,0.0,0.0,3.0,0.0,2025,Newcastle,5
+2024-12-07,Sat,Premier League,Away,W,3.0,2.0,Man United,D England,11.0,3.0,13.0,10.0,2.0,0.0,0.0,0.0,2025,Nott'm Forest,5
+2024-12-07,Sat,Premier League,Away,L,0.0,1.0,Aston Villa,D Bond,4.0,0.0,15.0,18.0,3.0,0.0,1.0,0.0,2025,Southampton,5
+2024-12-08,Sun,Premier League,Away,D,1.0,1.0,Fulham,C Kavanagh,12.0,4.0,9.0,10.0,2.0,0.0,4.0,0.0,2025,Arsenal,6
+2024-12-08,Sun,Premier League,Away,W,2.0,1.0,Ipswich,M Salisbury,22.0,6.0,13.0,9.0,1.0,0.0,2.0,0.0,2025,Bournemouth,6
+2024-12-08,Sun,Premier League,Away,D,2.0,2.0,Leicester,S Attwell,16.0,7.0,10.0,9.0,2.0,0.0,1.0,0.0,2025,Brighton,6
+2024-12-08,Sun,Premier League,Away,W,4.0,3.0,Tottenham,A Taylor,17.0,8.0,11.0,17.0,2.0,0.0,2.0,0.0,2025,Chelsea,6
+2024-12-08,Sun,Premier League,Home,D,1.0,1.0,Arsenal,C Kavanagh,2.0,2.0,10.0,9.0,4.0,0.0,2.0,0.0,2025,Fulham,6
+2024-12-08,Sun,Premier League,Home,L,1.0,2.0,Bournemouth,M Salisbury,18.0,5.0,9.0,13.0,2.0,0.0,1.0,0.0,2025,Ipswich,6
+2024-12-08,Sun,Premier League,Home,D,2.0,2.0,Brighton,S Attwell,10.0,3.0,9.0,10.0,1.0,0.0,2.0,0.0,2025,Leicester,6
+2024-12-08,Sun,Premier League,Home,L,3.0,4.0,Chelsea,A Taylor,13.0,5.0,17.0,11.0,2.0,0.0,2.0,0.0,2025,Tottenham,6
+2024-12-09,Mon,Premier League,Home,W,2.0,1.0,Wolves,J Brooks,19.0,4.0,12.0,17.0,5.0,0.0,4.0,0.0,2025,West Ham,0
+2024-12-09,Mon,Premier League,Away,L,1.0,2.0,West Ham,J Brooks,19.0,5.0,17.0,12.0,4.0,0.0,5.0,0.0,2025,Wolves,0
+2024-12-14,Sat,Premier League,Home,D,0.0,0.0,Everton,C Pawson,13.0,5.0,6.0,9.0,0.0,0.0,3.0,0.0,2025,Arsenal,5
+2024-12-14,Sat,Premier League,Away,L,1.0,2.0,Nott'm Forest,S Barrott,8.0,2.0,6.0,12.0,1.0,0.0,0.0,0.0,2025,Aston Villa,5
+2024-12-14,Sat,Premier League,Away,D,0.0,0.0,Arsenal,C Pawson,2.0,0.0,9.0,6.0,3.0,0.0,0.0,0.0,2025,Everton,5
+2024-12-14,Sat,Premier League,Away,D,2.0,2.0,Liverpool,T Harrington,12.0,3.0,7.0,10.0,4.0,0.0,3.0,1.0,2025,Fulham,5
+2024-12-14,Sat,Premier League,Away,W,2.0,1.0,Wolves,S Hooper,10.0,5.0,9.0,13.0,2.0,0.0,0.0,1.0,2025,Ipswich,5
+2024-12-14,Sat,Premier League,Away,L,0.0,4.0,Newcastle,T Bramall,4.0,1.0,16.0,7.0,3.0,0.0,3.0,0.0,2025,Leicester,5
+2024-12-14,Sat,Premier League,Home,D,2.0,2.0,Fulham,T Harrington,16.0,4.0,10.0,7.0,3.0,1.0,4.0,0.0,2025,Liverpool,5
+2024-12-14,Sat,Premier League,Home,W,4.0,0.0,Leicester,T Bramall,27.0,11.0,7.0,16.0,3.0,0.0,3.0,0.0,2025,Newcastle,5
+2024-12-14,Sat,Premier League,Home,W,2.0,1.0,Aston Villa,S Barrott,17.0,6.0,12.0,6.0,0.0,0.0,1.0,0.0,2025,Nott'm Forest,5
+2024-12-14,Sat,Premier League,Home,L,1.0,2.0,Ipswich,S Hooper,16.0,6.0,13.0,9.0,0.0,1.0,2.0,0.0,2025,Wolves,5
+2024-12-15,Sun,Premier League,Away,L,1.0,2.0,Chelsea,P Bankes,9.0,4.0,7.0,11.0,2.0,0.0,0.0,1.0,2025,Brentford,6
+2024-12-15,Sun,Premier League,Home,L,1.0,3.0,Crystal Palace,M Oliver,17.0,5.0,11.0,15.0,1.0,0.0,4.0,0.0,2025,Brighton,6
+2024-12-15,Sun,Premier League,Home,W,2.0,1.0,Brentford,P Bankes,26.0,8.0,11.0,7.0,0.0,1.0,2.0,0.0,2025,Chelsea,6
+2024-12-15,Sun,Premier League,Away,W,3.0,1.0,Brighton,M Oliver,13.0,5.0,15.0,11.0,4.0,0.0,1.0,0.0,2025,Crystal Palace,6
+2024-12-15,Sun,Premier League,Home,L,1.0,2.0,Man United,A Taylor,10.0,3.0,5.0,14.0,1.0,0.0,1.0,0.0,2025,Man City,6
+2024-12-15,Sun,Premier League,Away,W,2.0,1.0,Man City,A Taylor,10.0,3.0,14.0,5.0,1.0,0.0,1.0,0.0,2025,Man United,6
+2024-12-15,Sun,Premier League,Home,L,0.0,5.0,Tottenham,D England,9.0,3.0,8.0,15.0,1.0,0.0,3.0,0.0,2025,Southampton,6
+2024-12-15,Sun,Premier League,Away,W,5.0,0.0,Southampton,D England,18.0,9.0,15.0,8.0,3.0,0.0,1.0,0.0,2025,Tottenham,6
+2024-12-16,Mon,Premier League,Home,D,1.0,1.0,West Ham,C Kavanagh,29.0,9.0,6.0,11.0,0.0,0.0,2.0,0.0,2025,Bournemouth,0
+2024-12-16,Mon,Premier League,Away,D,1.0,1.0,Bournemouth,C Kavanagh,16.0,3.0,11.0,6.0,2.0,0.0,0.0,0.0,2025,West Ham,0
+2024-12-21,Sat,Premier League,Away,W,5.0,1.0,Crystal Palace,S Hooper,14.0,6.0,8.0,9.0,2.0,0.0,2.0,0.0,2025,Arsenal,5
+2024-12-21,Sat,Premier League,Home,W,2.0,1.0,Man City,P Bankes,11.0,6.0,14.0,7.0,3.0,0.0,3.0,0.0,2025,Aston Villa,5
+2024-12-21,Sat,Premier League,Home,L,0.0,2.0,Nott'm Forest,M Oliver,7.0,3.0,9.0,14.0,3.0,0.0,4.0,0.0,2025,Brentford,5
+2024-12-21,Sat,Premier League,Away,D,1.0,1.0,West Ham,R Jones,12.0,6.0,20.0,14.0,2.0,0.0,2.0,0.0,2025,Brighton,5
+2024-12-21,Sat,Premier League,Home,L,1.0,5.0,Arsenal,S Hooper,15.0,6.0,9.0,8.0,2.0,0.0,2.0,0.0,2025,Crystal Palace,5
+2024-12-21,Sat,Premier League,Home,L,0.0,4.0,Newcastle,S Attwell,10.0,2.0,9.0,7.0,2.0,0.0,0.0,0.0,2025,Ipswich,5
+2024-12-21,Sat,Premier League,Away,L,1.0,2.0,Aston Villa,P Bankes,12.0,6.0,7.0,14.0,3.0,0.0,3.0,0.0,2025,Man City,5
+2024-12-21,Sat,Premier League,Away,W,4.0,0.0,Ipswich,S Attwell,15.0,7.0,7.0,9.0,0.0,0.0,2.0,0.0,2025,Newcastle,5
+2024-12-21,Sat,Premier League,Away,W,2.0,0.0,Brentford,M Oliver,10.0,6.0,14.0,9.0,4.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2024-12-21,Sat,Premier League,Home,D,1.0,1.0,Brighton,R Jones,11.0,4.0,14.0,20.0,2.0,0.0,2.0,0.0,2025,West Ham,5
+2024-12-22,Sun,Premier League,Away,W,3.0,0.0,Man United,C Pawson,10.0,5.0,11.0,11.0,3.0,0.0,1.0,0.0,2025,Bournemouth,6
+2024-12-22,Sun,Premier League,Away,D,0.0,0.0,Everton,C Kavanagh,12.0,5.0,12.0,20.0,1.0,0.0,4.0,0.0,2025,Chelsea,6
+2024-12-22,Sun,Premier League,Home,D,0.0,0.0,Chelsea,C Kavanagh,5.0,4.0,20.0,12.0,4.0,0.0,1.0,0.0,2025,Everton,6
+2024-12-22,Sun,Premier League,Home,D,0.0,0.0,Southampton,T Robinson,16.0,5.0,8.0,15.0,1.0,0.0,3.0,0.0,2025,Fulham,6
+2024-12-22,Sun,Premier League,Home,L,0.0,3.0,Wolves,A Taylor,9.0,5.0,15.0,16.0,2.0,0.0,0.0,0.0,2025,Leicester,6
+2024-12-22,Sun,Premier League,Away,W,6.0,3.0,Tottenham,S Barrott,24.0,12.0,9.0,7.0,2.0,0.0,1.0,0.0,2025,Liverpool,6
+2024-12-22,Sun,Premier League,Home,L,0.0,3.0,Bournemouth,C Pawson,23.0,7.0,11.0,11.0,1.0,0.0,3.0,0.0,2025,Man United,6
+2024-12-22,Sun,Premier League,Away,D,0.0,0.0,Fulham,T Robinson,5.0,1.0,15.0,8.0,3.0,0.0,1.0,0.0,2025,Southampton,6
+2024-12-22,Sun,Premier League,Home,L,3.0,6.0,Liverpool,S Barrott,9.0,5.0,7.0,9.0,1.0,0.0,2.0,0.0,2025,Tottenham,6
+2024-12-22,Sun,Premier League,Away,W,3.0,0.0,Leicester,A Taylor,8.0,4.0,16.0,15.0,0.0,0.0,2.0,0.0,2025,Wolves,6
+2024-12-26,Thu,Premier League,Away,L,0.0,3.0,Newcastle,A Taylor,4.0,1.0,10.0,15.0,1.0,1.0,2.0,0.0,2025,Aston Villa,3
+2024-12-26,Thu,Premier League,Home,D,0.0,0.0,Crystal Palace,T Bramall,18.0,4.0,13.0,12.0,2.0,0.0,2.0,0.0,2025,Bournemouth,3
+2024-12-26,Thu,Premier League,Home,L,1.0,2.0,Fulham,S Barrott,12.0,8.0,13.0,13.0,1.0,0.0,3.0,0.0,2025,Chelsea,3
+2024-12-26,Thu,Premier League,Away,D,0.0,0.0,Bournemouth,T Bramall,10.0,4.0,12.0,13.0,2.0,0.0,2.0,0.0,2025,Crystal Palace,3
+2024-12-26,Thu,Premier League,Away,D,1.0,1.0,Man City,S Hooper,8.0,3.0,10.0,5.0,4.0,0.0,1.0,0.0,2025,Everton,3
+2024-12-26,Thu,Premier League,Away,W,2.0,1.0,Chelsea,S Barrott,14.0,7.0,13.0,13.0,3.0,0.0,1.0,0.0,2025,Fulham,3
+2024-12-26,Thu,Premier League,Away,L,1.0,3.0,Liverpool,D Bond,4.0,1.0,5.0,17.0,2.0,0.0,3.0,0.0,2025,Leicester,3
+2024-12-26,Thu,Premier League,Home,W,3.0,1.0,Leicester,D Bond,19.0,7.0,17.0,5.0,3.0,0.0,2.0,0.0,2025,Liverpool,3
+2024-12-26,Thu,Premier League,Home,D,1.0,1.0,Everton,S Hooper,24.0,5.0,5.0,10.0,1.0,0.0,4.0,0.0,2025,Man City,3
+2024-12-26,Thu,Premier League,Away,L,0.0,2.0,Wolves,T Harrington,11.0,4.0,12.0,12.0,2.0,1.0,2.0,0.0,2025,Man United,3
+2024-12-26,Thu,Premier League,Home,W,3.0,0.0,Aston Villa,A Taylor,22.0,8.0,15.0,10.0,2.0,0.0,1.0,1.0,2025,Newcastle,3
+2024-12-26,Thu,Premier League,Home,W,1.0,0.0,Tottenham,C Pawson,10.0,3.0,12.0,13.0,3.0,0.0,2.0,1.0,2025,Nott'm Forest,3
+2024-12-26,Thu,Premier League,Home,L,0.0,1.0,West Ham,L Smith,18.0,5.0,15.0,8.0,1.0,0.0,2.0,0.0,2025,Southampton,3
+2024-12-26,Thu,Premier League,Away,L,0.0,1.0,Nott'm Forest,C Pawson,13.0,4.0,13.0,12.0,2.0,1.0,3.0,0.0,2025,Tottenham,3
+2024-12-26,Thu,Premier League,Away,W,1.0,0.0,Southampton,L Smith,16.0,2.0,8.0,15.0,2.0,0.0,1.0,0.0,2025,West Ham,3
+2024-12-26,Thu,Premier League,Home,W,2.0,0.0,Man United,T Harrington,7.0,4.0,12.0,12.0,2.0,0.0,2.0,1.0,2025,Wolves,3
+2024-12-27,Fri,Premier League,Home,W,1.0,0.0,Ipswich,D England,13.0,5.0,7.0,12.0,1.0,0.0,1.0,0.0,2025,Arsenal,4
+2024-12-27,Fri,Premier League,Away,D,0.0,0.0,Brighton,A Madley,8.0,3.0,12.0,6.0,2.0,0.0,0.0,0.0,2025,Brentford,4
+2024-12-27,Fri,Premier League,Home,D,0.0,0.0,Brentford,A Madley,24.0,7.0,6.0,12.0,0.0,0.0,2.0,0.0,2025,Brighton,4
+2024-12-27,Fri,Premier League,Away,L,0.0,1.0,Arsenal,D England,3.0,0.0,12.0,7.0,1.0,0.0,1.0,0.0,2025,Ipswich,4
+2024-12-29,Sun,Premier League,Away,D,2.0,2.0,Fulham,R Jones,16.0,9.0,16.0,7.0,3.0,0.0,1.0,0.0,2025,Bournemouth,6
+2024-12-29,Sun,Premier League,Home,W,2.0,1.0,Southampton,M Salisbury,19.0,10.0,18.0,19.0,2.0,0.0,3.0,0.0,2025,Crystal Palace,6
+2024-12-29,Sun,Premier League,Home,L,0.0,2.0,Nott'm Forest,T Harrington,13.0,2.0,13.0,10.0,4.0,0.0,1.0,0.0,2025,Everton,6
+2024-12-29,Sun,Premier League,Home,D,2.0,2.0,Bournemouth,R Jones,11.0,6.0,7.0,16.0,1.0,0.0,3.0,0.0,2025,Fulham,6
+2024-12-29,Sun,Premier League,Home,L,0.0,2.0,Man City,M Oliver,11.0,4.0,11.0,6.0,2.0,0.0,1.0,0.0,2025,Leicester,6
+2024-12-29,Sun,Premier League,Away,W,5.0,0.0,West Ham,A Taylor,22.0,13.0,10.0,7.0,0.0,0.0,0.0,0.0,2025,Liverpool,6
+2024-12-29,Sun,Premier League,Away,W,2.0,0.0,Leicester,M Oliver,14.0,5.0,6.0,11.0,1.0,0.0,2.0,0.0,2025,Man City,6
+2024-12-29,Sun,Premier League,Away,W,2.0,0.0,Everton,T Harrington,11.0,7.0,10.0,13.0,1.0,0.0,4.0,0.0,2025,Nott'm Forest,6
+2024-12-29,Sun,Premier League,Away,L,1.0,2.0,Crystal Palace,M Salisbury,7.0,3.0,19.0,18.0,3.0,0.0,2.0,0.0,2025,Southampton,6
+2024-12-29,Sun,Premier League,Home,D,2.0,2.0,Wolves,C Kavanagh,13.0,3.0,9.0,10.0,1.0,0.0,2.0,0.0,2025,Tottenham,6
+2024-12-29,Sun,Premier League,Home,L,0.0,5.0,Liverpool,A Taylor,7.0,0.0,7.0,10.0,0.0,0.0,0.0,0.0,2025,West Ham,6
+2024-12-29,Sun,Premier League,Away,D,2.0,2.0,Tottenham,C Kavanagh,11.0,3.0,10.0,9.0,2.0,0.0,1.0,0.0,2025,Wolves,6
+2024-12-30,Mon,Premier League,Home,D,2.0,2.0,Brighton,C Pawson,20.0,4.0,9.0,14.0,2.0,0.0,3.0,0.0,2025,Aston Villa,0
+2024-12-30,Mon,Premier League,Away,D,2.0,2.0,Aston Villa,C Pawson,13.0,4.0,14.0,9.0,3.0,0.0,2.0,0.0,2025,Brighton,0
+2024-12-30,Mon,Premier League,Away,L,0.0,2.0,Ipswich,J Brooks,20.0,5.0,5.0,9.0,4.0,0.0,4.0,0.0,2025,Chelsea,0
+2024-12-30,Mon,Premier League,Home,W,2.0,0.0,Chelsea,J Brooks,9.0,6.0,9.0,5.0,4.0,0.0,4.0,0.0,2025,Ipswich,0
+2024-12-30,Mon,Premier League,Home,L,0.0,2.0,Newcastle,S Hooper,10.0,0.0,13.0,8.0,1.0,0.0,1.0,0.0,2025,Man United,0
+2024-12-30,Mon,Premier League,Away,W,2.0,0.0,Man United,S Hooper,12.0,4.0,8.0,13.0,1.0,0.0,1.0,0.0,2025,Newcastle,0
+2025-01-01,Wed,Premier League,Away,W,3.0,1.0,Brentford,P Bankes,14.0,5.0,8.0,6.0,2.0,0.0,1.0,0.0,2025,Arsenal,2
+2025-01-01,Wed,Premier League,Home,L,1.0,3.0,Arsenal,P Bankes,5.0,2.0,6.0,8.0,1.0,0.0,2.0,0.0,2025,Brentford,2
+2025-01-04,Sat,Premier League,Away,D,1.0,1.0,Brighton,A Taylor,9.0,3.0,14.0,17.0,3.0,0.0,2.0,0.0,2025,Arsenal,5
+2025-01-04,Sat,Premier League,Home,W,2.0,1.0,Leicester,J Gillett,13.0,5.0,10.0,11.0,0.0,0.0,1.0,0.0,2025,Aston Villa,5
+2025-01-04,Sat,Premier League,Home,W,1.0,0.0,Everton,J Brooks,19.0,8.0,15.0,14.0,2.0,0.0,2.0,0.0,2025,Bournemouth,5
+2025-01-04,Sat,Premier League,Away,W,5.0,0.0,Southampton,S Attwell,20.0,11.0,4.0,10.0,0.0,0.0,2.0,0.0,2025,Brentford,5
+2025-01-04,Sat,Premier League,Home,D,1.0,1.0,Arsenal,A Taylor,11.0,4.0,17.0,14.0,2.0,0.0,3.0,0.0,2025,Brighton,5
+2025-01-04,Sat,Premier League,Away,D,1.0,1.0,Crystal Palace,T Robinson,15.0,1.0,12.0,9.0,2.0,0.0,0.0,0.0,2025,Chelsea,5
+2025-01-04,Sat,Premier League,Home,D,1.0,1.0,Chelsea,T Robinson,13.0,6.0,9.0,12.0,0.0,0.0,2.0,0.0,2025,Crystal Palace,5
+2025-01-04,Sat,Premier League,Away,L,0.0,1.0,Bournemouth,J Brooks,9.0,0.0,14.0,15.0,2.0,0.0,2.0,0.0,2025,Everton,5
+2025-01-04,Sat,Premier League,Away,L,1.0,2.0,Aston Villa,J Gillett,4.0,2.0,11.0,10.0,1.0,0.0,0.0,0.0,2025,Leicester,5
+2025-01-04,Sat,Premier League,Home,W,4.0,1.0,West Ham,M Salisbury,10.0,7.0,8.0,13.0,2.0,0.0,1.0,0.0,2025,Man City,5
+2025-01-04,Sat,Premier League,Away,W,2.0,1.0,Tottenham,A Madley,14.0,4.0,15.0,11.0,4.0,0.0,1.0,0.0,2025,Newcastle,5
+2025-01-04,Sat,Premier League,Home,L,0.0,5.0,Brentford,S Attwell,8.0,1.0,10.0,4.0,2.0,0.0,0.0,0.0,2025,Southampton,5
+2025-01-04,Sat,Premier League,Home,L,1.0,2.0,Newcastle,A Madley,13.0,4.0,11.0,15.0,1.0,0.0,4.0,0.0,2025,Tottenham,5
+2025-01-04,Sat,Premier League,Away,L,1.0,4.0,Man City,M Salisbury,17.0,4.0,13.0,8.0,1.0,0.0,2.0,0.0,2025,West Ham,5
+2025-01-05,Sun,Premier League,Home,D,2.0,2.0,Ipswich,D Bond,15.0,4.0,10.0,14.0,1.0,0.0,5.0,0.0,2025,Fulham,6
+2025-01-05,Sun,Premier League,Away,D,2.0,2.0,Fulham,D Bond,7.0,3.0,14.0,10.0,5.0,0.0,1.0,0.0,2025,Ipswich,6
+2025-01-05,Sun,Premier League,Home,D,2.0,2.0,Man United,M Oliver,19.0,6.0,10.0,13.0,2.0,0.0,4.0,0.0,2025,Liverpool,6
+2025-01-05,Sun,Premier League,Away,D,2.0,2.0,Liverpool,M Oliver,13.0,4.0,13.0,10.0,4.0,0.0,2.0,0.0,2025,Man United,6
+2025-01-06,Mon,Premier League,Away,W,3.0,0.0,Wolves,P Bankes,11.0,3.0,8.0,10.0,2.0,0.0,1.0,0.0,2025,Nott'm Forest,0
+2025-01-06,Mon,Premier League,Home,L,0.0,3.0,Nott'm Forest,P Bankes,13.0,6.0,10.0,8.0,1.0,0.0,2.0,0.0,2025,Wolves,0
+2025-01-14,Tue,Premier League,Away,D,2.0,2.0,Chelsea,R Jones,7.0,3.0,16.0,15.0,3.0,0.0,2.0,0.0,2025,Bournemouth,1
+2025-01-14,Tue,Premier League,Home,D,2.0,2.0,Man City,A Taylor,18.0,6.0,4.0,4.0,0.0,0.0,0.0,0.0,2025,Brentford,1
+2025-01-14,Tue,Premier League,Home,D,2.0,2.0,Bournemouth,R Jones,26.0,10.0,15.0,16.0,2.0,0.0,3.0,0.0,2025,Chelsea,1
+2025-01-14,Tue,Premier League,Away,L,2.0,3.0,West Ham,C Pawson,21.0,5.0,18.0,9.0,3.0,0.0,3.0,0.0,2025,Fulham,1
+2025-01-14,Tue,Premier League,Away,D,1.0,1.0,Nott'm Forest,C Kavanagh,23.0,7.0,10.0,7.0,1.0,0.0,2.0,0.0,2025,Liverpool,1
+2025-01-14,Tue,Premier League,Away,D,2.0,2.0,Brentford,A Taylor,21.0,8.0,4.0,4.0,0.0,0.0,0.0,0.0,2025,Man City,1
+2025-01-14,Tue,Premier League,Home,D,1.0,1.0,Liverpool,C Kavanagh,6.0,3.0,7.0,10.0,2.0,0.0,1.0,0.0,2025,Nott'm Forest,1
+2025-01-14,Tue,Premier League,Home,W,3.0,2.0,Fulham,C Pawson,4.0,3.0,9.0,18.0,3.0,0.0,3.0,0.0,2025,West Ham,1
+2025-01-15,Wed,Premier League,Home,W,2.0,1.0,Tottenham,S Hooper,14.0,4.0,16.0,9.0,3.0,0.0,1.0,0.0,2025,Arsenal,2
+2025-01-15,Wed,Premier League,Away,W,1.0,0.0,Everton,S Barrott,11.0,3.0,10.0,17.0,1.0,0.0,2.0,0.0,2025,Aston Villa,2
+2025-01-15,Wed,Premier League,Away,W,2.0,0.0,Leicester,A Madley,9.0,4.0,6.0,7.0,0.0,0.0,0.0,0.0,2025,Crystal Palace,2
+2025-01-15,Wed,Premier League,Home,L,0.0,1.0,Aston Villa,S Barrott,10.0,3.0,17.0,10.0,2.0,0.0,1.0,0.0,2025,Everton,2
+2025-01-15,Wed,Premier League,Home,L,0.0,2.0,Crystal Palace,A Madley,21.0,4.0,7.0,6.0,0.0,0.0,0.0,0.0,2025,Leicester,2
+2025-01-15,Wed,Premier League,Home,W,3.0,0.0,Wolves,D England,17.0,5.0,10.0,13.0,0.0,0.0,2.0,0.0,2025,Newcastle,2
+2025-01-15,Wed,Premier League,Away,L,1.0,2.0,Arsenal,S Hooper,10.0,2.0,9.0,16.0,1.0,0.0,3.0,0.0,2025,Tottenham,2
+2025-01-15,Wed,Premier League,Away,L,0.0,3.0,Newcastle,D England,13.0,7.0,13.0,10.0,2.0,0.0,0.0,0.0,2025,Wolves,2
+2025-01-16,Thu,Premier League,Away,W,2.0,0.0,Ipswich,T Harrington,11.0,5.0,14.0,13.0,2.0,0.0,2.0,0.0,2025,Brighton,3
+2025-01-16,Thu,Premier League,Home,L,0.0,2.0,Brighton,T Harrington,5.0,3.0,13.0,14.0,2.0,0.0,2.0,0.0,2025,Ipswich,3
+2025-01-16,Thu,Premier League,Home,W,3.0,1.0,Southampton,J Brooks,23.0,9.0,7.0,10.0,1.0,0.0,3.0,0.0,2025,Man United,3
+2025-01-16,Thu,Premier League,Away,L,1.0,3.0,Man United,J Brooks,13.0,5.0,10.0,7.0,3.0,0.0,1.0,0.0,2025,Southampton,3
+2025-01-18,Sat,Premier League,Home,D,2.0,2.0,Aston Villa,C Kavanagh,18.0,6.0,10.0,18.0,2.0,0.0,3.0,0.0,2025,Arsenal,5
+2025-01-18,Sat,Premier League,Away,D,2.0,2.0,Arsenal,C Kavanagh,8.0,4.0,18.0,10.0,3.0,0.0,2.0,0.0,2025,Aston Villa,5
+2025-01-18,Sat,Premier League,Away,W,4.0,1.0,Newcastle,S Attwell,19.0,10.0,18.0,7.0,6.0,0.0,1.0,0.0,2025,Bournemouth,5
+2025-01-18,Sat,Premier League,Home,L,0.0,2.0,Liverpool,A Madley,11.0,6.0,6.0,14.0,2.0,0.0,3.0,0.0,2025,Brentford,5
+2025-01-18,Sat,Premier League,Away,W,2.0,0.0,West Ham,T Bramall,12.0,7.0,10.0,13.0,0.0,0.0,1.0,1.0,2025,Crystal Palace,5
+2025-01-18,Sat,Premier League,Away,W,2.0,0.0,Leicester,M Salisbury,17.0,2.0,8.0,8.0,1.0,0.0,3.0,0.0,2025,Fulham,5
+2025-01-18,Sat,Premier League,Home,L,0.0,2.0,Fulham,M Salisbury,8.0,4.0,8.0,8.0,3.0,0.0,1.0,0.0,2025,Leicester,5
+2025-01-18,Sat,Premier League,Away,W,2.0,0.0,Brentford,A Madley,37.0,8.0,14.0,6.0,3.0,0.0,2.0,0.0,2025,Liverpool,5
+2025-01-18,Sat,Premier League,Home,L,1.0,4.0,Bournemouth,S Attwell,13.0,5.0,7.0,18.0,1.0,0.0,6.0,0.0,2025,Newcastle,5
+2025-01-18,Sat,Premier League,Home,L,0.0,2.0,Crystal Palace,T Bramall,7.0,0.0,13.0,10.0,1.0,1.0,0.0,0.0,2025,West Ham,5
+2025-01-19,Sun,Premier League,Away,W,3.0,1.0,Man United,P Bankes,6.0,3.0,12.0,13.0,3.0,0.0,3.0,0.0,2025,Brighton,6
+2025-01-19,Sun,Premier League,Home,W,3.0,2.0,Tottenham,D England,12.0,6.0,14.0,14.0,2.0,0.0,1.0,0.0,2025,Everton,6
+2025-01-19,Sun,Premier League,Home,L,0.0,6.0,Man City,S Barrott,8.0,4.0,4.0,7.0,0.0,0.0,1.0,0.0,2025,Ipswich,6
+2025-01-19,Sun,Premier League,Away,W,6.0,0.0,Ipswich,S Barrott,17.0,9.0,7.0,4.0,1.0,0.0,0.0,0.0,2025,Man City,6
+2025-01-19,Sun,Premier League,Home,L,1.0,3.0,Brighton,P Bankes,10.0,1.0,13.0,12.0,3.0,0.0,3.0,0.0,2025,Man United,6
+2025-01-19,Sun,Premier League,Home,W,3.0,2.0,Southampton,A Taylor,14.0,5.0,4.0,18.0,0.0,0.0,4.0,0.0,2025,Nott'm Forest,6
+2025-01-19,Sun,Premier League,Away,L,2.0,3.0,Nott'm Forest,A Taylor,10.0,4.0,18.0,4.0,4.0,0.0,0.0,0.0,2025,Southampton,6
+2025-01-19,Sun,Premier League,Away,L,2.0,3.0,Everton,D England,11.0,6.0,14.0,14.0,1.0,0.0,2.0,0.0,2025,Tottenham,6
+2025-01-20,Mon,Premier League,Home,W,3.0,1.0,Wolves,S Hooper,19.0,7.0,8.0,14.0,4.0,0.0,2.0,0.0,2025,Chelsea,0
+2025-01-20,Mon,Premier League,Away,L,1.0,3.0,Chelsea,S Hooper,9.0,4.0,14.0,8.0,2.0,0.0,4.0,0.0,2025,Wolves,0
+2025-01-25,Sat,Premier League,Away,W,1.0,0.0,Wolves,M Oliver,9.0,3.0,10.0,20.0,1.0,1.0,0.0,1.0,2025,Arsenal,5
+2025-01-25,Sat,Premier League,Home,W,5.0,0.0,Nott'm Forest,C Pawson,16.0,10.0,9.0,12.0,2.0,0.0,3.0,0.0,2025,Bournemouth,5
+2025-01-25,Sat,Premier League,Home,L,0.0,1.0,Everton,T Robinson,16.0,1.0,8.0,11.0,3.0,0.0,4.0,0.0,2025,Brighton,5
+2025-01-25,Sat,Premier League,Away,L,1.0,3.0,Man City,J Brooks,10.0,4.0,8.0,6.0,2.0,0.0,3.0,0.0,2025,Chelsea,5
+2025-01-25,Sat,Premier League,Away,W,1.0,0.0,Brighton,T Robinson,3.0,1.0,11.0,8.0,4.0,0.0,3.0,0.0,2025,Everton,5
+2025-01-25,Sat,Premier League,Away,L,1.0,4.0,Liverpool,M Salisbury,3.0,3.0,11.0,10.0,2.0,0.0,0.0,0.0,2025,Ipswich,5
+2025-01-25,Sat,Premier League,Home,W,4.0,1.0,Ipswich,M Salisbury,16.0,6.0,10.0,11.0,0.0,0.0,2.0,0.0,2025,Liverpool,5
+2025-01-25,Sat,Premier League,Home,W,3.0,1.0,Chelsea,J Brooks,15.0,6.0,6.0,8.0,3.0,0.0,2.0,0.0,2025,Man City,5
+2025-01-25,Sat,Premier League,Away,W,3.0,1.0,Southampton,S Barrott,17.0,9.0,5.0,10.0,0.0,0.0,1.0,0.0,2025,Newcastle,5
+2025-01-25,Sat,Premier League,Away,L,0.0,5.0,Bournemouth,C Pawson,18.0,4.0,12.0,9.0,3.0,0.0,2.0,0.0,2025,Nott'm Forest,5
+2025-01-25,Sat,Premier League,Home,L,1.0,3.0,Newcastle,S Barrott,12.0,5.0,10.0,5.0,1.0,0.0,0.0,0.0,2025,Southampton,5
+2025-01-25,Sat,Premier League,Home,L,0.0,1.0,Arsenal,M Oliver,9.0,4.0,20.0,10.0,0.0,1.0,1.0,1.0,2025,Wolves,5
+2025-01-26,Sun,Premier League,Home,D,1.0,1.0,West Ham,P Bankes,14.0,4.0,13.0,16.0,2.0,0.0,3.0,0.0,2025,Aston Villa,6
+2025-01-26,Sun,Premier League,Away,W,2.0,1.0,Crystal Palace,T Harrington,13.0,6.0,11.0,8.0,2.0,0.0,2.0,0.0,2025,Brentford,6
+2025-01-26,Sun,Premier League,Home,L,1.0,2.0,Brentford,T Harrington,16.0,5.0,8.0,11.0,2.0,0.0,2.0,0.0,2025,Crystal Palace,6
+2025-01-26,Sun,Premier League,Home,L,0.0,1.0,Man United,A Taylor,9.0,3.0,7.0,9.0,0.0,0.0,1.0,0.0,2025,Fulham,6
+2025-01-26,Sun,Premier League,Away,W,2.0,1.0,Tottenham,R Jones,12.0,3.0,16.0,6.0,5.0,0.0,1.0,0.0,2025,Leicester,6
+2025-01-26,Sun,Premier League,Away,W,1.0,0.0,Fulham,A Taylor,4.0,1.0,9.0,7.0,1.0,0.0,0.0,0.0,2025,Man United,6
+2025-01-26,Sun,Premier League,Home,L,1.0,2.0,Leicester,R Jones,15.0,6.0,6.0,16.0,1.0,0.0,5.0,0.0,2025,Tottenham,6
+2025-01-26,Sun,Premier League,Away,D,1.0,1.0,Aston Villa,P Bankes,14.0,4.0,16.0,13.0,3.0,0.0,2.0,0.0,2025,West Ham,6
+2025-02-01,Sat,Premier League,Away,L,0.0,2.0,Wolves,A Madley,10.0,3.0,13.0,20.0,3.0,0.0,2.0,0.0,2025,Aston Villa,5
+2025-02-01,Sat,Premier League,Home,L,0.0,2.0,Liverpool,D England,14.0,3.0,15.0,9.0,2.0,0.0,3.0,0.0,2025,Bournemouth,5
+2025-02-01,Sat,Premier League,Away,L,0.0,7.0,Nott'm Forest,S Hooper,10.0,5.0,13.0,8.0,3.0,0.0,1.0,0.0,2025,Brighton,5
+2025-02-01,Sat,Premier League,Home,W,4.0,0.0,Leicester,D Bond,13.0,7.0,7.0,13.0,0.0,0.0,0.0,0.0,2025,Everton,5
+2025-02-01,Sat,Premier League,Away,W,2.0,1.0,Newcastle,C Kavanagh,15.0,4.0,15.0,10.0,4.0,0.0,4.0,0.0,2025,Fulham,5
+2025-02-01,Sat,Premier League,Home,L,1.0,2.0,Southampton,M Oliver,15.0,6.0,11.0,14.0,0.0,0.0,3.0,0.0,2025,Ipswich,5
+2025-02-01,Sat,Premier League,Away,L,0.0,4.0,Everton,D Bond,9.0,1.0,13.0,7.0,0.0,0.0,0.0,0.0,2025,Leicester,5
+2025-02-01,Sat,Premier League,Away,W,2.0,0.0,Bournemouth,D England,19.0,7.0,9.0,15.0,3.0,0.0,2.0,0.0,2025,Liverpool,5
+2025-02-01,Sat,Premier League,Home,L,1.0,2.0,Fulham,C Kavanagh,11.0,4.0,10.0,15.0,4.0,0.0,4.0,0.0,2025,Newcastle,5
+2025-02-01,Sat,Premier League,Home,W,7.0,0.0,Brighton,S Hooper,14.0,9.0,8.0,13.0,1.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2025-02-01,Sat,Premier League,Away,W,2.0,1.0,Ipswich,M Oliver,9.0,4.0,14.0,11.0,3.0,0.0,0.0,0.0,2025,Southampton,5
+2025-02-01,Sat,Premier League,Home,W,2.0,0.0,Aston Villa,A Madley,8.0,5.0,20.0,13.0,2.0,0.0,3.0,0.0,2025,Wolves,5
+2025-02-02,Sun,Premier League,Home,W,5.0,1.0,Man City,P Bankes,12.0,7.0,6.0,7.0,2.0,0.0,0.0,0.0,2025,Arsenal,6
+2025-02-02,Sun,Premier League,Home,L,0.0,2.0,Tottenham,J Gillett,20.0,4.0,4.0,11.0,0.0,0.0,1.0,0.0,2025,Brentford,6
+2025-02-02,Sun,Premier League,Away,W,2.0,0.0,Man United,J Brooks,11.0,3.0,13.0,12.0,1.0,0.0,3.0,0.0,2025,Crystal Palace,6
+2025-02-02,Sun,Premier League,Away,L,1.0,5.0,Arsenal,P Bankes,7.0,4.0,7.0,6.0,0.0,0.0,2.0,0.0,2025,Man City,6
+2025-02-02,Sun,Premier League,Home,L,0.0,2.0,Crystal Palace,J Brooks,17.0,2.0,12.0,13.0,3.0,0.0,1.0,0.0,2025,Man United,6
+2025-02-02,Sun,Premier League,Away,W,2.0,0.0,Brentford,J Gillett,13.0,2.0,11.0,4.0,1.0,0.0,0.0,0.0,2025,Tottenham,6
+2025-02-03,Mon,Premier League,Home,W,2.0,1.0,West Ham,S Attwell,22.0,3.0,11.0,10.0,3.0,0.0,1.0,0.0,2025,Chelsea,0
+2025-02-03,Mon,Premier League,Away,L,1.0,2.0,Chelsea,S Attwell,14.0,5.0,10.0,11.0,1.0,0.0,3.0,0.0,2025,West Ham,0
+2025-02-12,Wed,Premier League,Home,D,2.0,2.0,Liverpool,M Oliver,10.0,3.0,9.0,20.0,2.0,1.0,2.0,1.0,2025,Everton,2
+2025-02-12,Wed,Premier League,Away,D,2.0,2.0,Everton,M Oliver,6.0,4.0,20.0,9.0,2.0,1.0,2.0,1.0,2025,Liverpool,2
+2025-02-14,Fri,Premier League,Home,W,3.0,0.0,Chelsea,K Kavanagh,13.0,5.0,12.0,15.0,1.0,0.0,2.0,0.0,2025,Brighton,4
+2025-02-14,Fri,Premier League,Away,L,0.0,3.0,Brighton,K Kavanagh,8.0,0.0,15.0,12.0,2.0,0.0,1.0,0.0,2025,Chelsea,4
+2025-02-15,Sat,Premier League,Away,W,2.0,0.0,Leicester,S Barrott,11.0,5.0,10.0,9.0,1.0,0.0,2.0,0.0,2025,Arsenal,5
+2025-02-15,Sat,Premier League,Home,D,1.0,1.0,Ipswich,R Jones,25.0,6.0,7.0,11.0,0.0,0.0,3.0,1.0,2025,Aston Villa,5
+2025-02-15,Sat,Premier League,Away,W,3.0,1.0,Southampton,J Gillett,14.0,7.0,15.0,13.0,3.0,0.0,1.0,0.0,2025,Bournemouth,5
+2025-02-15,Sat,Premier League,Away,W,1.0,0.0,West Ham,D England,14.0,5.0,13.0,10.0,1.0,0.0,1.0,0.0,2025,Brentford,5
+2025-02-15,Sat,Premier League,Home,L,1.0,2.0,Everton,A Taylor,17.0,6.0,9.0,12.0,0.0,0.0,1.0,0.0,2025,Crystal Palace,5
+2025-02-15,Sat,Premier League,Away,W,2.0,1.0,Crystal Palace,A Taylor,11.0,6.0,12.0,9.0,1.0,0.0,0.0,0.0,2025,Everton,5
+2025-02-15,Sat,Premier League,Home,W,2.0,1.0,Nott'm Forest,T Bramall,24.0,10.0,13.0,8.0,0.0,0.0,0.0,0.0,2025,Fulham,5
+2025-02-15,Sat,Premier League,Away,D,1.0,1.0,Aston Villa,R Jones,4.0,3.0,11.0,7.0,3.0,1.0,0.0,0.0,2025,Ipswich,5
+2025-02-15,Sat,Premier League,Home,L,0.0,2.0,Arsenal,S Barrott,6.0,2.0,9.0,10.0,2.0,0.0,1.0,0.0,2025,Leicester,5
+2025-02-15,Sat,Premier League,Home,W,4.0,0.0,Newcastle,A Madley,11.0,7.0,5.0,13.0,0.0,0.0,1.0,0.0,2025,Man City,5
+2025-02-15,Sat,Premier League,Away,L,0.0,4.0,Man City,A Madley,3.0,1.0,13.0,5.0,1.0,0.0,0.0,0.0,2025,Newcastle,5
+2025-02-15,Sat,Premier League,Away,L,1.0,2.0,Fulham,T Bramall,8.0,2.0,8.0,13.0,0.0,0.0,0.0,0.0,2025,Nott'm Forest,5
+2025-02-15,Sat,Premier League,Home,L,1.0,3.0,Bournemouth,J Gillett,11.0,4.0,13.0,15.0,1.0,0.0,3.0,0.0,2025,Southampton,5
+2025-02-15,Sat,Premier League,Home,L,0.0,1.0,Brentford,D England,13.0,3.0,10.0,13.0,1.0,0.0,1.0,0.0,2025,West Ham,5
+2025-02-16,Sun,Premier League,Home,W,2.0,1.0,Wolves,S Hooper,10.0,3.0,15.0,13.0,2.0,0.0,2.0,0.0,2025,Liverpool,6
+2025-02-16,Sun,Premier League,Away,L,0.0,1.0,Tottenham,P Bankes,16.0,6.0,9.0,13.0,2.0,0.0,1.0,0.0,2025,Man United,6
+2025-02-16,Sun,Premier League,Home,W,1.0,0.0,Man United,P Bankes,22.0,7.0,13.0,9.0,1.0,0.0,2.0,0.0,2025,Tottenham,6
+2025-02-16,Sun,Premier League,Away,L,1.0,2.0,Liverpool,S Hooper,16.0,4.0,13.0,15.0,2.0,0.0,2.0,0.0,2025,Wolves,6
+2025-02-19,Wed,Premier League,Home,D,2.0,2.0,Liverpool,C Pawson,9.0,4.0,8.0,6.0,1.0,0.0,0.0,0.0,2025,Aston Villa,2
+2025-02-19,Wed,Premier League,Away,D,2.0,2.0,Aston Villa,C Pawson,17.0,3.0,6.0,8.0,0.0,0.0,1.0,0.0,2025,Liverpool,2
+2025-02-21,Fri,Premier League,Away,W,4.0,0.0,Leicester,T Harrington,14.0,6.0,10.0,10.0,0.0,0.0,4.0,0.0,2025,Brentford,4
+2025-02-21,Fri,Premier League,Home,L,0.0,4.0,Brentford,T Harrington,8.0,3.0,10.0,10.0,4.0,0.0,0.0,0.0,2025,Leicester,4
+2025-02-22,Sat,Premier League,Home,L,0.0,1.0,West Ham,C Pawson,20.0,2.0,16.0,15.0,1.0,1.0,3.0,0.0,2025,Arsenal,5
+2025-02-22,Sat,Premier League,Home,W,2.0,1.0,Chelsea,M Oliver,12.0,6.0,15.0,16.0,1.0,0.0,3.0,0.0,2025,Aston Villa,5
+2025-02-22,Sat,Premier League,Home,L,0.0,1.0,Wolves,M Salisbury,8.0,3.0,17.0,9.0,3.0,1.0,3.0,0.0,2025,Bournemouth,5
+2025-02-22,Sat,Premier League,Away,W,4.0,0.0,Southampton,D Bond,18.0,12.0,12.0,11.0,0.0,0.0,2.0,0.0,2025,Brighton,5
+2025-02-22,Sat,Premier League,Away,L,1.0,2.0,Aston Villa,M Oliver,15.0,7.0,16.0,15.0,3.0,0.0,1.0,0.0,2025,Chelsea,5
+2025-02-22,Sat,Premier League,Away,W,2.0,0.0,Fulham,R Jones,10.0,5.0,7.0,10.0,3.0,0.0,1.0,0.0,2025,Crystal Palace,5
+2025-02-22,Sat,Premier League,Home,D,2.0,2.0,Man United,A Madley,9.0,8.0,12.0,9.0,4.0,0.0,1.0,0.0,2025,Everton,5
+2025-02-22,Sat,Premier League,Home,L,0.0,2.0,Crystal Palace,R Jones,10.0,0.0,10.0,7.0,1.0,0.0,3.0,0.0,2025,Fulham,5
+2025-02-22,Sat,Premier League,Home,L,1.0,4.0,Tottenham,T Robinson,17.0,5.0,15.0,14.0,2.0,0.0,1.0,0.0,2025,Ipswich,5
+2025-02-22,Sat,Premier League,Away,D,2.0,2.0,Everton,A Madley,9.0,3.0,9.0,12.0,1.0,0.0,4.0,0.0,2025,Man United,5
+2025-02-22,Sat,Premier League,Home,L,0.0,4.0,Brighton,D Bond,6.0,1.0,11.0,12.0,2.0,0.0,0.0,0.0,2025,Southampton,5
+2025-02-22,Sat,Premier League,Away,W,4.0,1.0,Ipswich,T Robinson,10.0,6.0,14.0,15.0,1.0,0.0,2.0,0.0,2025,Tottenham,5
+2025-02-22,Sat,Premier League,Away,W,1.0,0.0,Arsenal,C Pawson,5.0,2.0,15.0,16.0,3.0,0.0,1.0,1.0,2025,West Ham,5
+2025-02-22,Sat,Premier League,Away,W,1.0,0.0,Bournemouth,M Salisbury,13.0,5.0,9.0,17.0,3.0,0.0,3.0,1.0,2025,Wolves,5
+2025-02-23,Sun,Premier League,Away,W,2.0,0.0,Man City,A Taylor,8.0,4.0,10.0,3.0,0.0,0.0,0.0,0.0,2025,Liverpool,6
+2025-02-23,Sun,Premier League,Home,L,0.0,2.0,Liverpool,A Taylor,16.0,5.0,3.0,10.0,0.0,0.0,0.0,0.0,2025,Man City,6
+2025-02-23,Sun,Premier League,Home,W,4.0,3.0,Nott'm Forest,J Gillett,13.0,5.0,11.0,13.0,1.0,0.0,4.0,0.0,2025,Newcastle,6
+2025-02-23,Sun,Premier League,Away,L,3.0,4.0,Newcastle,J Gillett,17.0,5.0,13.0,11.0,4.0,0.0,1.0,0.0,2025,Nott'm Forest,6
+2025-02-25,Tue,Premier League,Away,L,1.0,4.0,Crystal Palace,S Barrott,6.0,2.0,10.0,19.0,1.0,0.0,3.0,0.0,2025,Aston Villa,1
+2025-02-25,Tue,Premier League,Away,L,1.0,2.0,Brighton,M Oliver,19.0,5.0,14.0,12.0,1.0,0.0,2.0,0.0,2025,Bournemouth,1
+2025-02-25,Tue,Premier League,Home,W,2.0,1.0,Bournemouth,M Oliver,11.0,4.0,12.0,14.0,2.0,0.0,1.0,0.0,2025,Brighton,1
+2025-02-25,Tue,Premier League,Home,W,4.0,0.0,Southampton,T Bramall,19.0,10.0,6.0,9.0,1.0,0.0,2.0,0.0,2025,Chelsea,1
+2025-02-25,Tue,Premier League,Home,W,4.0,1.0,Aston Villa,S Barrott,19.0,6.0,19.0,10.0,3.0,0.0,1.0,0.0,2025,Crystal Palace,1
+2025-02-25,Tue,Premier League,Away,W,2.0,1.0,Wolves,P Bankes,11.0,5.0,15.0,8.0,3.0,0.0,1.0,0.0,2025,Fulham,1
+2025-02-25,Tue,Premier League,Away,L,0.0,4.0,Chelsea,T Bramall,7.0,2.0,9.0,6.0,2.0,0.0,1.0,0.0,2025,Southampton,1
+2025-02-25,Tue,Premier League,Home,L,1.0,2.0,Fulham,P Bankes,18.0,5.0,8.0,15.0,1.0,0.0,3.0,0.0,2025,Wolves,1
+2025-02-26,Wed,Premier League,Away,D,0.0,0.0,Nott'm Forest,A Madley,13.0,1.0,17.0,10.0,1.0,0.0,1.0,0.0,2025,Arsenal,2
+2025-02-26,Wed,Premier League,Home,D,1.0,1.0,Everton,S Hooper,12.0,3.0,3.0,6.0,2.0,0.0,1.0,0.0,2025,Brentford,2
+2025-02-26,Wed,Premier League,Away,D,1.0,1.0,Brentford,S Hooper,14.0,4.0,6.0,3.0,1.0,0.0,2.0,0.0,2025,Everton,2
+2025-02-26,Wed,Premier League,Away,L,2.0,3.0,Man United,D England,12.0,3.0,16.0,9.0,4.0,0.0,4.0,1.0,2025,Ipswich,2
+2025-02-26,Wed,Premier League,Home,W,2.0,0.0,Newcastle,C Kavanagh,12.0,3.0,12.0,11.0,0.0,0.0,1.0,0.0,2025,Liverpool,2
+2025-02-26,Wed,Premier League,Away,W,1.0,0.0,Tottenham,J Gillett,12.0,5.0,15.0,12.0,0.0,0.0,3.0,0.0,2025,Man City,2
+2025-02-26,Wed,Premier League,Home,W,3.0,2.0,Ipswich,D England,10.0,6.0,9.0,16.0,4.0,1.0,4.0,0.0,2025,Man United,2
+2025-02-26,Wed,Premier League,Away,L,0.0,2.0,Liverpool,C Kavanagh,3.0,0.0,11.0,12.0,1.0,0.0,0.0,0.0,2025,Newcastle,2
+2025-02-26,Wed,Premier League,Home,D,0.0,0.0,Arsenal,A Madley,6.0,2.0,10.0,17.0,1.0,0.0,1.0,0.0,2025,Nott'm Forest,2
+2025-02-26,Wed,Premier League,Home,L,0.0,1.0,Man City,J Gillett,11.0,6.0,12.0,15.0,3.0,0.0,0.0,0.0,2025,Tottenham,2
+2025-02-27,Thu,Premier League,Away,L,0.0,2.0,West Ham,S Attwell,10.0,2.0,6.0,12.0,0.0,0.0,0.0,0.0,2025,Leicester,3
+2025-02-27,Thu,Premier League,Home,W,2.0,0.0,Leicester,S Attwell,8.0,2.0,12.0,6.0,0.0,0.0,0.0,0.0,2025,West Ham,3
+2025-03-08,Sat,Premier League,Away,W,1.0,0.0,Brentford,J Gillett,12.0,4.0,5.0,10.0,2.0,0.0,2.0,0.0,2025,Aston Villa,5
+2025-03-08,Sat,Premier League,Home,L,0.0,1.0,Aston Villa,J Gillett,13.0,3.0,10.0,5.0,2.0,0.0,2.0,0.0,2025,Brentford,5
+2025-03-08,Sat,Premier League,Home,W,2.0,1.0,Fulham,S Barrott,9.0,4.0,6.0,12.0,0.0,0.0,2.0,0.0,2025,Brighton,5
+2025-03-08,Sat,Premier League,Home,W,1.0,0.0,Ipswich,S Hooper,19.0,4.0,8.0,7.0,4.0,0.0,3.0,0.0,2025,Crystal Palace,5
+2025-03-08,Sat,Premier League,Away,D,1.0,1.0,Wolves,S Attwell,12.0,4.0,16.0,11.0,2.0,0.0,2.0,0.0,2025,Everton,5
+2025-03-08,Sat,Premier League,Away,L,1.0,2.0,Brighton,S Barrott,6.0,1.0,12.0,6.0,2.0,0.0,0.0,0.0,2025,Fulham,5
+2025-03-08,Sat,Premier League,Away,L,0.0,1.0,Crystal Palace,S Hooper,15.0,8.0,7.0,8.0,3.0,0.0,4.0,0.0,2025,Ipswich,5
+2025-03-08,Sat,Premier League,Home,W,3.0,1.0,Southampton,L Smith,28.0,7.0,10.0,9.0,2.0,0.0,1.0,0.0,2025,Liverpool,5
+2025-03-08,Sat,Premier League,Away,L,0.0,1.0,Nott'm Forest,C Kavanagh,14.0,3.0,7.0,9.0,2.0,0.0,3.0,0.0,2025,Man City,5
+2025-03-08,Sat,Premier League,Home,W,1.0,0.0,Man City,C Kavanagh,9.0,4.0,9.0,7.0,3.0,0.0,2.0,0.0,2025,Nott'm Forest,5
+2025-03-08,Sat,Premier League,Away,L,1.0,3.0,Liverpool,L Smith,6.0,4.0,9.0,10.0,1.0,0.0,2.0,0.0,2025,Southampton,5
+2025-03-08,Sat,Premier League,Home,D,1.0,1.0,Everton,S Attwell,11.0,3.0,11.0,16.0,2.0,0.0,2.0,0.0,2025,Wolves,5
+2025-03-09,Sun,Premier League,Away,D,1.0,1.0,Man United,A Taylor,17.0,6.0,11.0,8.0,1.0,0.0,0.0,0.0,2025,Arsenal,6
+2025-03-09,Sun,Premier League,Away,D,2.0,2.0,Tottenham,J Brooks,17.0,8.0,16.0,15.0,3.0,0.0,3.0,0.0,2025,Bournemouth,6
+2025-03-09,Sun,Premier League,Home,W,1.0,0.0,Leicester,T Robinson,20.0,7.0,12.0,13.0,1.0,0.0,0.0,0.0,2025,Chelsea,6
+2025-03-09,Sun,Premier League,Away,L,0.0,1.0,Chelsea,T Robinson,3.0,3.0,13.0,12.0,0.0,0.0,1.0,0.0,2025,Leicester,6
+2025-03-09,Sun,Premier League,Home,D,1.0,1.0,Arsenal,A Taylor,10.0,6.0,8.0,11.0,0.0,0.0,1.0,0.0,2025,Man United,6
+2025-03-09,Sun,Premier League,Home,D,2.0,2.0,Bournemouth,J Brooks,12.0,4.0,15.0,16.0,3.0,0.0,3.0,0.0,2025,Tottenham,6
+2025-03-10,Mon,Premier League,Away,W,1.0,0.0,West Ham,M Salisbury,9.0,3.0,15.0,7.0,1.0,0.0,0.0,0.0,2025,Newcastle,0
+2025-03-10,Mon,Premier League,Home,L,0.0,1.0,Newcastle,M Salisbury,9.0,2.0,7.0,15.0,0.0,0.0,1.0,0.0,2025,West Ham,0
+2025-03-15,Sat,Premier League,Home,L,1.0,2.0,Brentford,C Pawson,17.0,5.0,13.0,7.0,3.0,0.0,0.0,0.0,2025,Bournemouth,5
+2025-03-15,Sat,Premier League,Away,W,2.0,1.0,Bournemouth,C Pawson,10.0,4.0,7.0,13.0,0.0,0.0,3.0,0.0,2025,Brentford,5
+2025-03-15,Sat,Premier League,Away,D,2.0,2.0,Man City,S Hooper,15.0,3.0,10.0,10.0,5.0,0.0,2.0,0.0,2025,Brighton,5
+2025-03-15,Sat,Premier League,Home,D,1.0,1.0,West Ham,D Bond,13.0,5.0,12.0,8.0,1.0,0.0,2.0,0.0,2025,Everton,5
+2025-03-15,Sat,Premier League,Home,L,2.0,4.0,Nott'm Forest,M Salisbury,11.0,4.0,4.0,13.0,1.0,0.0,1.0,0.0,2025,Ipswich,5
+2025-03-15,Sat,Premier League,Home,D,2.0,2.0,Brighton,S Hooper,11.0,3.0,10.0,10.0,2.0,0.0,5.0,0.0,2025,Man City,5
+2025-03-15,Sat,Premier League,Away,W,4.0,2.0,Ipswich,M Salisbury,11.0,6.0,13.0,4.0,1.0,0.0,1.0,0.0,2025,Nott'm Forest,5
+2025-03-15,Sat,Premier League,Home,L,1.0,2.0,Wolves,R Jones,10.0,3.0,12.0,13.0,0.0,0.0,0.0,0.0,2025,Southampton,5
+2025-03-15,Sat,Premier League,Away,D,1.0,1.0,Everton,D Bond,10.0,5.0,8.0,12.0,2.0,0.0,1.0,0.0,2025,West Ham,5
+2025-03-15,Sat,Premier League,Away,W,2.0,1.0,Southampton,R Jones,5.0,3.0,13.0,12.0,0.0,0.0,0.0,0.0,2025,Wolves,5
+2025-03-16,Sun,Premier League,Home,W,1.0,0.0,Chelsea,C Kavanagh,12.0,4.0,10.0,13.0,3.0,0.0,3.0,0.0,2025,Arsenal,6
+2025-03-16,Sun,Premier League,Away,L,0.0,1.0,Arsenal,C Kavanagh,8.0,2.0,13.0,10.0,3.0,0.0,3.0,0.0,2025,Chelsea,6
+2025-03-16,Sun,Premier League,Home,W,2.0,0.0,Tottenham,A Madley,13.0,4.0,13.0,10.0,0.0,0.0,0.0,0.0,2025,Fulham,6
+2025-03-16,Sun,Premier League,Home,L,0.0,3.0,Man United,T Bramall,11.0,3.0,6.0,6.0,2.0,0.0,0.0,0.0,2025,Leicester,6
+2025-03-16,Sun,Premier League,Away,W,3.0,0.0,Leicester,T Bramall,18.0,5.0,6.0,6.0,0.0,0.0,2.0,0.0,2025,Man United,6
+2025-03-16,Sun,Premier League,Away,L,0.0,2.0,Fulham,A Madley,12.0,4.0,10.0,13.0,0.0,0.0,0.0,0.0,2025,Tottenham,6
+2025-04-01,Tue,Premier League,Home,W,2.0,1.0,Fulham,J Brooks,17.0,4.0,2.0,10.0,1.0,0.0,2.0,0.0,2025,Arsenal,1
+2025-04-01,Tue,Premier League,Away,L,1.0,2.0,Arsenal,J Brooks,9.0,3.0,10.0,2.0,2.0,0.0,1.0,0.0,2025,Fulham,1
+2025-04-01,Tue,Premier League,Away,L,0.0,1.0,Nott'm Forest,J Gillett,23.0,6.0,12.0,5.0,3.0,0.0,1.0,0.0,2025,Man United,1
+2025-04-01,Tue,Premier League,Home,W,1.0,0.0,Man United,J Gillett,8.0,2.0,5.0,12.0,1.0,0.0,3.0,0.0,2025,Nott'm Forest,1
+2025-04-01,Tue,Premier League,Away,L,0.0,1.0,Wolves,T Harrington,10.0,1.0,12.0,16.0,2.0,0.0,4.0,0.0,2025,West Ham,1
+2025-04-01,Tue,Premier League,Home,W,1.0,0.0,West Ham,T Harrington,9.0,2.0,16.0,12.0,4.0,0.0,2.0,0.0,2025,Wolves,1
+2025-04-02,Wed,Premier League,Away,W,3.0,0.0,Brighton,S Attwell,8.0,5.0,11.0,16.0,3.0,0.0,1.0,0.0,2025,Aston Villa,2
+2025-04-02,Wed,Premier League,Home,L,1.0,2.0,Ipswich,R Jones,24.0,7.0,14.0,15.0,1.0,0.0,2.0,0.0,2025,Bournemouth,2
+2025-04-02,Wed,Premier League,Away,L,1.0,2.0,Newcastle,P Bankes,12.0,3.0,12.0,12.0,1.0,0.0,1.0,0.0,2025,Brentford,2
+2025-04-02,Wed,Premier League,Home,L,0.0,3.0,Aston Villa,S Attwell,11.0,4.0,16.0,11.0,1.0,0.0,3.0,0.0,2025,Brighton,2
+2025-04-02,Wed,Premier League,Away,D,1.0,1.0,Southampton,A Madley,9.0,3.0,9.0,14.0,1.0,0.0,2.0,0.0,2025,Crystal Palace,2
+2025-04-02,Wed,Premier League,Away,L,0.0,1.0,Liverpool,S Barrott,5.0,0.0,11.0,7.0,2.0,0.0,2.0,0.0,2025,Everton,2
+2025-04-02,Wed,Premier League,Away,W,2.0,1.0,Bournemouth,R Jones,10.0,2.0,15.0,14.0,2.0,0.0,1.0,0.0,2025,Ipswich,2
+2025-04-02,Wed,Premier League,Away,L,0.0,2.0,Man City,D England,2.0,0.0,8.0,11.0,4.0,0.0,1.0,0.0,2025,Leicester,2
+2025-04-02,Wed,Premier League,Home,W,1.0,0.0,Everton,S Barrott,17.0,3.0,7.0,11.0,2.0,0.0,2.0,0.0,2025,Liverpool,2
+2025-04-02,Wed,Premier League,Home,W,2.0,0.0,Leicester,D England,18.0,5.0,11.0,8.0,1.0,0.0,4.0,0.0,2025,Man City,2
+2025-04-02,Wed,Premier League,Home,W,2.0,1.0,Brentford,P Bankes,21.0,4.0,12.0,12.0,1.0,0.0,1.0,0.0,2025,Newcastle,2
+2025-04-02,Wed,Premier League,Home,D,1.0,1.0,Crystal Palace,A Madley,8.0,2.0,14.0,9.0,2.0,0.0,1.0,0.0,2025,Southampton,2
+2025-04-03,Thu,Premier League,Home,W,1.0,0.0,Tottenham,C Pawson,11.0,5.0,7.0,16.0,5.0,0.0,5.0,0.0,2025,Chelsea,3
+2025-04-03,Thu,Premier League,Away,L,0.0,1.0,Chelsea,C Pawson,8.0,2.0,16.0,7.0,5.0,0.0,5.0,0.0,2025,Tottenham,3
+2025-04-05,Sat,Premier League,Away,D,1.0,1.0,Everton,D England,14.0,5.0,13.0,17.0,1.0,0.0,3.0,0.0,2025,Arsenal,5
+2025-04-05,Sat,Premier League,Home,W,2.0,1.0,Nott'm Forest,S Hooper,17.0,8.0,7.0,15.0,2.0,0.0,2.0,0.0,2025,Aston Villa,5
+2025-04-05,Sat,Premier League,Away,D,2.0,2.0,West Ham,T Robinson,11.0,4.0,13.0,13.0,2.0,0.0,2.0,0.0,2025,Bournemouth,5
+2025-04-05,Sat,Premier League,Away,L,1.0,2.0,Crystal Palace,A Taylor,11.0,5.0,13.0,12.0,1.0,1.0,0.0,2.0,2025,Brighton,5
+2025-04-05,Sat,Premier League,Home,W,2.0,1.0,Brighton,A Taylor,8.0,3.0,12.0,13.0,0.0,2.0,1.0,1.0,2025,Crystal Palace,5
+2025-04-05,Sat,Premier League,Home,D,1.0,1.0,Arsenal,D England,5.0,2.0,17.0,13.0,3.0,0.0,1.0,0.0,2025,Everton,5
+2025-04-05,Sat,Premier League,Home,L,1.0,2.0,Wolves,P Bankes,6.0,2.0,12.0,16.0,2.0,0.0,2.0,0.0,2025,Ipswich,5
+2025-04-05,Sat,Premier League,Away,L,1.0,2.0,Aston Villa,S Hooper,19.0,3.0,15.0,7.0,2.0,0.0,2.0,0.0,2025,Nott'm Forest,5
+2025-04-05,Sat,Premier League,Home,D,2.0,2.0,Bournemouth,T Robinson,9.0,3.0,13.0,13.0,2.0,0.0,2.0,0.0,2025,West Ham,5
+2025-04-05,Sat,Premier League,Away,W,2.0,1.0,Ipswich,P Bankes,22.0,7.0,16.0,12.0,2.0,0.0,2.0,0.0,2025,Wolves,5
+2025-04-06,Sun,Premier League,Home,D,0.0,0.0,Chelsea,M Oliver,9.0,2.0,12.0,12.0,1.0,0.0,3.0,0.0,2025,Brentford,6
+2025-04-06,Sun,Premier League,Away,D,0.0,0.0,Brentford,M Oliver,21.0,5.0,12.0,12.0,3.0,0.0,1.0,0.0,2025,Chelsea,6
+2025-04-06,Sun,Premier League,Home,W,3.0,2.0,Liverpool,C Kavanagh,12.0,6.0,10.0,9.0,3.0,0.0,0.0,0.0,2025,Fulham,6
+2025-04-06,Sun,Premier League,Away,L,2.0,3.0,Fulham,C Kavanagh,14.0,6.0,9.0,10.0,0.0,0.0,3.0,0.0,2025,Liverpool,6
+2025-04-06,Sun,Premier League,Away,D,0.0,0.0,Man United,J Brooks,9.0,5.0,9.0,13.0,2.0,0.0,3.0,0.0,2025,Man City,6
+2025-04-06,Sun,Premier League,Home,D,0.0,0.0,Man City,J Brooks,13.0,2.0,13.0,9.0,3.0,0.0,2.0,0.0,2025,Man United,6
+2025-04-06,Sun,Premier League,Away,L,1.0,3.0,Tottenham,M Salisbury,12.0,4.0,20.0,16.0,1.0,0.0,1.0,0.0,2025,Southampton,6
+2025-04-06,Sun,Premier League,Home,W,3.0,1.0,Southampton,M Salisbury,13.0,8.0,16.0,20.0,1.0,0.0,1.0,0.0,2025,Tottenham,6
+2025-04-07,Mon,Premier League,Home,L,0.0,3.0,Newcastle,R Jones,7.0,2.0,8.0,9.0,2.0,0.0,0.0,0.0,2025,Leicester,0
+2025-04-07,Mon,Premier League,Away,W,3.0,0.0,Leicester,R Jones,16.0,5.0,9.0,8.0,0.0,0.0,2.0,0.0,2025,Newcastle,0
+2025-04-12,Sat,Premier League,Home,D,1.0,1.0,Brentford,S Hooper,14.0,3.0,7.0,9.0,1.0,0.0,3.0,0.0,2025,Arsenal,5
+2025-04-12,Sat,Premier League,Away,W,3.0,0.0,Southampton,T Bramall,25.0,10.0,4.0,11.0,1.0,0.0,3.0,0.0,2025,Aston Villa,5
+2025-04-12,Sat,Premier League,Away,D,1.0,1.0,Arsenal,S Hooper,3.0,2.0,9.0,7.0,3.0,0.0,1.0,0.0,2025,Brentford,5
+2025-04-12,Sat,Premier League,Home,D,2.0,2.0,Leicester,D Bond,21.0,7.0,9.0,11.0,2.0,0.0,5.0,0.0,2025,Brighton,5
+2025-04-12,Sat,Premier League,Away,L,2.0,5.0,Man City,J Gillett,8.0,3.0,16.0,10.0,3.0,0.0,2.0,0.0,2025,Crystal Palace,5
+2025-04-12,Sat,Premier League,Away,W,1.0,0.0,Nott'm Forest,C Pawson,13.0,5.0,13.0,9.0,3.0,0.0,0.0,0.0,2025,Everton,5
+2025-04-12,Sat,Premier League,Away,D,2.0,2.0,Brighton,D Bond,15.0,6.0,11.0,9.0,5.0,0.0,2.0,0.0,2025,Leicester,5
+2025-04-12,Sat,Premier League,Home,W,5.0,2.0,Crystal Palace,J Gillett,21.0,9.0,10.0,16.0,2.0,0.0,3.0,0.0,2025,Man City,5
+2025-04-12,Sat,Premier League,Home,L,0.0,1.0,Everton,C Pawson,10.0,5.0,9.0,13.0,0.0,0.0,3.0,0.0,2025,Nott'm Forest,5
+2025-04-12,Sat,Premier League,Home,L,0.0,3.0,Aston Villa,T Bramall,7.0,2.0,11.0,4.0,3.0,0.0,1.0,0.0,2025,Southampton,5
+2025-04-13,Sun,Premier League,Home,D,2.0,2.0,Ipswich,S Attwell,34.0,9.0,11.0,7.0,2.0,0.0,2.0,0.0,2025,Chelsea,6
+2025-04-13,Sun,Premier League,Away,D,2.0,2.0,Chelsea,S Attwell,13.0,4.0,7.0,11.0,2.0,0.0,2.0,0.0,2025,Ipswich,6
+2025-04-13,Sun,Premier League,Home,W,2.0,1.0,West Ham,A Madley,15.0,6.0,15.0,8.0,0.0,0.0,2.0,0.0,2025,Liverpool,6
+2025-04-13,Sun,Premier League,Away,L,1.0,4.0,Newcastle,C Kavanagh,9.0,5.0,9.0,7.0,2.0,0.0,0.0,0.0,2025,Man United,6
+2025-04-13,Sun,Premier League,Home,W,4.0,1.0,Man United,C Kavanagh,13.0,6.0,7.0,9.0,0.0,0.0,2.0,0.0,2025,Newcastle,6
+2025-04-13,Sun,Premier League,Away,L,2.0,4.0,Wolves,A Taylor,11.0,4.0,15.0,12.0,2.0,0.0,1.0,0.0,2025,Tottenham,6
+2025-04-13,Sun,Premier League,Away,L,1.0,2.0,Liverpool,A Madley,11.0,4.0,8.0,15.0,2.0,0.0,0.0,0.0,2025,West Ham,6
+2025-04-13,Sun,Premier League,Home,W,4.0,2.0,Tottenham,A Taylor,13.0,5.0,12.0,15.0,1.0,0.0,2.0,0.0,2025,Wolves,6
+2025-04-14,Mon,Premier League,Home,W,1.0,0.0,Fulham,O Oliver,12.0,3.0,11.0,10.0,3.0,0.0,2.0,0.0,2025,Bournemouth,0
+2025-04-14,Mon,Premier League,Away,L,0.0,1.0,Bournemouth,O Oliver,12.0,7.0,10.0,11.0,2.0,0.0,3.0,0.0,2025,Fulham,0
+2025-04-16,Wed,Premier League,Away,L,0.0,5.0,Newcastle,D England,11.0,4.0,15.0,9.0,3.0,0.0,2.0,0.0,2025,Crystal Palace,2
+2025-04-16,Wed,Premier League,Home,W,5.0,0.0,Crystal Palace,D England,14.0,7.0,9.0,15.0,2.0,0.0,3.0,0.0,2025,Newcastle,2
+2025-04-19,Sat,Premier League,Home,W,4.0,1.0,Newcastle,J Gillett,23.0,9.0,9.0,12.0,1.0,0.0,3.0,0.0,2025,Aston Villa,5
+2025-04-19,Sat,Premier League,Away,D,0.0,0.0,Crystal Palace,S Barrott,15.0,4.0,10.0,13.0,4.0,0.0,3.0,1.0,2025,Bournemouth,5
+2025-04-19,Sat,Premier League,Home,W,4.0,2.0,Brighton,T Robinson,16.0,8.0,7.0,11.0,3.0,0.0,3.0,1.0,2025,Brentford,5
+2025-04-19,Sat,Premier League,Away,L,2.0,4.0,Brentford,T Robinson,12.0,3.0,11.0,7.0,3.0,1.0,3.0,0.0,2025,Brighton,5
+2025-04-19,Sat,Premier League,Home,D,0.0,0.0,Bournemouth,S Barrott,5.0,0.0,13.0,10.0,3.0,1.0,4.0,0.0,2025,Crystal Palace,5
+2025-04-19,Sat,Premier League,Home,L,0.0,2.0,Man City,S Hooper,8.0,3.0,7.0,6.0,4.0,0.0,0.0,0.0,2025,Everton,5
+2025-04-19,Sat,Premier League,Away,W,2.0,0.0,Everton,S Hooper,12.0,7.0,6.0,7.0,0.0,0.0,4.0,0.0,2025,Man City,5
+2025-04-19,Sat,Premier League,Away,L,1.0,4.0,Aston Villa,J Gillett,10.0,3.0,12.0,9.0,3.0,0.0,1.0,0.0,2025,Newcastle,5
+2025-04-19,Sat,Premier League,Away,D,1.0,1.0,West Ham,A Kitchen,15.0,4.0,13.0,14.0,1.0,0.0,2.0,0.0,2025,Southampton,5
+2025-04-19,Sat,Premier League,Home,D,1.0,1.0,Southampton,A Kitchen,12.0,4.0,14.0,13.0,2.0,0.0,1.0,0.0,2025,West Ham,5
+2025-04-20,Sun,Premier League,Away,W,4.0,0.0,Ipswich,C Kavanagh,24.0,7.0,7.0,10.0,0.0,0.0,0.0,1.0,2025,Arsenal,6
+2025-04-20,Sun,Premier League,Away,W,2.0,1.0,Fulham,A Taylor,13.0,8.0,9.0,13.0,3.0,0.0,1.0,0.0,2025,Chelsea,6
+2025-04-20,Sun,Premier League,Home,L,1.0,2.0,Chelsea,A Taylor,6.0,1.0,13.0,9.0,1.0,0.0,3.0,0.0,2025,Fulham,6
+2025-04-20,Sun,Premier League,Home,L,0.0,4.0,Arsenal,C Kavanagh,4.0,0.0,10.0,7.0,0.0,1.0,0.0,0.0,2025,Ipswich,6
+2025-04-20,Sun,Premier League,Home,L,0.0,1.0,Liverpool,S Attwell,5.0,0.0,11.0,7.0,1.0,0.0,2.0,0.0,2025,Leicester,6
+2025-04-20,Sun,Premier League,Away,W,1.0,0.0,Leicester,S Attwell,28.0,10.0,7.0,11.0,2.0,0.0,1.0,0.0,2025,Liverpool,6
+2025-04-20,Sun,Premier League,Home,L,0.0,1.0,Wolves,R Jones,12.0,2.0,11.0,18.0,2.0,0.0,3.0,0.0,2025,Man United,6
+2025-04-20,Sun,Premier League,Away,W,1.0,0.0,Man United,R Jones,4.0,2.0,18.0,11.0,3.0,0.0,2.0,0.0,2025,Wolves,6
+2025-04-21,Mon,Premier League,Away,W,2.0,1.0,Tottenham,P Bankes,4.0,3.0,12.0,11.0,4.0,0.0,1.0,0.0,2025,Nott'm Forest,0
+2025-04-21,Mon,Premier League,Home,L,1.0,2.0,Nott'm Forest,P Bankes,22.0,6.0,11.0,12.0,1.0,0.0,4.0,0.0,2025,Tottenham,0
+2025-04-22,Tue,Premier League,Away,L,1.0,2.0,Man City,C Pawson,7.0,3.0,10.0,9.0,3.0,0.0,3.0,0.0,2025,Aston Villa,1
+2025-04-22,Tue,Premier League,Home,W,2.0,1.0,Aston Villa,C Pawson,14.0,6.0,9.0,10.0,3.0,0.0,3.0,0.0,2025,Man City,1
+2025-04-23,Wed,Premier League,Home,D,2.0,2.0,Crystal Palace,M Salisbury,12.0,6.0,4.0,6.0,1.0,0.0,1.0,0.0,2025,Arsenal,2
+2025-04-23,Wed,Premier League,Away,D,2.0,2.0,Arsenal,M Salisbury,15.0,4.0,6.0,4.0,1.0,0.0,1.0,0.0,2025,Crystal Palace,2
+2025-04-26,Sat,Premier League,Home,W,3.0,2.0,West Ham,D England,16.0,9.0,7.0,9.0,1.0,0.0,1.0,0.0,2025,Brighton,5
+2025-04-26,Sat,Premier League,Home,W,1.0,0.0,Everton,C Kavanagh,10.0,7.0,11.0,11.0,0.0,0.0,0.0,0.0,2025,Chelsea,5
+2025-04-26,Sat,Premier League,Away,L,0.0,1.0,Chelsea,C Kavanagh,6.0,3.0,11.0,11.0,0.0,0.0,0.0,0.0,2025,Everton,5
+2025-04-26,Sat,Premier League,Away,W,2.0,1.0,Southampton,T Harrington,26.0,5.0,12.0,10.0,1.0,0.0,1.0,0.0,2025,Fulham,5
+2025-04-26,Sat,Premier League,Away,L,0.0,3.0,Newcastle,M Salisbury,4.0,0.0,9.0,9.0,2.0,1.0,1.0,0.0,2025,Ipswich,5
+2025-04-26,Sat,Premier League,Away,L,0.0,3.0,Wolves,S Barrott,8.0,2.0,17.0,7.0,4.0,0.0,1.0,0.0,2025,Leicester,5
+2025-04-26,Sat,Premier League,Home,W,3.0,0.0,Ipswich,M Salisbury,25.0,5.0,9.0,9.0,1.0,0.0,2.0,1.0,2025,Newcastle,5
+2025-04-26,Sat,Premier League,Home,L,1.0,2.0,Fulham,T Harrington,7.0,3.0,10.0,12.0,1.0,0.0,1.0,0.0,2025,Southampton,5
+2025-04-26,Sat,Premier League,Away,L,2.0,3.0,Brighton,D England,12.0,4.0,9.0,7.0,1.0,0.0,1.0,0.0,2025,West Ham,5
+2025-04-26,Sat,Premier League,Home,W,3.0,0.0,Leicester,S Barrott,20.0,6.0,7.0,17.0,1.0,0.0,4.0,0.0,2025,Wolves,5
+2025-04-27,Sun,Premier League,Home,D,1.0,1.0,Man United,P Bankes,8.0,1.0,11.0,12.0,4.0,1.0,2.0,0.0,2025,Bournemouth,6
+2025-04-27,Sun,Premier League,Home,W,5.0,1.0,Tottenham,T Bramall,25.0,8.0,16.0,9.0,2.0,0.0,1.0,0.0,2025,Liverpool,6
+2025-04-27,Sun,Premier League,Away,D,1.0,1.0,Bournemouth,P Bankes,25.0,6.0,12.0,11.0,2.0,0.0,4.0,1.0,2025,Man United,6
+2025-04-27,Sun,Premier League,Away,L,1.0,5.0,Liverpool,T Bramall,8.0,3.0,9.0,16.0,1.0,0.0,2.0,0.0,2025,Tottenham,6
+2025-05-01,Thu,Premier League,Away,W,2.0,0.0,Nott'm Forest,D England,11.0,3.0,12.0,10.0,5.0,0.0,3.0,0.0,2025,Brentford,3
+2025-05-01,Thu,Premier League,Home,L,0.0,2.0,Brentford,D England,14.0,5.0,10.0,12.0,3.0,0.0,5.0,0.0,2025,Nott'm Forest,3
+2025-05-02,Fri,Premier League,Home,W,1.0,0.0,Wolves,P Bankes,9.0,2.0,7.0,11.0,0.0,0.0,0.0,0.0,2025,Man City,4
+2025-05-02,Fri,Premier League,Away,L,0.0,1.0,Man City,P Bankes,6.0,1.0,11.0,7.0,0.0,0.0,0.0,0.0,2025,Wolves,4
+2025-05-03,Sat,Premier League,Home,L,1.0,2.0,Bournemouth,J Gillett,13.0,4.0,7.0,16.0,0.0,0.0,2.0,0.0,2025,Arsenal,5
+2025-05-03,Sat,Premier League,Home,W,1.0,0.0,Fulham,R Jones,10.0,3.0,6.0,17.0,0.0,0.0,5.0,0.0,2025,Aston Villa,5
+2025-05-03,Sat,Premier League,Away,W,2.0,1.0,Arsenal,J Gillett,9.0,2.0,16.0,7.0,2.0,0.0,0.0,0.0,2025,Bournemouth,5
+2025-05-03,Sat,Premier League,Home,D,2.0,2.0,Ipswich,L Smith,8.0,3.0,12.0,15.0,4.0,0.0,4.0,0.0,2025,Everton,5
+2025-05-03,Sat,Premier League,Away,L,0.0,1.0,Aston Villa,R Jones,11.0,3.0,17.0,6.0,5.0,0.0,0.0,0.0,2025,Fulham,5
+2025-05-03,Sat,Premier League,Away,D,2.0,2.0,Everton,L Smith,12.0,5.0,15.0,12.0,4.0,0.0,4.0,0.0,2025,Ipswich,5
+2025-05-03,Sat,Premier League,Home,W,2.0,0.0,Southampton,D Webb,14.0,4.0,12.0,13.0,1.0,0.0,3.0,0.0,2025,Leicester,5
+2025-05-03,Sat,Premier League,Away,L,0.0,2.0,Leicester,D Webb,8.0,2.0,13.0,12.0,3.0,0.0,1.0,0.0,2025,Southampton,5
+2025-05-04,Sun,Premier League,Home,W,4.0,3.0,Man United,A Taylor,12.0,6.0,8.0,10.0,0.0,0.0,2.0,0.0,2025,Brentford,6
+2025-05-04,Sun,Premier League,Home,D,1.0,1.0,Newcastle,C Pawson,5.0,2.0,15.0,10.0,2.0,0.0,1.0,0.0,2025,Brighton,6
+2025-05-04,Sun,Premier League,Home,W,3.0,1.0,Liverpool,S Hooper,17.0,7.0,10.0,11.0,2.0,0.0,2.0,0.0,2025,Chelsea,6
+2025-05-04,Sun,Premier League,Away,L,1.0,3.0,Chelsea,S Hooper,11.0,2.0,11.0,10.0,2.0,0.0,2.0,0.0,2025,Liverpool,6
+2025-05-04,Sun,Premier League,Away,L,3.0,4.0,Brentford,A Taylor,14.0,5.0,10.0,8.0,2.0,0.0,0.0,0.0,2025,Man United,6
+2025-05-04,Sun,Premier League,Away,D,1.0,1.0,Brighton,C Pawson,13.0,5.0,10.0,15.0,1.0,0.0,2.0,0.0,2025,Newcastle,6
+2025-05-04,Sun,Premier League,Away,D,1.0,1.0,West Ham,M Oliver,7.0,2.0,15.0,18.0,2.0,0.0,2.0,0.0,2025,Tottenham,6
+2025-05-04,Sun,Premier League,Home,D,1.0,1.0,Tottenham,M Oliver,11.0,2.0,18.0,15.0,2.0,0.0,2.0,0.0,2025,West Ham,6
+2025-05-05,Mon,Premier League,Home,D,1.0,1.0,Nott'm Forest,A Madley,20.0,3.0,9.0,15.0,3.0,0.0,8.0,0.0,2025,Crystal Palace,0
+2025-05-05,Mon,Premier League,Away,D,1.0,1.0,Crystal Palace,A Madley,12.0,4.0,15.0,9.0,8.0,0.0,3.0,0.0,2025,Nott'm Forest,0
+2025-05-10,Sat,Premier League,Away,W,1.0,0.0,Bournemouth,S Attwell,6.0,3.0,12.0,19.0,3.0,1.0,4.0,0.0,2025,Aston Villa,5
+2025-05-10,Sat,Premier League,Home,L,0.0,1.0,Aston Villa,S Attwell,10.0,4.0,19.0,12.0,4.0,0.0,3.0,1.0,2025,Bournemouth,5
+2025-05-10,Sat,Premier League,Away,W,1.0,0.0,Ipswich,S Barrott,15.0,5.0,12.0,6.0,4.0,0.0,2.0,0.0,2025,Brentford,5
+2025-05-10,Sat,Premier League,Away,W,2.0,0.0,Wolves,M Oliver,7.0,2.0,12.0,8.0,1.0,0.0,1.0,0.0,2025,Brighton,5
+2025-05-10,Sat,Premier League,Away,W,3.0,1.0,Fulham,M Salisbury,11.0,7.0,9.0,15.0,0.0,0.0,1.0,0.0,2025,Everton,5
+2025-05-10,Sat,Premier League,Home,L,1.0,3.0,Everton,M Salisbury,18.0,6.0,15.0,9.0,1.0,0.0,0.0,0.0,2025,Fulham,5
+2025-05-10,Sat,Premier League,Home,L,0.0,1.0,Brentford,S Barrott,11.0,4.0,6.0,12.0,2.0,0.0,4.0,0.0,2025,Ipswich,5
+2025-05-10,Sat,Premier League,Away,D,0.0,0.0,Southampton,T Robinson,26.0,5.0,8.0,9.0,0.0,0.0,2.0,0.0,2025,Man City,5
+2025-05-10,Sat,Premier League,Home,D,0.0,0.0,Man City,T Robinson,2.0,0.0,9.0,8.0,2.0,0.0,0.0,0.0,2025,Southampton,5
+2025-05-10,Sat,Premier League,Home,L,0.0,2.0,Brighton,M Oliver,10.0,3.0,8.0,12.0,1.0,0.0,1.0,0.0,2025,Wolves,5
+2025-05-11,Sun,Premier League,Away,D,2.0,2.0,Liverpool,A Taylor,15.0,7.0,10.0,13.0,1.0,1.0,1.0,0.0,2025,Arsenal,6
+2025-05-11,Sun,Premier League,Away,L,0.0,2.0,Newcastle,J Brooks,10.0,3.0,13.0,9.0,2.0,1.0,4.0,0.0,2025,Chelsea,6
+2025-05-11,Sun,Premier League,Away,W,2.0,0.0,Tottenham,C Kavanagh,23.0,10.0,10.0,12.0,1.0,0.0,1.0,0.0,2025,Crystal Palace,6
+2025-05-11,Sun,Premier League,Away,D,2.0,2.0,Nott'm Forest,T Harrington,10.0,6.0,11.0,11.0,3.0,0.0,3.0,0.0,2025,Leicester,6
+2025-05-11,Sun,Premier League,Home,D,2.0,2.0,Arsenal,A Taylor,14.0,5.0,13.0,10.0,1.0,0.0,1.0,1.0,2025,Liverpool,6
+2025-05-11,Sun,Premier League,Home,L,0.0,2.0,West Ham,J Gillett,20.0,5.0,3.0,13.0,0.0,0.0,1.0,0.0,2025,Man United,6
+2025-05-11,Sun,Premier League,Home,W,2.0,0.0,Chelsea,J Brooks,15.0,6.0,9.0,13.0,4.0,0.0,2.0,1.0,2025,Newcastle,6
+2025-05-11,Sun,Premier League,Home,D,2.0,2.0,Leicester,T Harrington,15.0,4.0,11.0,11.0,3.0,0.0,3.0,0.0,2025,Nott'm Forest,6
+2025-05-11,Sun,Premier League,Home,L,0.0,2.0,Crystal Palace,C Kavanagh,8.0,1.0,12.0,10.0,1.0,0.0,1.0,0.0,2025,Tottenham,6
+2025-05-11,Sun,Premier League,Away,W,2.0,0.0,Man United,J Gillett,9.0,4.0,13.0,3.0,1.0,0.0,0.0,0.0,2025,West Ham,6
+2025-05-16,Fri,Premier League,Home,W,2.0,0.0,Tottenham,P Bankes,18.0,7.0,5.0,12.0,1.0,0.0,2.0,0.0,2025,Aston Villa,4
+2025-05-16,Fri,Premier League,Home,W,1.0,0.0,Man United,C Kavanagh,11.0,3.0,10.0,14.0,1.0,0.0,6.0,0.0,2025,Chelsea,4
+2025-05-16,Fri,Premier League,Away,L,0.0,1.0,Chelsea,C Kavanagh,4.0,1.0,14.0,10.0,6.0,0.0,1.0,0.0,2025,Man United,4
+2025-05-16,Fri,Premier League,Away,L,0.0,2.0,Aston Villa,P Bankes,3.0,1.0,12.0,5.0,2.0,0.0,1.0,0.0,2025,Tottenham,4
+2025-05-18,Sun,Premier League,Home,W,1.0,0.0,Newcastle,S Hooper,12.0,4.0,9.0,9.0,3.0,0.0,3.0,0.0,2025,Arsenal,6
+2025-05-18,Sun,Premier League,Home,L,2.0,3.0,Fulham,J Gillett,11.0,6.0,12.0,8.0,4.0,0.0,4.0,0.0,2025,Brentford,6
+2025-05-18,Sun,Premier League,Home,W,2.0,0.0,Southampton,M Oliver,13.0,5.0,6.0,10.0,1.0,0.0,1.0,0.0,2025,Everton,6
+2025-05-18,Sun,Premier League,Away,W,3.0,2.0,Brentford,J Gillett,16.0,7.0,8.0,12.0,4.0,0.0,4.0,0.0,2025,Fulham,6
+2025-05-18,Sun,Premier League,Away,L,0.0,2.0,Leicester,A Kitchen,20.0,2.0,12.0,15.0,0.0,0.0,1.0,0.0,2025,Ipswich,6
+2025-05-18,Sun,Premier League,Home,W,2.0,0.0,Ipswich,A Kitchen,9.0,3.0,15.0,12.0,1.0,0.0,0.0,0.0,2025,Leicester,6
+2025-05-18,Sun,Premier League,Away,L,0.0,1.0,Arsenal,S Hooper,14.0,5.0,9.0,9.0,3.0,0.0,3.0,0.0,2025,Newcastle,6
+2025-05-18,Sun,Premier League,Away,W,2.0,1.0,West Ham,S Barrott,10.0,5.0,7.0,14.0,3.0,0.0,6.0,0.0,2025,Nott'm Forest,6
+2025-05-18,Sun,Premier League,Away,L,0.0,2.0,Everton,M Oliver,6.0,2.0,10.0,6.0,1.0,0.0,1.0,0.0,2025,Southampton,6
+2025-05-18,Sun,Premier League,Home,L,1.0,2.0,Nott'm Forest,S Barrott,16.0,5.0,14.0,7.0,6.0,0.0,3.0,0.0,2025,West Ham,6
+2025-05-19,Mon,Premier League,Home,W,3.0,2.0,Liverpool,J Brooks,25.0,12.0,9.0,8.0,1.0,0.0,0.0,0.0,2025,Brighton,0
+2025-05-19,Mon,Premier League,Away,L,2.0,3.0,Brighton,J Brooks,18.0,5.0,8.0,9.0,0.0,0.0,1.0,0.0,2025,Liverpool,0
+2025-05-20,Tue,Premier League,Away,L,1.0,3.0,Man City,T Bramall,8.0,2.0,13.0,7.0,3.0,1.0,1.0,1.0,2025,Bournemouth,1
+2025-05-20,Tue,Premier League,Home,W,4.0,2.0,Wolves,D Webb,14.0,10.0,14.0,8.0,1.0,0.0,2.0,0.0,2025,Crystal Palace,1
+2025-05-20,Tue,Premier League,Home,W,3.0,1.0,Bournemouth,T Bramall,12.0,5.0,7.0,13.0,1.0,1.0,3.0,1.0,2025,Man City,1
+2025-05-20,Tue,Premier League,Away,L,2.0,4.0,Crystal Palace,D Webb,12.0,3.0,8.0,14.0,2.0,0.0,1.0,0.0,2025,Wolves,1
+2025-05-25,Sun,Premier League,Away,W,2.0,1.0,Southampton,D Bond,23.0,8.0,8.0,7.0,0.0,0.0,0.0,0.0,2025,Arsenal,6
+2025-05-25,Sun,Premier League,Away,L,0.0,2.0,Man United,T Bramall,6.0,1.0,10.0,10.0,2.0,1.0,2.0,0.0,2025,Aston Villa,6
+2025-05-25,Sun,Premier League,Home,W,2.0,0.0,Leicester,L Smith,20.0,7.0,19.0,16.0,0.0,0.0,2.0,0.0,2025,Bournemouth,6
+2025-05-25,Sun,Premier League,Away,D,1.0,1.0,Wolves,C Pawson,13.0,7.0,9.0,7.0,1.0,0.0,2.0,0.0,2025,Brentford,6
+2025-05-25,Sun,Premier League,Away,W,4.0,1.0,Tottenham,R Jones,23.0,8.0,8.0,13.0,1.0,0.0,3.0,0.0,2025,Brighton,6
+2025-05-25,Sun,Premier League,Away,W,1.0,0.0,Nott'm Forest,A Taylor,6.0,2.0,11.0,10.0,2.0,0.0,2.0,0.0,2025,Chelsea,6
+2025-05-25,Sun,Premier League,Away,D,1.0,1.0,Liverpool,D England,8.0,5.0,10.0,7.0,0.0,0.0,1.0,1.0,2025,Crystal Palace,6
+2025-05-25,Sun,Premier League,Away,W,1.0,0.0,Newcastle,T Harrington,14.0,6.0,9.0,12.0,4.0,0.0,1.0,0.0,2025,Everton,6
+2025-05-25,Sun,Premier League,Home,L,0.0,2.0,Man City,A Madley,13.0,3.0,11.0,5.0,0.0,0.0,0.0,0.0,2025,Fulham,6
+2025-05-25,Sun,Premier League,Home,L,1.0,3.0,West Ham,T Robinson,14.0,4.0,10.0,9.0,1.0,0.0,1.0,0.0,2025,Ipswich,6
+2025-05-25,Sun,Premier League,Away,L,0.0,2.0,Bournemouth,L Smith,3.0,0.0,16.0,19.0,2.0,0.0,0.0,0.0,2025,Leicester,6
+2025-05-25,Sun,Premier League,Home,D,1.0,1.0,Crystal Palace,D England,14.0,3.0,7.0,10.0,1.0,1.0,0.0,0.0,2025,Liverpool,6
+2025-05-25,Sun,Premier League,Away,W,2.0,0.0,Fulham,A Madley,20.0,5.0,5.0,11.0,0.0,0.0,0.0,0.0,2025,Man City,6
+2025-05-25,Sun,Premier League,Home,W,2.0,0.0,Aston Villa,T Bramall,25.0,10.0,10.0,10.0,2.0,0.0,2.0,1.0,2025,Man United,6
+2025-05-25,Sun,Premier League,Home,L,0.0,1.0,Everton,T Harrington,17.0,6.0,12.0,9.0,1.0,0.0,4.0,0.0,2025,Newcastle,6
+2025-05-25,Sun,Premier League,Home,L,0.0,1.0,Chelsea,A Taylor,10.0,2.0,10.0,11.0,2.0,0.0,2.0,0.0,2025,Nott'm Forest,6
+2025-05-25,Sun,Premier League,Home,L,1.0,2.0,Arsenal,D Bond,7.0,2.0,7.0,8.0,0.0,0.0,0.0,0.0,2025,Southampton,6
+2025-05-25,Sun,Premier League,Home,L,1.0,4.0,Brighton,R Jones,4.0,2.0,13.0,8.0,3.0,0.0,1.0,0.0,2025,Tottenham,6
+2025-05-25,Sun,Premier League,Away,W,3.0,1.0,Ipswich,T Robinson,10.0,6.0,9.0,10.0,1.0,0.0,1.0,0.0,2025,West Ham,6
+2025-05-25,Sun,Premier League,Home,D,1.0,1.0,Brentford,C Pawson,18.0,6.0,7.0,9.0,2.0,0.0,1.0,0.0,2025,Wolves,6
