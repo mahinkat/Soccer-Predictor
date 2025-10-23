@@ -1,20 +1,15 @@
 import pandas as pd
-import platform
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_score
 import numpy as np
 import warnings
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from xgboost import XGBClassifier
+from sklearn.metrics import precision_score, make_scorer
+from sklearn.model_selection import cross_val_score
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-    
-
-df = pd.read_csv("premierscsv/season-2425.csv")
-home_teams = df['HomeTeam'].unique()
-away_teams = df['AwayTeam'].unique()
-teams = pd.unique(pd.concat([pd.Series(home_teams), pd.Series(away_teams)]))
-
-
+# File mapping
 FILE_MAP = {
     "premierscsv/season-2425.csv": 2025,
     "premierscsv/season-2324.csv": 2024,
@@ -29,280 +24,173 @@ FINAL_COLS = [
     'yc_opp', 'rc_opp', 'season', 'team', 'day_code'
 ]
 
+# Determine result for Home/Away
 def get_result(ftr, venue):
     if venue == 'Home':
-        if ftr == 'H': return 'W'
-        elif ftr == 'A': return 'L'
-        else: return 'D'
+        return 'W' if ftr=='H' else 'L' if ftr=='A' else 'D'
     elif venue == 'Away':
-        if ftr == 'A': return 'W'
-        elif ftr == 'H': return 'L'
-        else: return 'D'
+        return 'W' if ftr=='A' else 'L' if ftr=='H' else 'D'
     return None
 
+# Process season CSV
 def process_season_data(file_name, season_year):
     try:
-        season_df = pd.read_csv(file_name)
-
-        season_df['date'] = pd.to_datetime(season_df['Date'], format='%d/%m/%y').dt.strftime('%Y-%m-%d')
-        season_df['season'] = season_year
+        df = pd.read_csv(file_name)
+        df['date'] = pd.to_datetime(df['Date'], format='%d/%m/%y').dt.strftime('%Y-%m-%d')
+        df['season'] = season_year
 
         home_df = pd.DataFrame({
-            'date': season_df['date'],
-            'team': season_df['HomeTeam'],
-            'opponent': season_df['AwayTeam'],
-            'venue': 'Home',
-            'gf': season_df['FTHG'],
-            'ga': season_df['FTAG'],
-            'result': season_df.apply(lambda row: get_result(row['FTR'], 'Home'), axis=1),
-            'sh': season_df['HS'],
-            'sot': season_df['HST'],
-            'referee': season_df['Referee'],
-            'season': season_df['season'],
-            'foul_comm': season_df['HF'],
-            'foul_rec': season_df['AF'],
-            'yc_rec': season_df['HY'],
-            'rc_rec': season_df['HR'],
-            'yc_opp': season_df['AY'],
-            'rc_opp': season_df['AR']
+            'date': df['date'], 'team': df['HomeTeam'], 'opponent': df['AwayTeam'], 'venue': 'Home',
+            'gf': df['FTHG'], 'ga': df['FTAG'],
+            'result': df.apply(lambda row: get_result(row['FTR'], 'Home'), axis=1),
+            'sh': df['HS'], 'sot': df['HST'], 'referee': df['Referee'],
+            'season': df['season'], 'foul_comm': df['HF'], 'foul_rec': df['AF'],
+            'yc_rec': df['HY'], 'rc_rec': df['HR'], 'yc_opp': df['AY'], 'rc_opp': df['AR']
         })
 
         away_df = pd.DataFrame({
-            'date': season_df['date'],
-            'team': season_df['AwayTeam'],
-            'opponent': season_df['HomeTeam'],
-            'venue': 'Away',
-            'gf': season_df['FTAG'],
-            'ga': season_df['FTHG'],
-            'result': season_df.apply(lambda row: get_result(row['FTR'], 'Away'), axis=1),
-            'sh': season_df['AS'],
-            'sot': season_df['AST'],
-            'referee': season_df['Referee'],
-            'season': season_df['season'],
-            'foul_comm': season_df['AF'],
-            'foul_rec': season_df['HF'],
-            'yc_rec': season_df['AY'],
-            'rc_rec': season_df['AR'],
-            'yc_opp': season_df['HY'],
-            'rc_opp': season_df['HR']
+            'date': df['date'], 'team': df['AwayTeam'], 'opponent': df['HomeTeam'], 'venue': 'Away',
+            'gf': df['FTAG'], 'ga': df['FTHG'],
+            'result': df.apply(lambda row: get_result(row['FTR'], 'Away'), axis=1),
+            'sh': df['AS'], 'sot': df['AST'], 'referee': df['Referee'],
+            'season': df['season'], 'foul_comm': df['AF'], 'foul_rec': df['HF'],
+            'yc_rec': df['AY'], 'rc_rec': df['AR'], 'yc_opp': df['HY'], 'rc_opp': df['HR']
         })
 
-        combined_df = pd.concat([home_df, away_df], ignore_index=True)
+        combined = pd.concat([home_df, away_df], ignore_index=True)
+        combined['comp'] = 'Premier League'
+        combined['day'] = pd.to_datetime(combined['date']).dt.day_name().str[:3]
+        combined['day_code'] = pd.to_datetime(combined['date']).dt.dayofweek
 
-        combined_df['comp'] = 'Premier League'
-        combined_df['date_dt'] = pd.to_datetime(combined_df['date'])
-        combined_df['day'] = combined_df['date_dt'].dt.day_name().str[:3]
-        combined_df['day_code'] = combined_df['date_dt'].dt.dayofweek
-        combined_df = combined_df.drop(columns=['date_dt'])
+        for col in ['gf','ga','sh','sot','foul_comm','foul_rec','yc_rec','rc_rec','yc_opp','rc_opp']:
+            combined[col] = combined[col].astype(float)
 
-        float_cols = [
-            'gf', 'ga', 'sh', 'sot', 'foul_comm', 'foul_rec', 'yc_rec', 'rc_rec', 'yc_opp', 'rc_opp'
-        ]
-        for col in float_cols:
-            combined_df[col] = combined_df[col].astype(float)
-
-        final_df = combined_df[FINAL_COLS].copy()
-
-        return final_df
+        return combined[FINAL_COLS]
     except Exception as e:
-        print(f"Error processing file {file_name}: {e}")
+        print(f"Error processing {file_name}: {e}")
         return pd.DataFrame(columns=FINAL_COLS)
 
-all_seasons_data = []
+# Combine all seasons
+all_data = [process_season_data(f, y) for f, y in FILE_MAP.items()]
+combined_data = pd.concat(all_data, ignore_index=True)
+combined_data.sort_values(by=['date','team'], inplace=True, ignore_index=True)
 
-for file_name, season_year in FILE_MAP.items():
-    processed_df = process_season_data(file_name, season_year)
-    all_seasons_data.append(processed_df)
-
-combined_data = pd.concat(all_seasons_data, ignore_index=True)
-
-combined_data.sort_values(by=['date', 'team'], inplace=True, ignore_index=True)
-
-combined_file_name = 'premierscsv/all_seasons_combined_sorted.csv'
-combined_data.to_csv(combined_file_name, index=False)
-
+# Encode categorical features
 combined_data["venue_code"] = combined_data["venue"].astype("category").cat.codes
 combined_data["opp_code"] = combined_data["opponent"].astype("category").cat.codes
-combined_data["day_code"] = pd.to_datetime(combined_data["date"]).dt.dayofweek
-combined_data["target"] = (combined_data["result"] == "W").astype("int")
-
-rf = RandomForestClassifier(n_estimators = 40, min_samples_split = 300, random_state=1)
-train = combined_data[combined_data["date"] < '2023-01-01']
-test = combined_data[combined_data["date"] > '2023-01-01']
+combined_data["target"] = (combined_data["result"]=="W").astype(int)
 predictors = ["venue_code", "opp_code", "day_code"]
-rf.fit(train[predictors], train["target"])
-preds = rf.predict(test[predictors])
-acc = accuracy_score(test["target"], preds)
-combined = pd.DataFrame(dict(actual=test["target"], prediction=preds))
-pd.crosstab(index=combined["actual"], columns=combined["prediction"])
-precision_score(test["target"], preds)
 
-grouped_matches = combined_data.groupby("team")
-group = grouped_matches.get_group("Man United")
-def rolling_averages(group, cols, new_cols):
+# Rolling averages
+def rolling_averages(group, cols, new_cols, window=3):
     group = group.sort_values("date")
-    rolling_stats = group[cols].rolling(3, closed='left').mean()
-    group[new_cols] = rolling_stats
-    group = group.dropna(subset=new_cols)
-    return group
+    group[new_cols] = group[cols].rolling(window, closed='left').mean()
+    return group.dropna(subset=new_cols)
+
 cols = ["gf","ga","sh","sot"]
 new_cols = [f"{c}_rolling" for c in cols]
-rolling_averages(group,cols,new_cols)
-matches_rolling = combined_data.groupby("team").apply(lambda x: rolling_averages(x,cols,new_cols))
-matches_rolling = matches_rolling.droplevel('team')
+matches_rolling = combined_data.groupby("team").apply(lambda x: rolling_averages(x, cols, new_cols)).droplevel(0)
 matches_rolling.index = range(matches_rolling.shape[0])
 
-def make_predictions(data,predictors):
-    train = data[data["date"] < '2023-01-01']
-    test = data[data["date"] > '2023-01-01']
-    rf.fit(train[predictors], train["target"])
-    preds = rf.predict(test[predictors])
-    combined = pd.DataFrame(dict(actual = test["target"], predicted = preds), index = test.index)
-    precision = precision_score(test["target"], preds)
-    return combined, precision
+# Define models
+models = {
+    "Random Forest": RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1),
+    "XGBoost": XGBClassifier(n_estimators=100, max_depth=1, eval_metric='logloss'),
+    "Logistic Regression": LogisticRegression(max_iter=500)
+}
 
-combined, precision = make_predictions(matches_rolling, predictors + new_cols)
-combined = combined.merge(matches_rolling[["date","team","opponent", "result"]], left_index=True, right_index=True)
-class MissingDict(dict):
-    __missing__ = lambda self, key: key
+# Cross-validation
+def cross_val_precision(model, data, predictors, cv=5):
+    scorer = make_scorer(precision_score, zero_division=0)
+    scores = cross_val_score(model, data[predictors], data['target'], cv=cv, scoring=scorer)
+    return scores.mean(), scores.std()
 
-map_values = {"Brighton": "Brighton"}
-mapping = MissingDict(**map_values)
-combined["new_team"] = combined["team"].map(mapping)
-merged = combined.merge(combined, left_on=["date", "new_team"], right_on=["date", "opponent"])
-merged[(merged["predicted_x"] == 1) & (merged["predicted_y"] ==0)]["actual_x"].value_counts()
-merged.to_csv("premierscsv/merged.csv",index=False)
+# Evaluate best model
+best_model_name = None
+best_score = -1
+for name, model in models.items():
+    mean, std = cross_val_precision(model, matches_rolling, predictors+new_cols)
+    print(f"{name}: Precision = {mean:.3f} ± {std:.3f}")
+    if mean > best_score:
+        best_score = mean
+        best_model_name = name
 
+print(f"\n✅ Best model based on CV precision: {best_model_name}")
+
+# Train best model
+train = matches_rolling[matches_rolling["date"]<'2023-01-01']
+test = matches_rolling[matches_rolling["date"]>'2023-01-01']
+best_model = models[best_model_name]
+best_model.fit(train[predictors+new_cols], train['target'])
+preds = best_model.predict(test[predictors+new_cols])
+
+# Prepare for league simulation
+combined_merged = pd.DataFrame({
+    'team_x': test['team'],
+    'opponent_x': test['opponent'],
+    'predicted_x': preds
+})
+
+# Simulation
 POINTS_FOR_WIN = 3
 POINTS_FOR_DRAW = 1
-POINTS_FOR_LOSS = 0
-GAMES_PER_PREMIER_LEAGUE_SEASON = 38 
-TOTAL_FIXTURES_PER_SEASON = 380 
-
+GAMES_PER_PREMIER_LEAGUE_SEASON = 38
 DRAW_PROBABILITY_ON_ZERO = 0.25
 
-def simulate_league_cumulative(df):
-    print(f"--- Running Cumulative Simulation based on {len(df)} Fixtures ---")
-
-    home_teams = df['team_x'].unique()
-    away_teams = df['opponent_x'].unique()
-    all_teams = sorted(list(set(list(home_teams) + list(away_teams))))
-
-    league_table = {}
-    for team in all_teams:
-        league_table[team] = {
-            'Points': 0,
-            'Played': 0,
-            'Wins': 0,
-            'Draws': 0,
-            'Losses': 0,        }
-
-    for index, row in df.iterrows():
-        home_team = row['team_x']
-        away_team = row['opponent_x']
-        prediction = int(row['predicted_x']) 
-
-        league_table[home_team]['Played'] += 1
-        league_table[away_team]['Played'] += 1
-
-        if prediction == 1:
-            league_table[home_team]['Points'] += POINTS_FOR_WIN
-            league_table[home_team]['Wins'] += 1
-            league_table[away_team]['Losses'] += 1
-
-        elif prediction == 0:
-           
+def simulate_league(df):
+    league_table = {team:{'Points':0,'Played':0,'Wins':0,'Draws':0,'Losses':0} 
+                    for team in pd.unique(df['team_x'].tolist()+df['opponent_x'].tolist())}
+    
+    for _, row in df.iterrows():
+        home, away, pred = row['team_x'], row['opponent_x'], int(row['predicted_x'])
+        league_table[home]['Played'] += 1
+        league_table[away]['Played'] += 1
+        if pred == 1:
+            league_table[home]['Points'] += POINTS_FOR_WIN
+            league_table[home]['Wins'] += 1
+            league_table[away]['Losses'] += 1
+        else:
             if np.random.rand() < DRAW_PROBABILITY_ON_ZERO:
-                league_table[home_team]['Draws'] += 1
-                league_table[home_team]['Points'] += POINTS_FOR_DRAW
-                
-                league_table[away_team]['Draws'] += 1
-                league_table[away_team]['Points'] += POINTS_FOR_DRAW
+                league_table[home]['Draws'] += 1
+                league_table[home]['Points'] += POINTS_FOR_DRAW
+                league_table[away]['Draws'] += 1
+                league_table[away]['Points'] += POINTS_FOR_DRAW
             else:
-                league_table[home_team]['Losses'] += 1
-                
-                league_table[away_team]['Points'] += POINTS_FOR_WIN
-                league_table[away_team]['Wins'] += 1
+                league_table[home]['Losses'] += 1
+                league_table[away]['Wins'] += 1
+                league_table[away]['Points'] += POINTS_FOR_WIN
 
+    table = pd.DataFrame.from_dict(league_table, orient='index')
+    table = table[table['Played']>0]
+    norm_factor = table['Played']/GAMES_PER_PREMIER_LEAGUE_SEASON
+    for col in ['Wins','Draws','Losses','Points']:
+        table[f'Avg. {col}'] = table[col]/norm_factor
+    table['Avg. Played'] = GAMES_PER_PREMIER_LEAGUE_SEASON
+    final_cols = ['Avg. Played','Avg. Wins','Avg. Draws','Avg. Losses','Avg. Points']
+    table = table[final_cols].sort_values(by=['Avg. Points','Avg. Wins'], ascending=[False,False])
+    return table
 
-    final_table = pd.DataFrame.from_dict(league_table, orient='index')
-    final_table = final_table[final_table['Played'] > 0]
-    
-    return final_table
+# Run simulation
+final_table = simulate_league(combined_merged)
+num_seasons_data = round(final_table['Avg. Played'].max()/GAMES_PER_PREMIER_LEAGUE_SEASON)
+if num_seasons_data < 1: num_seasons_data = 1
+final_table_display = final_table.round(2)
 
+# Print final standings
+print("\n" + "="*70)
+print(f"  PREDICTED PREMIER LEAGUE TABLE ({best_model_name}, Averaged over Data Span of {num_seasons_data} Seasons)")
+print("="*70)
+print(final_table_display.to_string())
+print("="*70)
 
-try:
-    df_predictions = pd.read_csv('premierscsv/merged.csv')
-
-    df_predictions.columns = df_predictions.columns.str.strip().str.lower()
-    
-    required_cols_lower = ['team_x', 'opponent_x', 'predicted_x']
-    if not all(col in df_predictions.columns for col in required_cols_lower):
-        raise ValueError(f"CSV file must contain columns: {required_cols_lower}")
-
-    cumulative_table = simulate_league_cumulative(df_predictions)
-
-    if cumulative_table.empty:
-        print("\nNo teams found in the prediction data.")
-        raise SystemExit(0) 
-        
-    averaged_table = cumulative_table.copy()
-
-    normalization_factor = averaged_table['Played'] / GAMES_PER_PREMIER_LEAGUE_SEASON
-    
-    print(f"\nNOTE: Normalizing each team's statistics to an average single {GAMES_PER_PREMIER_LEAGUE_SEASON}-match season.")
-
-    cols_to_normalize = ['Wins', 'Draws', 'Losses', 'Points']
-    
-    for col in cols_to_normalize:
-        new_col_name = f'Avg. {col}'
-        averaged_table[new_col_name] = averaged_table[col].div(normalization_factor).fillna(0) 
-
-    averaged_table['Avg. Played'] = float(GAMES_PER_PREMIER_LEAGUE_SEASON)
-    final_cols = ['Avg. Played', 'Avg. Wins', 'Avg. Draws', 'Avg. Losses', 'Avg. Points']
-    final_table = averaged_table[final_cols].copy()
-
-    final_table = final_table.sort_values(
-        by=['Avg. Points', 'Avg. Wins'], 
-        ascending=[False, False]
-    )
-
-    final_table_display = final_table.round(2)
-    
-    max_played = cumulative_table['Played'].max()
-    num_seasons_data = round(max_played / GAMES_PER_PREMIER_LEAGUE_SEASON)
-    if num_seasons_data < 1: num_seasons_data = 1
-
-    print("\n" + "="*70)
-    print(f"  PREDICTED PREMIER LEAGUE TABLE (Averaged over Data Span of {num_seasons_data} Seasons)")
-    print("="*70)
-    print(final_table_display.to_string())
-    print("="*70)
-
-    if not final_table.empty:
-        print(f"\n--- Average Predicted Standings ---\n")
-        avg_champ = final_table.index[0]
-        avg_points = final_table_display['Avg. Points'].iloc[0] 
-        print(f"Predicted Champion (Average Season): {avg_champ} with {avg_points} points.")
-    
-        if len(final_table) >= 20:
-             relegation_teams = final_table.index[-3:].tolist()
-             print(f"Predicted Relegation (Average Season): {', '.join(relegation_teams)}.")
-
-        champions_league = final_table.index[:4].tolist()
-        print(f"Predicted UEFA Champions League Group Stage (Average Season): {', '.join(champions_league)}.")
-
-        europa_league= final_table.index[5]
-        europa_league2 = final_table.index[6]
-        print(f"Predicted Europa League Group Stage (Average Season): {europa_league}, {europa_league2}")
-        
-
-except FileNotFoundError:
-    print(f"Error: The file 'premiermerged.csv' was not found.")
-    print("Please make sure 'premiermerged.csv' is in the same directory as this script.")
-except ValueError as e:
-    print(f"Data Error: {e}")
-except SystemExit:
-    pass
-except Exception as e:
-    print(f"An unexpected error occurred: {e}")
+if not final_table.empty:
+    avg_champ = final_table.index[0]
+    avg_points = final_table_display['Avg. Points'].iloc[0]
+    print(f"\nPredicted Champion (Average Season): {avg_champ} with {avg_points} points.")
+    if len(final_table) >= 20:
+        relegation_teams = final_table.index[-3:].tolist()
+        print(f"Predicted Relegation (Average Season): {', '.join(relegation_teams)}.")
+    champions_league = final_table.index[:4].tolist()
+    print(f"Predicted UEFA Champions League Group Stage (Average Season): {', '.join(champions_league)}.")
+    europa_league, europa_league2 = final_table.index[4:6]
+    print(f"Predicted Europa League Group Stage (Average Season): {europa_league}, {europa_league2}")
