@@ -17,4 +17,3 @@ Select which league you want to predict
 View the predictions
 
 Author: mahinkat
-
